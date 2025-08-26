@@ -1,0 +1,36 @@
+name: Generate Snake
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 12 saatte bir çalışır
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: yuefdev
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
+        if: always()
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
