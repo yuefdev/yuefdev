@@ -3,10 +3,6 @@ Bu, GitHub profiliniz için modern ve göz alıcı bir README şablonudur.
 Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak şekilde oluşturun (örn. github.com/<kullanici-adi>/<kullanici-adi>). Aşağıdaki PLACEHOLDER alanlarını doldurun.
 -->
 
-<p align="center">
-  <a href="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml">
-    <img src="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
-  </a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:00D1B2,100:0ea5e9&text=Selamlar,%20ben%20Yusuf&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=AI%20Software%20Engineer&descAlign=50&descAlignY=70" alt="Banner: Selamlar, ben Yusuf | AI Software Engineer" />
