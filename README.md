@@ -1,3 +1,7 @@
+<!--
+Bu, GitHub profiliniz için modern ve göz alıcı bir README şablonudur.
+Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak şekilde oluşturun (örn. github.com/<kullanici-adi>/<kullanici-adi>). Aşağıdaki PLACEHOLDER alanlarını doldurun.
+-->
 
 <p align="center">
   <a href="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml">
@@ -28,9 +32,9 @@
 ## 🚀 Hakkımda
 
 ```yaml
-ad: <ADINIZ>
-rol: <Rolünüz/Ünvanınız>
-lokasyon: <Şehir, Ülke>
+ad: yusuf
+rol: AI Software Engineer
+lokasyon: İstanbul, Türkiye
 odağım:
   - Web / Mobil (React, Next.js, React Native)
   - Backend (Node.js, .NET, Python)
@@ -115,3 +119,4 @@ mail: ergyusuf34@gmail.com
   <a href="https://instagram.com/sonfeciaraba" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ergyusuf34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
