@@ -7,6 +7,9 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
   <a href="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml">
     <img src="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
   </a>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Selamlar%2C+ben+Yusuf;AI+Software+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:00D1B2,100:0ea5e9&text=Selamlar,%20ben%20Yusuf&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=AI%20Software%20Engineer&descAlign=50&descAlignY=70" alt="Banner: Selamlar, ben Yusuf | AI Software Engineer" />
@@ -63,7 +66,21 @@ mail: ergyusuf34@gmail.com
 
 ### 📝 Kısa Özet
 
-Selamlar, ben Yusuf. Yaklaşık 4 yıldır evde kendi başıma hobilerimle ilgileniyorum. Otomasyon sistemleri, e-ticaret, bilgisayar ve telefon teknik servisi üzerine çalışıyorum. Aynı zamanda okuyup çalışmaya devam ediyorum. Şu anda ise kendi geliştirdiğim yapay zeka aracıyla uygulamalar, web siteleri ve otomasyon sistemleri üzerine yoğunlaşıyorum.
+> 💡
+> <b>Selamlar, ben Yusuf.</b> Otomasyon sistemleri, e‑ticaret ve teknik servis deneyimimi
+> AI odaklı ürün geliştirme ile birleştiriyorum. Kendi geliştirdiğim yapay zeka
+> aracıyla uygulamalar, web siteleri ve uçtan uca otomasyon akışları üretiyorum.
+> Detaylarda titizim; performans, ölçeklenebilirlik ve temiz mimari benim için öncelikli.
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Automation-0ea5e9?style=flat&logo=sparkfun&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--commerce-22c55e?style=flat&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Service-64748b?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Apps-06b6d4?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation%20Pipelines-f59e0b?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-9333ea?style=flat&logo=awslambda&logoColor=white" />
+  
+</p>
 
 ---
 
