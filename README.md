@@ -8,7 +8,7 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
     <img src="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
   </a>
   <br/>
-  <img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Merhaba%2C+ben+%F0%9F%91%8B+yuefdev;Full-Stack+%2F+Mobile+%2F+AI+merakl%C4%B1s%C4%B1;Temiz+kod%2C+tasar%C4%B1m+ve+performans!](https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=32&duration=2500&pause=700&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Merhaba%2C+ben+%F0%9F%91%8B+yuefdev;Full-Stack+%2F+Mobile+%2F+AI+developer;Temiz+kod%2C+tasar%C4%B1m+ve+performans!)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Merhaba%2C+ben+%F0%9F%91%8B+yuefdev;Full-Stack+%2F+Mobile+%2F+AI+merakl%C4%B1s%C4%B1;Temiz+kod%2C+tasar%C4%B1m+ve+performans!" alt="Typing SVG" />
 </p>
 
 <p align="center">
