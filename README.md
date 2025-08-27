@@ -8,11 +8,11 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
     <img src="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
   </a>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Merhaba%2C+ben+%F0%9F%91%8B+yuefdev;Full-Stack+%2F+Mobile+%2F+AI+merakl%C4%B1s%C4%B1;Temiz+kod%2C+tasar%C4%B1m+ve+performans!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Selamlar%2C+ben+Yusuf;AI+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="80" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:00D1B2,100:0ea5e9&text=Selamlar,%20ben%20Yusuf&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=AI%20Software%20Engineer&descAlign=50&descAlignY=70" alt="Banner: Selamlar, ben Yusuf | AI Software Engineer" />
 </p>
 
 <p align="center">
@@ -31,47 +31,20 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
 
 ## ✨ Öne Çıkan Projeler
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/yuefdev/unlostfpsarttirma">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuefdev&repo=unlostfpsarttirma&theme=tokyonight&hide_border=true" alt="unlostfpsarttirma" />
+  </a>
+  <a href="https://github.com/yuefdev/yuefide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuefdev&repo=yuefide&theme=tokyonight&hide_border=true" alt="yuefide" />
+  </a>
+</p>
 
-<a href="https://github.com/yuefdev/unlostfpsarttirma">
-  <img alt="unlostfpsarttirma" src="https://img.shields.io/badge/unlostfpsarttirma-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
-<a href="https://github.com/yuefdev/DerdiniSeveyim">
-  <img alt="DerdiniSeveyim" src="https://img.shields.io/badge/DerdiniSeveyim-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
-<a href="https://github.com/yuefdev/yuefide">
-  <img alt="yuefide" src="https://img.shields.io/badge/yuefide-AI%20Apps-6EE7B7?style=for-the-badge&logo=sparkfun&logoColor=white" />
-</a>
-<a href="https://github.com/yuefdev/yuefdev">
-  <img alt="yuefdev" src="https://img.shields.io/badge/Profile%20Repo-README-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <b>unlostfpsarttirma</b><br/>
-      <sub>unlost fps arttırma videolarındaki ayarları tek tuşla uygular.</sub>
-    </td>
-    <td>
-      <b>DerdiniSeveyim</b><br/>
-      <sub>TypeScript denemeleri ve modern web pratikleri.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>yuefide</b><br/>
-      <sub>AI tabanlı geliştirme ortamı: prompt builder + code assistant.</sub>
-    </td>
-    <td>
-      <b>Profil (yuefdev)</b><br/>
-      <sub>Bu README ve otomasyonlar.</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/yuefdev/DerdiniSeveyim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuefdev&repo=DerdiniSeveyim&theme=tokyonight&hide_border=true" alt="DerdiniSeveyim" />
+  </a>
+</p>
 
 ---
 
@@ -170,9 +143,3 @@ Selamlar, ben Yusuf. Yaklaşık 4 yıldır evde kendi başıma hobilerimle ilgil
   <a href="mailto:ergyusuf34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<<<<<<< HEAD
-=======
----
-
-<!-- Kullanım ve kurulum rehberi istek üzerine kaldırıldı. -->
->>>>>>> b6cfe75 (docs(profile): kısa özet eklendi)
