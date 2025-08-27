@@ -3,6 +3,13 @@ Bu, GitHub profiliniz için modern ve göz alıcı bir README şablonudur.
 Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak şekilde oluşturun (örn. github.com/<kullanici-adi>/<kullanici-adi>). Aşağıdaki PLACEHOLDER alanlarını doldurun.
 -->
 
+<p align="center">
+  <a href="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml">
+    <img src="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml/badge.svg" alt="Generate Snake" />
+  </a>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Selamlar%2C+ben+Yusuf;AI+Software+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:00D1B2,100:0ea5e9&text=Selamlar,%20ben%20Yusuf&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=AI%20Software%20Engineer&descAlign=50&descAlignY=70" alt="Banner: Selamlar, ben Yusuf | AI Software Engineer" />
@@ -19,6 +26,18 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
     <img alt="stars" src="https://img.shields.io/github/stars/yuefdev?affiliations=OWNER&style=for-the-badge&color=f59e0b" />
   </a>
 </p>
+
+---
+
+## 🎧 Şu An Çalıyor
+
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ss2ow47bcuyrymoaneq44tipcy&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ss2ow47bcuyrymoaneq44tipcy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=00D1B2&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<!-- Not: <SPOTIFY_UID> değerini Spotify kullanıcı ID’nizle değiştirin. Spotify uygulamasında profilinize girip Paylaş > Profil bağlantısı kopyala diyerek UID’yi URL’den alabilirsiniz. -->
 
 ---
 
@@ -63,7 +82,8 @@ mail: ergyusuf34@gmail.com
 > <b>Selamlar, ben Yusuf.</b> Otomasyon sistemleri, e‑ticaret ve teknik servis deneyimimi
 > AI odaklı ürün geliştirme ile birleştiriyorum. Kendi geliştirdiğim yapay zeka
 > aracıyla uygulamalar, web siteleri ve uçtan uca otomasyon akışları üretiyorum.
-> 
+> Detaylarda titizim; performans, ölçeklenebilirlik ve temiz mimari benim için öncelikli.
+
 <p>
   <img src="https://img.shields.io/badge/AI%20Automation-0ea5e9?style=flat&logo=sparkfun&logoColor=white" />
   <img src="https://img.shields.io/badge/E--commerce-22c55e?style=flat&logo=shopify&logoColor=white" />
