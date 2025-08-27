@@ -29,6 +29,52 @@ Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak ş
 
 ---
 
+## ✨ Öne Çıkan Projeler
+
+<div align="center">
+
+<a href="https://github.com/yuefdev/unlostfpsarttirma">
+  <img alt="unlostfpsarttirma" src="https://img.shields.io/badge/unlostfpsarttirma-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</a>
+<a href="https://github.com/yuefdev/DerdiniSeveyim">
+  <img alt="DerdiniSeveyim" src="https://img.shields.io/badge/DerdiniSeveyim-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<a href="https://github.com/yuefdev/yuefide">
+  <img alt="yuefide" src="https://img.shields.io/badge/yuefide-AI%20Apps-6EE7B7?style=for-the-badge&logo=sparkfun&logoColor=white" />
+</a>
+<a href="https://github.com/yuefdev/yuefdev">
+  <img alt="yuefdev" src="https://img.shields.io/badge/Profile%20Repo-README-0ea5e9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <b>unlostfpsarttirma</b><br/>
+      <sub>unlost fps arttırma videolarındaki ayarları tek tuşla uygular.</sub>
+    </td>
+    <td>
+      <b>DerdiniSeveyim</b><br/>
+      <sub>TypeScript denemeleri ve modern web pratikleri.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>yuefide</b><br/>
+      <sub>AI tabanlı geliştirme ortamı: prompt builder + code assistant.</sub>
+    </td>
+    <td>
+      <b>Profil (yuefdev)</b><br/>
+      <sub>Bu README ve otomasyonlar.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Hakkımda
 
 ```yaml
@@ -124,6 +170,9 @@ Selamlar, ben Yusuf. Yaklaşık 4 yıldır evde kendi başıma hobilerimle ilgil
   <a href="mailto:ergyusuf34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<<<<<<< HEAD
+=======
 ---
 
 <!-- Kullanım ve kurulum rehberi istek üzerine kaldırıldı. -->
+>>>>>>> b6cfe75 (docs(profile): kısa özet eklendi)
