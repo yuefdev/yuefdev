@@ -45,6 +45,10 @@ ilgi-alanlar:
 mail: ergyusuf34@gmail.com
 ```
 
+### 📝 Kısa Özet
+
+Selamlar, ben Yusuf. Yaklaşık 4 yıldır evde kendi başıma hobilerimle ilgileniyorum. Otomasyon sistemleri, e-ticaret, bilgisayar ve telefon teknik servisi üzerine çalışıyorum. Aynı zamanda okuyup çalışmaya devam ediyorum. Şu anda ise kendi geliştirdiğim yapay zeka aracıyla uygulamalar, web siteleri ve otomasyon sistemleri üzerine yoğunlaşıyorum.
+
 ---
 
 ## 🧰 Teknolojiler ve Araçlar
@@ -120,3 +124,6 @@ mail: ergyusuf34@gmail.com
   <a href="mailto:ergyusuf34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
+
+<!-- Kullanım ve kurulum rehberi istek üzerine kaldırıldı. -->
