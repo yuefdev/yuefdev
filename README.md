@@ -1,7 +1,5 @@
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&color=0:00D1B2,100:0ea5e9&text=Selamlar,%20ben%20Yusuf&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=AI%20Software%20Engineer&descAlign=50&descAlignY=70" alt="Banner: Selamlar, ben Yusuf | AI Software Engineer" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=2400&pause=900&color=00D1B2&center=true&vCenter=true&repeat=true&width=800&lines=Selamlar%2C+ben+Yusuf;AI+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
