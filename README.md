@@ -70,8 +70,7 @@ mail: ergyusuf34@gmail.com
 > <b>Selamlar, ben Yusuf.</b> Otomasyon sistemleri, e‑ticaret ve teknik servis deneyimimi
 > AI odaklı ürün geliştirme ile birleştiriyorum. Kendi geliştirdiğim yapay zeka
 > aracıyla uygulamalar, web siteleri ve uçtan uca otomasyon akışları üretiyorum.
-> Detaylarda titizim; performans, ölçeklenebilirlik ve temiz mimari benim için öncelikli.
-
+> 
 <p>
   <img src="https://img.shields.io/badge/AI%20Automation-0ea5e9?style=flat&logo=sparkfun&logoColor=white" />
   <img src="https://img.shields.io/badge/E--commerce-22c55e?style=flat&logo=shopify&logoColor=white" />
