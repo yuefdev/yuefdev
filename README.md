@@ -1,7 +1,3 @@
-<!--
-Bu, GitHub profiliniz için modern ve göz alıcı bir README şablonudur.
-Kullanım: Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak şekilde oluşturun (örn. github.com/<kullanici-adi>/<kullanici-adi>). Aşağıdaki PLACEHOLDER alanlarını doldurun.
--->
 
 <p align="center">
   <a href="https://github.com/yuefdev/yuefdev/actions/workflows/snake.yml">
@@ -119,25 +115,3 @@ mail: ergyusuf34@gmail.com
   <a href="https://instagram.com/sonfeciaraba" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:ergyusuf34@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### ⚙️ Nasıl kullanılır?
-
-1) Bu repo adını GitHub kullanıcı adınızla birebir aynı olacak şekilde oluşturun: `yuefdev/yuefdev`
-2) Aşağıdaki PLACEHOLDER’ları kendi bilgilerinizle değiştirin:
-   - `<USERNAME>`, `<ADINIZ>`, `<LINKEDIN>`, `<TWITTER>`, `<EMAIL>`
-3) `Snake` animasyonu için bu repo’da `Actions` sekmesini açıp workflow’u etkinleştirin. 1-2 dakika içinde `output/` dizini ve SVG’ler oluşacaktır.
-4) Rozetleri (badges) düzenlemek için shields.io kullanabilirsiniz.
-
-> İpucu: README’yi düzenledikten sonra, profil sayfanızı yenileyerek sonucu görebilirsiniz.
-
----
-
-#### Kurulum Kısa Rehber
-
-- Bu dosyayı kullanmak için GitHub’da yeni bir repo oluşturun ve adı tam olarak kullanıcı adınız olsun (örn. `yuefdev/yuefdev`).
-- Bu klasörü repoya yükleyin veya `README.md` içeriğini kopyalayın.
-- `.github/workflows/snake.yml` içindeki `<USERNAME>` alanını kendi kullanıcı adınızla değiştirin.
-- Actions sekmesinden “Generate Snake” workflow’unu manuel tetikleyebilir veya zamanlanmış çalışmayı bekleyebilirsiniz.
-- Vitrin GIF’lerini ve rozetleri değiştirmek için ilgili URL’leri güncelleyin.
