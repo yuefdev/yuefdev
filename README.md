@@ -14,11 +14,11 @@
   </a>
 </p>
   <!-- Spotify: Kittinanx hosted küçük yatay widget (natemoo-re teması) -->
-  <p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ss2ow47bcuyrymoaneq44tipcy&redirect=true" target="_blank" rel="noreferrer">
-      <img height="86" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ss2ow47bcuyrymoaneq44tipcy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify - Now Playing" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ss2ow47bcuyrymoaneq44tipcy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
   ---
 ---
