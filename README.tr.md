@@ -54,7 +54,7 @@
   <img src="./assets/generated/github-light.svg" alt="Herkese açık GitHub katkı takvimi ve kod dili dağılımı." width="1200">
 </picture>
 
-<sub>Grafikler GitHub Actions ile günlük güncellenir. Katkılar profilin herkese açık takviminden alınır; içinde bulunulan ay henüz tamamlanmamıştır. Dil dağılımı, bana ait herkese açık depoların kod baytlarını gösterir; fork'lar dahil değildir. Yetenek puanı veya çalışma süresi ölçümü değildir.</sub>
+<sub>Grafik herkese açık GitHub verilerinden üretildi; veri tarihi grafiğin üzerinde gösterilir. Katkılar profilin herkese açık takviminden alınır ve içinde bulunulan ay henüz tamamlanmamıştır. Dil dağılımı, bana ait herkese açık depoların kod baytlarını gösterir; fork'lar dahil değildir. Yetenek puanı veya çalışma süresi ölçümü değildir.</sub>
 
 ## Birlikte çalışalım.
 

@@ -102,7 +102,7 @@ I care about **clear interfaces, maintainable architecture and performance**. I 
   <img src="./assets/generated/github-light.svg" alt="GitHub public calendar activity for the last six calendar months, and language byte shares across owned public repositories." width="1200">
 </picture>
 
-<sub>Updated daily by GitHub Actions. Contributions reflect the publicly visible calendar; the current month is partial. Language shares measure code bytes across owned public repositories, excluding forks — not proficiency or time spent.</sub>
+<sub>Generated from public GitHub data; the collection date is shown in the chart. Contributions reflect the publicly visible calendar and the current month is partial. Language shares measure code bytes across owned public repositories, excluding forks — not proficiency or time spent.</sub>
 
 <details>
 <summary>Data sources and scope</summary>
