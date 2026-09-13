@@ -1,0 +1,32 @@
+{
+  "username": "yuefdev",
+  "updated": "2026-09-13",
+  "period_start": "2026-04-01",
+  "contribution_source": "https://github.com/yuefdev?tab=overview",
+  "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
+  "contributions": {
+    "2026-04": 0,
+    "2026-05": 1,
+    "2026-06": 0,
+    "2026-07": 0,
+    "2026-08": 4,
+    "2026-09": 41
+  },
+  "total_contributions": 46,
+  "active_days": 6,
+  "language_scope": "GitHub language bytes across owned public, non-fork repositories with detected languages. Includes vendored or generated code counted by GitHub. Not a proficiency score.",
+  "language_repositories": [
+    "yuefdev/DerdiniSeveyim",
+    "yuefdev/ezanvakti-legal",
+    "yuefdev/HarborRestaurant",
+    "yuefdev/unlostfpsarttirma"
+  ],
+  "language_bytes": {
+    "TypeScript": 1278030,
+    "HTML": 667744,
+    "C#": 632327,
+    "CSS": 365717,
+    "SCSS": 58566,
+    "JavaScript": 21592
+  }
+}

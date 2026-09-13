@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170" role="img" aria-label="Abstract project illustration">
+<rect width="580" height="170" rx="14" fill="#141c24"/>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#24313a" stroke-width="0.6"/></pattern></defs>
+<rect width="580" height="170" rx="14" fill="url(#g)"/>
+<g fill="none" stroke="#79c5ef" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M121 129a72 72 0 11140 0"/>
+<path d="M141 123a51 51 0 1198 0" opacity=".25"/>
+<path d="M191 107l37-38"/>
+<circle cx="191" cy="107" r="6" fill="#79c5ef"/>
+<rect x="341" y="42" width="119" height="28" rx="14"/>
+<circle cx="441" cy="56" r="8" fill="#79c5ef"/>
+<rect x="341" y="91" width="119" height="28" rx="14"/>
+<circle cx="441" cy="105" r="8" fill="#79c5ef"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="660" viewBox="0 0 640 660" role="img" aria-labelledby="title desc">
+<title id="title">Yusuf Efe — AI and Full-Stack Developer</title>
+<desc id="desc">Ideas to interfaces to shipped software. Web, mobile, desktop and AI automation. Istanbul, Türkiye.</desc>
+<rect width="640" height="660" rx="26" fill="#f3f6ed"/>
+<defs><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="0.9" fill="#d0dac8"/></pattern></defs>
+<rect x="290" y="0" width="350" height="660" rx="26" fill="url(#dots)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="36" y="32" width="34" height="34" rx="10" fill="#497d25"/>
+<path d="M45 42l8 8-8 8m10 0h7" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="82" y="55" font-size="19" fill="#18241d" font-weight="700" >yuefdev</text>
+<text x="604" y="55" font-size="13" fill="#5d6d61" font-weight="600" text-anchor="end" letter-spacing="1.8">ISTANBUL, TR</text>
+<text x="36" y="151" font-size="75" fill="#18241d" font-weight="750" letter-spacing="-3.5">Yusuf Efe.</text>
+<text x="39" y="194" font-size="19" fill="#497d25" font-weight="650" letter-spacing="1.2">AI &amp; FULL-STACK DEVELOPER</text>
+<text x="39" y="239" font-size="22" fill="#5d6d61" font-weight="400" >Ideas → interfaces → shipped software.</text>
+<g transform="translate(125 266) scale(0.92)">
+<path d="M74 86C14 123 14 218 90 250S327 249 348 162S270 33 214 42" fill="none" stroke="#d0dac8" stroke-width="1.6" stroke-dasharray="5 7"/>
+<path d="M68 138L178 76L290 139L181 204Z" fill="#e3ecd7" stroke="#d0dac8" stroke-width="1.5"/>
+<path d="M68 170L178 108L290 171L181 236Z" fill="#f3f6ed" stroke="#d0dac8" stroke-width="1.5"/>
+<path d="M68 202L178 140L290 203L181 268Z" fill="#f3f6ed" stroke="#497d25" stroke-width="1.8"/>
+<rect x="76" y="57" width="206" height="117" rx="17" fill="#ffffff" stroke="#497d25" stroke-width="1.6"/>
+<circle cx="93" cy="74" r="3" fill="#497d25"/><circle cx="105" cy="74" r="3" fill="#d0dac8"/><circle cx="117" cy="74" r="3" fill="#d0dac8"/>
+<path d="M76 89H282" stroke="#d0dac8"/>
+<path d="M112 114l-14 12 14 12m135-24l14 12-14 12" fill="none" stroke="#497d25" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="146" y="132" font-size="24" fill="#18241d" font-weight="600" >build</text>
+<rect x="250" y="3" width="89" height="35" rx="17" fill="#497d25"/>
+<text x="294.5" y="26" font-size="12" fill="#ffffff" font-weight="700" text-anchor="middle" letter-spacing="1">PRODUCT</text>
+<circle cx="43" cy="200" r="20" fill="#ffffff" stroke="#d0dac8"/>
+<path d="M35 201l6 6 11-13" fill="none" stroke="#497d25" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<path d="M36 602H604" stroke="#d0dac8"/>
+<text x="36" y="635" font-size="15" fill="#5d6d61" font-weight="600" letter-spacing="1.4">WEB  /  MOBILE  /  DESKTOP  /  AI</text>
+</g></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="170" viewBox="0 0 580 170" role="img" aria-label="Abstract project illustration">
+<rect width="580" height="170" rx="14" fill="#141c24"/>
+<defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#24313a" stroke-width="0.6"/></pattern></defs>
+<rect width="580" height="170" rx="14" fill="url(#g)"/>
+<g fill="none" stroke="#ecc18e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="119" y="43" width="125" height="101" rx="10"/>
+<path d="M119 70h125m-99-39v24m73-24v24"/>
+<path d="M142 91h10m16 0h10m16 0h10m16 0h1m-79 23h10m16 0h10m16 0h10" opacity=".6"/>
+<path d="M331 140V45h121v95m-141 0h162M354 63h17v17h-17zm38 0h17v17h-17zm-38 34h17v17h-17zm38 0h17v43h-17z"/>
+</g></svg>
