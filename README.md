@@ -12,6 +12,18 @@
   <a href="./README.tr.md">Türkçe</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuefdev&style=flat-square&color=78a94f&label=PROFILE+VIEWS" alt="Profile views">
+  <a href="https://github.com/yuefdev?tab=followers"><img src="https://img.shields.io/github/followers/yuefdev?style=flat-square&color=78a94f&label=FOLLOWERS" alt="GitHub followers"></a>
+  <a href="https://github.com/yuefdev?tab=repositories"><img src="https://img.shields.io/github/stars/yuefdev?affiliations=OWNER&style=flat-square&color=78a94f&label=STARS" alt="GitHub stars"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ss2ow47bcuyrymoaneq44tipcy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=10151c&interchange=false&bar_color=c5f277&bar_color_cover=false" alt="Yusuf's recently played Spotify track" width="430">
+  </a>
+</p>
+
 ### I build the interface — and the systems behind it.
 
 I'm **Yusuf**, a developer based in **Istanbul, Türkiye**, focused on **AI tooling, full-stack applications and desktop software**. I turn practical problems into connected products: the interface people use, the API behind it, and the automation that keeps it moving.

@@ -7,6 +7,18 @@
 
 [English](./README.md) · [E-posta](mailto:ergyusuf34@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yusuf-efe-ergino%C4%9Flu-b14512336/)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuefdev&style=flat-square&color=78a94f&label=PROFIL+GORUNTULENMESI" alt="Profil görüntülenmesi">
+  <a href="https://github.com/yuefdev?tab=followers"><img src="https://img.shields.io/github/followers/yuefdev?style=flat-square&color=78a94f&label=TAKIPCI" alt="GitHub takipçileri"></a>
+  <a href="https://github.com/yuefdev?tab=repositories"><img src="https://img.shields.io/github/stars/yuefdev?affiliations=OWNER&style=flat-square&color=78a94f&label=YILDIZ" alt="GitHub yıldızları"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ss2ow47bcuyrymoaneq44tipcy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=10151c&interchange=false&bar_color=c5f277&bar_color_cover=false" alt="Yusuf'un son dinlediği Spotify parçası" width="430">
+  </a>
+</p>
+
 ## Merhaba, ben Yusuf.
 
 İstanbul'da yaşayan; **yapay zekâ araçları, web ve mobil uygulamalar, masaüstü yazılımları** geliştiren bir yazılımcıyım. Bir ürünün arayüzünü, arkasındaki API'yi ve günlük işlerini kolaylaştıran otomasyonları birlikte ele alıyorum.
