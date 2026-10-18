@@ -27,6 +27,16 @@
 
 **İlgilendiğim roller:** Yapay zekâ uygulama geliştirme, full-stack yazılım geliştirme ve masaüstü ürün geliştirme.
 
+## Açık kaynak katkılarım
+
+**Son 12 ayda bana ait olmayan 31 depoda 54 PR'ım birleştirildi.** Sayılar **18 Ekim 2026** tarihinde GitHub verilerinden doğrulandı.
+
+- **Python araçları:** [Pylint](https://github.com/pylint-dev/pylint/pull/11546), [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/8638) ve [LiteLLM](https://github.com/BerriAI/litellm/pull/41677) hata düzeltmeleri.
+- **Rust ve model çalıştırma:** [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565), [Candle](https://github.com/huggingface/candle/pull/3975) ve [tract](https://github.com/sonos/tract/pull/2849) düzeltmeleri.
+- **Günlük kullanılan araçlar:** [Pydash](https://github.com/dgilland/pydash/pull/321) ve [New-Tab](https://github.com/404-PF/New-Tab/pull/849) düzeltmeleri.
+
+[Katkı ayrıntıları ve doğrulama](./OPEN_SOURCE.md)
+
 ## Öne çıkan çalışmalarım
 
 - **[Riftroam](https://github.com/yuefdev/riftroam-releases/releases)** — League of Legends için Tauri, Svelte ve Rust ile geliştirilen masaüstü yardımcı uygulaması. İstemci entegrasyonu, özelleştirme akışları ve uygulama içi güncelleme deneyimi üzerinde çalışıyorum. Bağlantı herkese açık sürüm deposuna gider; uygulamanın kaynak kodu bu depoda paylaşılmıyor.

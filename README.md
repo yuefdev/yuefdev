@@ -32,6 +32,16 @@ My background in **automation, e-commerce and technical service** shapes how I b
 
 **Interested in:** AI application development · full-stack engineering · desktop products.
 
+## Open-source contributions
+
+**54 merged pull requests across 31 external repositories** in the preceding 12 months, verified on **18 October 2026**.
+
+- **Python tooling:** fixes in [Pylint](https://github.com/pylint-dev/pylint/pull/11546), [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/8638) and [LiteLLM](https://github.com/BerriAI/litellm/pull/41677).
+- **Rust and inference:** fixes in [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565), [Candle](https://github.com/huggingface/candle/pull/3975) and [tract](https://github.com/sonos/tract/pull/2849).
+- **Everyday utilities:** fixes in [Pydash](https://github.com/dgilland/pydash/pull/321) and [New-Tab](https://github.com/404-PF/New-Tab/pull/849).
+
+[Contribution details and verification](./OPEN_SOURCE.md)
+
 ## Selected work
 
 Four projects, with a different engineering problem behind each one.
