@@ -92,6 +92,85 @@ Four projects, with a different engineering problem behind each one.
 
 </details>
 
+## Side quest · The golden commit
+
+<img src="./assets/quest-dungeon.svg" alt="A pixel-art dungeon with three mysterious doors. Find the golden commit in a short, playable profile adventure." width="800">
+
+A tiny dungeon you can play right here. Two puzzles, one treasure. Pick a door to begin.
+
+<details>
+<summary><b>▶ Start the quest</b></summary>
+
+### Room 1 · The three doors
+
+A golden commit is hidden in the vault beyond one of these doors. **Exactly one sign tells the truth.**
+
+- **Moss door:** “The treasure is behind this door.”
+- **Copper door:** “The treasure is not behind this door.”
+- **Violet door:** “The treasure is not behind the moss door.”
+
+<details>
+<summary>🌿 Open the moss door</summary>
+
+**👾 A slime appears!**
+
+It demands a code review. This is going to take a while. Close this door and try another route.
+
+</details>
+
+<details>
+<summary>🔶 Open the copper door</summary>
+
+**🗝️ You found the vault key.**
+
+Only the violet sign was telling the truth. Nicely reasoned.
+
+### Room 2 · The mirror lock
+
+Three chests, but your key opens only one. A note reads:
+
+> Choose the rune that reads the same forwards and backwards.
+
+<details>
+<summary>📦 Chest 100</summary>
+
+**🦷 That's a mimic.** It tries to eat the key. Close this chest and check the note again.
+
+</details>
+
+<details>
+<summary>📦 Chest 101</summary>
+
+**🏆 Golden commit found!**
+
+<img src="./assets/quest-treasure.svg" alt="An open pixel-art treasure chest holding the golden commit. Quest complete." width="640">
+
+Two puzzles solved, zero merge conflicts. Thanks for playing.
+
+</details>
+
+<details>
+<summary>📦 Chest 110</summary>
+
+**🚨 The alarm goes off.** A sleepy dragon hits snooze. Close this chest and try again.
+
+</details>
+
+</details>
+
+<details>
+<summary>🔮 Open the violet door</summary>
+
+**🕸️ 404: treasure not found.**
+
+Just cobwebs and a TODO from 2019. Close this door and try another route.
+
+</details>
+
+<sub>Click or tap a choice to open it; close it to backtrack. Your choices stay in this page. To replay, close the opened doors and chests.</sub>
+
+</details>
+
 ## What I work with
 
 | Area | Technologies I use |

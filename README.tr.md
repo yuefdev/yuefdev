@@ -46,6 +46,85 @@
 
 **Yapay zekâ araçları:** [YuefIDE](https://github.com/yuefdev/yuefide), prompt oluşturma ve kod yardımı odaklı geliştirme ortamı projem. Herkese açık deposunda şu anda proje tanıtımı bulunuyor.
 
+## Yan görev · Altın commit
+
+<img src="./assets/quest-dungeon.svg" alt="Üç gizemli kapısı olan piksel zindan. Profilin içinde oynanan kısa bir macerada altın commit'i bul." width="800">
+
+Buradan ayrılmadan oynayabileceğin küçük bir zindan. İki bulmaca, bir hazine. Başlamak için bir kapı seç.
+
+<details>
+<summary><b>▶ Maceraya başla</b></summary>
+
+### Oda 1 · Üç kapı
+
+Altın commit, bu kapılardan birinin ardındaki kasada saklı. **Tabelalardan yalnızca biri doğru söylüyor.**
+
+- **Yosunlu kapı:** “Hazine bu kapının arkasında.”
+- **Bakır kapı:** “Hazine bu kapının arkasında değil.”
+- **Mor kapı:** “Hazine yosunlu kapının arkasında değil.”
+
+<details>
+<summary>🌿 Yosunlu kapıyı aç</summary>
+
+**👾 Bir balçık canavarı çıktı!**
+
+Senden kod incelemesi istiyor. Bu iş uzayacak. Kapıyı kapatıp başka bir yol dene.
+
+</details>
+
+<details>
+<summary>🔶 Bakır kapıyı aç</summary>
+
+**🗝️ Kasanın anahtarını buldun.**
+
+Doğru söyleyen tek tabela mor kapıdaydı. Güzel çözdün.
+
+### Oda 2 · Ayna kilidi
+
+Üç sandık var ama anahtarın yalnızca birini açıyor. Notta şöyle yazıyor:
+
+> Hem baştan hem sondan okunduğunda aynı kalan işareti seç.
+
+<details>
+<summary>📦 Sandık 100</summary>
+
+**🦷 Bu sandık kılık değiştirmiş bir canavar.** Anahtarını yemeye çalışıyor. Kapatıp notu tekrar oku.
+
+</details>
+
+<details>
+<summary>📦 Sandık 101</summary>
+
+**🏆 Altın commit bulundu!**
+
+<img src="./assets/quest-treasure.svg" alt="İçinde altın commit bulunan açık piksel hazine sandığı. Görev tamamlandı." width="640">
+
+İki bulmaca çözüldü, sıfır merge conflict. Oynadığın için teşekkürler.
+
+</details>
+
+<details>
+<summary>📦 Sandık 110</summary>
+
+**🚨 Alarm çaldı.** Uykulu bir ejderha ertele tuşuna bastı. Sandığı kapatıp tekrar dene.
+
+</details>
+
+</details>
+
+<details>
+<summary>🔮 Mor kapıyı aç</summary>
+
+**🕸️ 404: hazine bulunamadı.**
+
+Sadece örümcek ağları ve 2019'dan kalma bir TODO var. Kapıyı kapatıp başka bir yol dene.
+
+</details>
+
+<sub>Açmak için seçeneğe tıkla veya dokun; geri dönmek için kapat. Seçimlerin bu sayfada kalır. Yeniden oynamak için açtığın kapıları ve sandıkları kapat.</sub>
+
+</details>
+
 ## Kullandığım teknolojiler
 
 | Alan | Teknolojiler |
