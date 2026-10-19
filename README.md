@@ -34,7 +34,7 @@ My background in **automation, e-commerce and technical service** shapes how I b
 
 ## Open-source contributions
 
-**54 merged pull requests across 31 external repositories** in the preceding 12 months, verified on **18 October 2026**.
+**105 merged pull requests across 53 external repositories** in the preceding 12 months, verified on **19 October 2026**.
 
 - **Python tooling:** fixes in [Pylint](https://github.com/pylint-dev/pylint/pull/11546), [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/8638) and [LiteLLM](https://github.com/BerriAI/litellm/pull/41677).
 - **Rust and inference:** fixes in [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565), [Candle](https://github.com/huggingface/candle/pull/3975) and [tract](https://github.com/sonos/tract/pull/2849).

@@ -2,9 +2,9 @@
 
 ## Verified snapshot
 
-As of **18 October 2026**, GitHub reports **54 merged pull requests across 31 repositories owned by other accounts** during the preceding 12 months. This is a dated snapshot of publicly visible PRs authored by `yuefdev`.
+As of **19 October 2026**, GitHub reports **105 merged pull requests across 53 repositories owned by other accounts** during the preceding 12 months. This is a dated snapshot of publicly visible PRs authored by `yuefdev`.
 
-[View the merged PRs on GitHub](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayuefdev+-user%3Ayuefdev+merged%3A2025-10-18..2026-10-18&type=pullrequests)
+[View the merged PRs on GitHub](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayuefdev+-user%3Ayuefdev+merged%3A2025-10-19..2026-10-19&type=pullrequests)
 
 Open PRs and changes merged into my own repositories are excluded. Contribution status does not imply a maintainer or core-team role.
 
@@ -26,16 +26,16 @@ Open PRs and changes merged into my own repositories are excluded. Contribution 
 The query used for this snapshot is:
 
 ```text
-is:pr is:merged author:yuefdev -user:yuefdev merged:2025-10-18..2026-10-18
+is:pr is:merged author:yuefdev -user:yuefdev merged:2025-10-19..2026-10-19
 ```
 
 With GitHub CLI:
 
 ```sh
-gh api search/issues --method GET -f 'q=is:pr is:merged author:yuefdev -user:yuefdev merged:2025-10-18..2026-10-18' -f per_page=100 --jq '{total_count, incomplete_results}'
+gh api search/issues --method GET --paginate -f 'q=is:pr is:merged author:yuefdev -user:yuefdev merged:2025-10-19..2026-10-19' -f per_page=100 --jq '{total_count, incomplete_results}'
 ```
 
-The result was `total_count: 54` and `incomplete_results: false`. All results fitted in one page. The repository count is the number of distinct `repository_url` values among those results. For a future rolling-year check, update both dates and paginate if the result exceeds 100 PRs.
+Both pages reported `total_count: 105` and `incomplete_results: false`. All 105 results were retrieved across two pages, containing 53 distinct `repository_url` values. For a future rolling-year check, update both dates and retain pagination.
 
 ## Working approach
 
