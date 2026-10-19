@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "period_start": "2026-05-01",
   "contribution_source": "https://github.com/yuefdev?tab=overview",
   "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
@@ -8,20 +8,22 @@
     "2026-05": 1,
     "2026-06": 0,
     "2026-07": 0,
-    "2026-08": 6,
-    "2026-09": 212,
-    "2026-10": 175
+    "2026-08": 4,
+    "2026-09": 171,
+    "2026-10": 461
   },
-  "total_contributions": 394,
-  "active_days": 29,
+  "total_contributions": 637,
+  "active_days": 28,
   "language_scope": "GitHub language bytes across owned public, non-fork repositories with detected languages. Includes vendored or generated code counted by GitHub. Not a proficiency score.",
   "language_repositories": [
     "yuefdev/DerdiniSeveyim",
     "yuefdev/discord-guard",
     "yuefdev/ezanvakti-legal",
+    "yuefdev/go-geom-length-example",
     "yuefdev/HarborRestaurant",
     "yuefdev/minecraft-ai-translator",
     "yuefdev/mix-flip-ruyi-rom-research",
+    "yuefdev/opencode-muse-multi-auth",
     "yuefdev/questbridge-amd",
     "yuefdev/riftroam-tracker-sync",
     "yuefdev/statpcapp",
@@ -38,7 +40,7 @@
     "C#": 632327,
     "CSS": 396245,
     "Python": 202263,
-    "JavaScript": 88185,
+    "JavaScript": 186067,
     "SCSS": 58566,
     "PowerShell": 34388,
     "C": 24101,
@@ -46,6 +48,7 @@
     "Kotlin": 3408,
     "Ruby": 1431,
     "Swift": 1234,
+    "Go": 611,
     "Dockerfile": 179
   }
 }
