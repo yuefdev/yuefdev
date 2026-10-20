@@ -1,0 +1,49 @@
+name: Refresh OSS contributions
+
+on:
+  schedule:
+    - cron: "43 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/update_oss.py"
+      - ".github/scripts/test_oss.py"
+      - ".github/scripts/update_profile.py"
+      - ".github/workflows/oss-contributions.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oss-contributions
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Test OSS data and rendering
+        run: python3 -m unittest discover -s .github/scripts -p test_oss.py
+      - name: Generate accepted contributions
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/update_oss.py
+      - name: Save changed contributions
+        shell: bash
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add assets/generated/oss-* README.md README.tr.md OPEN_SOURCE.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: refresh OSS contributions"
+          git pull --rebase origin main
+          git push origin HEAD:main

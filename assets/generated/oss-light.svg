@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="oss-title oss-desc">
+<title id="oss-title">Contributing upstream.</title>
+<desc id="oss-desc">116 accepted upstream PRs across 60 external projects; 134 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, uutils/coreutils, Tencent/ncnn. Updated 2026-10-20.</desc>
+<rect width="1200" height="640" rx="24" fill="#f6f8f3"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="36" y="49" font-size="14" fill="#427519" font-weight="700" letter-spacing="1.6">ENGINEERING IN THE OPEN</text>
+<text x="36" y="96" font-size="38" fill="#17211c" font-weight="700" >Contributing upstream.</text>
+<text x="36" y="128" font-size="18" fill="#59685c" font-weight="400" >Accepted changes. Established projects.</text>
+<text x="1164" y="48" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">UPDATED 2026-10-20</text>
+<rect x="36.0" y="156" width="365.33" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<text x="54.0" y="205" font-size="42" fill="#427519" font-weight="700" >116</text>
+<text x="54.0" y="236" font-size="14" fill="#59685c" font-weight="400" >Upstream merges</text>
+<rect x="417.33" y="156" width="365.33" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<text x="435.33" y="205" font-size="42" fill="#17211c" font-weight="700" >60</text>
+<text x="435.33" y="236" font-size="14" fill="#59685c" font-weight="400" >External projects</text>
+<rect x="798.66" y="156" width="365.33" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<text x="816.66" y="205" font-size="42" fill="#17211c" font-weight="700" >134</text>
+<text x="816.66" y="236" font-size="14" fill="#59685c" font-weight="400" >Total merged PRs</text>
+<text x="36" y="293" font-size="13" fill="#59685c" font-weight="600" letter-spacing="1">FEATURED PROJECTS / BY GITHUB STARS</text>
+<rect x="36.0" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M54.0 337V356M54.0 346Q67.0 346 67.0 334" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="54.0" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="67.0" cy="331" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="54.0" cy="359" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="83.0" y="349" font-size="18" fill="#17211c" font-weight="600" >affaan-m/ECC</text>
+<text x="54.0" y="385" font-size="14" fill="#59685c" font-weight="400" >fix: resolve OpenCode source imports and…</text>
+<text x="54.0" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
+<text x="383.33" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 284.5k</text>
+<rect x="417.33" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M435.33 337V356M435.33 346Q448.33 346 448.33 334" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="435.33" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="448.33" cy="331" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="435.33" cy="359" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="464.33" y="349" font-size="18" fill="#17211c" font-weight="600" >rust-lang/rust</text>
+<text x="435.33" y="385" font-size="14" fill="#59685c" font-weight="400" >Fix typo in riscv64a23-unknown-linux-gnu…</text>
+<text x="435.33" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Rust</text>
+<text x="764.66" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 120.7k</text>
+<rect x="798.66" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M816.66 337V356M816.66 346Q829.66 346 829.66 334" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="816.66" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="829.66" cy="331" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="816.66" cy="359" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="845.66" y="349" font-size="18" fill="#17211c" font-weight="600" >BerriAI/litellm</text>
+<text x="816.66" y="385" font-size="14" fill="#59685c" font-weight="400" >fix(proxy): allow model instances in…</text>
+<text x="816.66" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Python</text>
+<text x="1145.99" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 61.7k</text>
+<rect x="36.0" y="451" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M54.0 475V494M54.0 484Q67.0 484 67.0 472" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="54.0" cy="472" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="67.0" cy="469" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="54.0" cy="497" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="83.0" y="487" font-size="18" fill="#17211c" font-weight="600" >jgm/pandoc</text>
+<text x="54.0" y="523" font-size="14" fill="#59685c" font-weight="400" >TEI writer: use rend, not rendition, on…</text>
+<text x="54.0" y="556" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Haskell</text>
+<text x="383.33" y="556" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 46.6k</text>
+<rect x="417.33" y="451" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M435.33 475V494M435.33 484Q448.33 484 448.33 472" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="435.33" cy="472" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="448.33" cy="469" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="435.33" cy="497" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="464.33" y="487" font-size="18" fill="#17211c" font-weight="600" >uutils/coreutils</text>
+<text x="435.33" y="523" font-size="14" fill="#59685c" font-weight="400" >csplit: always create the final split,…</text>
+<text x="435.33" y="556" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Rust</text>
+<text x="764.66" y="556" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 24.3k</text>
+<rect x="798.66" y="451" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
+<path d="M816.66 475V494M816.66 484Q829.66 484 829.66 472" fill="none" stroke="#427519" stroke-width="2"/>
+<circle cx="816.66" cy="472" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="829.66" cy="469" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<circle cx="816.66" cy="497" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
+<text x="845.66" y="487" font-size="18" fill="#17211c" font-weight="600" >Tencent/ncnn</text>
+<text x="816.66" y="523" font-size="14" fill="#59685c" font-weight="400" >cmake: fix CMAKE_EXE_LINKER_FLAGS typo in…</text>
+<text x="816.66" y="556" font-size="13" fill="#427519" font-weight="400" >1 merged PR · C++</text>
+<text x="1145.99" y="556" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 24.0k</text>
+<text x="36" y="610" font-size="12" fill="#59685c" font-weight="400" >PUBLIC PRs · ALL TIME · OWN REPOS EXCLUDED FROM UPSTREAM</text>
+</g></svg>

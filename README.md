@@ -34,13 +34,20 @@ My background in **automation, e-commerce and technical service** shapes how I b
 
 ## Open-source contributions
 
-**105 merged pull requests across 53 external repositories** in the preceding 12 months, verified on **19 October 2026**.
+<!-- OSS:START -->
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=0590feee0811">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=0590feee0811">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=0590feee0811">
+  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=0590feee0811" alt="116 merged upstream PRs across 60 external projects; 134 total public merged PRs." width="1200">
+</picture>
 
-- **Python tooling:** fixes in [Pylint](https://github.com/pylint-dev/pylint/pull/11546), [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/8638) and [LiteLLM](https://github.com/BerriAI/litellm/pull/41677).
-- **Rust and inference:** fixes in [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565), [Candle](https://github.com/huggingface/candle/pull/3975) and [tract](https://github.com/sonos/tract/pull/2849).
-- **Everyday utilities:** fixes in [Pydash](https://github.com/dgilland/pydash/pull/321) and [New-Tab](https://github.com/404-PF/New-Tab/pull/849).
+[affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565) · [Tencent/ncnn](https://github.com/Tencent/ncnn/pull/7000)
 
-[Contribution details and verification](./OPEN_SOURCE.md)
+<sub>Refreshed hourly by GitHub Actions. Upstream excludes my own repositories; counts cover all-time public merged PRs.</sub>
+
+[Accepted changes, latest merges and verification](./OPEN_SOURCE.md)
+<!-- OSS:END -->
 
 ## Selected work
 

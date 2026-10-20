@@ -29,13 +29,20 @@
 
 ## Açık kaynak katkılarım
 
-**Son 12 ayda bana ait olmayan 53 depoda 105 PR'ım birleştirildi.** Sayılar **19 Ekim 2026** tarihinde GitHub verilerinden doğrulandı.
+<!-- OSS:START -->
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=0590feee0811">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=0590feee0811">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=0590feee0811">
+  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=0590feee0811" alt="116 merged upstream PRs across 60 external projects; 134 total public merged PRs." width="1200">
+</picture>
 
-- **Python araçları:** [Pylint](https://github.com/pylint-dev/pylint/pull/11546), [SQLFluff](https://github.com/sqlfluff/sqlfluff/pull/8638) ve [LiteLLM](https://github.com/BerriAI/litellm/pull/41677) hata düzeltmeleri.
-- **Rust ve model çalıştırma:** [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565), [Candle](https://github.com/huggingface/candle/pull/3975) ve [tract](https://github.com/sonos/tract/pull/2849) düzeltmeleri.
-- **Günlük kullanılan araçlar:** [Pydash](https://github.com/dgilland/pydash/pull/321) ve [New-Tab](https://github.com/404-PF/New-Tab/pull/849) düzeltmeleri.
+[affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565) · [Tencent/ncnn](https://github.com/Tencent/ncnn/pull/7000)
 
-[Katkı ayrıntıları ve doğrulama](./OPEN_SOURCE.md)
+<sub>GitHub Actions ile saatte bir yenilenir. Upstream sayıları bana ait depoları içermez; tüm zamanların herkese açık, birleştirilmiş PR'ları sayılır.</sub>
+
+[Katkılar, son birleştirmeler ve veri kaynağı](./OPEN_SOURCE.md)
+<!-- OSS:END -->
 
 ## Öne çıkan çalışmalarım
 

@@ -1,0 +1,1790 @@
+{
+  "username": "yuefdev",
+  "updated": "2026-10-20",
+  "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
+  "total_merged": 134,
+  "upstream_merged": 116,
+  "upstream_repositories": 60,
+  "repositories": [
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "stars": 284523,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "affaan-m/ECC",
+        "number": 3115,
+        "title": "fix: resolve OpenCode source imports and installed skills paths",
+        "url": "https://github.com/affaan-m/ECC/pull/3115",
+        "merged_at": "2026-10-10T00:07:17Z"
+      }
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "stars": 120651,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "rust-lang/rust",
+        "number": 162722,
+        "title": "Fix typo in riscv64a23-unknown-linux-gnu platform docs",
+        "url": "https://github.com/rust-lang/rust/pull/162722",
+        "merged_at": "2026-09-13T20:26:02Z"
+      }
+    },
+    {
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "stars": 61651,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "BerriAI/litellm",
+        "number": 41677,
+        "title": "fix(proxy): allow model instances in LiteLLM_EndUserTable validation",
+        "url": "https://github.com/BerriAI/litellm/pull/41677",
+        "merged_at": "2026-10-15T17:57:27Z"
+      }
+    },
+    {
+      "name": "jgm/pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "stars": 46648,
+      "language": "Haskell",
+      "merged": 1,
+      "latest": {
+        "repository": "jgm/pandoc",
+        "number": 11873,
+        "title": "TEI writer: use rend, not rendition, on milestone",
+        "url": "https://github.com/jgm/pandoc/pull/11873",
+        "merged_at": "2026-09-14T20:45:54Z"
+      }
+    },
+    {
+      "name": "uutils/coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "stars": 24274,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "uutils/coreutils",
+        "number": 14565,
+        "title": "csplit: always create the final split, even when empty",
+        "url": "https://github.com/uutils/coreutils/pull/14565",
+        "merged_at": "2026-09-15T06:22:30Z"
+      }
+    },
+    {
+      "name": "Tencent/ncnn",
+      "url": "https://github.com/Tencent/ncnn",
+      "stars": 23982,
+      "language": "C++",
+      "merged": 1,
+      "latest": {
+        "repository": "Tencent/ncnn",
+        "number": 7000,
+        "title": "cmake: fix CMAKE_EXE_LINKER_FLAGS typo in emscripten flags",
+        "url": "https://github.com/Tencent/ncnn/pull/7000",
+        "merged_at": "2026-09-16T03:05:26Z"
+      }
+    },
+    {
+      "name": "redis/go-redis",
+      "url": "https://github.com/redis/go-redis",
+      "stars": 22268,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "redis/go-redis",
+        "number": 4160,
+        "title": "fix(command): put IGNORE before LABELS",
+        "url": "https://github.com/redis/go-redis/pull/4160",
+        "merged_at": "2026-10-19T07:17:19Z"
+      }
+    },
+    {
+      "name": "huggingface/candle",
+      "url": "https://github.com/huggingface/candle",
+      "stars": 21203,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "huggingface/candle",
+        "number": 3975,
+        "title": "fix(onnx): LogSoftmax without an axis attribute returned softmax",
+        "url": "https://github.com/huggingface/candle/pull/3975",
+        "merged_at": "2026-09-24T15:13:32Z"
+      }
+    },
+    {
+      "name": "go-playground/validator",
+      "url": "https://github.com/go-playground/validator",
+      "stars": 20206,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "go-playground/validator",
+        "number": 1672,
+        "title": "Clarify separators for non-existent directory paths",
+        "url": "https://github.com/go-playground/validator/pull/1672",
+        "merged_at": "2026-10-19T16:31:14Z"
+      }
+    },
+    {
+      "name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "stars": 16136,
+      "language": "Rust",
+      "merged": 4,
+      "latest": {
+        "repository": "tracel-ai/burn",
+        "number": 5662,
+        "title": "fix(flex): propagate NaN through max pooling",
+        "url": "https://github.com/tracel-ai/burn/pull/5662",
+        "merged_at": "2026-09-15T15:33:33Z"
+      }
+    },
+    {
+      "name": "anomalyco/opentui",
+      "url": "https://github.com/anomalyco/opentui",
+      "stars": 13586,
+      "language": "TypeScript",
+      "merged": 1,
+      "latest": {
+        "repository": "anomalyco/opentui",
+        "number": 1503,
+        "title": "fix(core): pass markdown fg through to table cells",
+        "url": "https://github.com/anomalyco/opentui/pull/1503",
+        "merged_at": "2026-09-15T18:35:53Z"
+      }
+    },
+    {
+      "name": "plantuml/plantuml",
+      "url": "https://github.com/plantuml/plantuml",
+      "stars": 13375,
+      "language": "Java",
+      "merged": 1,
+      "latest": {
+        "repository": "plantuml/plantuml",
+        "number": 2894,
+        "title": "🐛 record included files again so !include skips duplicates",
+        "url": "https://github.com/plantuml/plantuml/pull/2894",
+        "merged_at": "2026-09-15T20:45:51Z"
+      }
+    },
+    {
+      "name": "go-resty/resty",
+      "url": "https://github.com/go-resty/resty",
+      "stars": 11815,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "go-resty/resty",
+        "number": 1240,
+        "title": "docs: clarify that trace timings cover one attempt",
+        "url": "https://github.com/go-resty/resty/pull/1240",
+        "merged_at": "2026-10-11T02:31:04Z"
+      }
+    },
+    {
+      "name": "sqlfluff/sqlfluff",
+      "url": "https://github.com/sqlfluff/sqlfluff",
+      "stars": 9985,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "sqlfluff/sqlfluff",
+        "number": 8638,
+        "title": "RF06: Preserve MySQL and MariaDB account quotes",
+        "url": "https://github.com/sqlfluff/sqlfluff/pull/8638",
+        "merged_at": "2026-10-03T12:12:09Z"
+      }
+    },
+    {
+      "name": "shopspring/decimal",
+      "url": "https://github.com/shopspring/decimal",
+      "stars": 7495,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "shopspring/decimal",
+        "number": 472,
+        "title": "fix: reject overflowing division precision",
+        "url": "https://github.com/shopspring/decimal/pull/472",
+        "merged_at": "2026-10-18T15:29:12Z"
+      }
+    },
+    {
+      "name": "pylint-dev/pylint",
+      "url": "https://github.com/pylint-dev/pylint",
+      "stars": 5739,
+      "language": "Python",
+      "merged": 2,
+      "latest": {
+        "repository": "pylint-dev/pylint",
+        "number": 11546,
+        "title": "Ignore discard variable type redefinitions",
+        "url": "https://github.com/pylint-dev/pylint/pull/11546",
+        "merged_at": "2026-10-10T20:31:17Z"
+      }
+    },
+    {
+      "name": "dromara/carbon",
+      "url": "https://github.com/dromara/carbon",
+      "stars": 5219,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "dromara/carbon",
+        "number": 383,
+        "title": "Synchronise frozen clock advances in Sleep",
+        "url": "https://github.com/dromara/carbon/pull/383",
+        "merged_at": "2026-10-19T05:08:45Z"
+      }
+    },
+    {
+      "name": "tox-dev/tox",
+      "url": "https://github.com/tox-dev/tox",
+      "stars": 3972,
+      "language": "Python",
+      "merged": 4,
+      "latest": {
+        "repository": "tox-dev/tox",
+        "number": 4067,
+        "title": "fix: correct coverage startup environment variable",
+        "url": "https://github.com/tox-dev/tox/pull/4067",
+        "merged_at": "2026-09-16T00:25:49Z"
+      }
+    },
+    {
+      "name": "sonos/tract",
+      "url": "https://github.com/sonos/tract",
+      "stars": 3093,
+      "language": "Rust",
+      "merged": 10,
+      "latest": {
+        "repository": "sonos/tract",
+        "number": 2863,
+        "title": "onnx: InstanceNorm statistics per sample",
+        "url": "https://github.com/sonos/tract/pull/2863",
+        "merged_at": "2026-09-15T09:47:50Z"
+      }
+    },
+    {
+      "name": "lepture/mistune",
+      "url": "https://github.com/lepture/mistune",
+      "stars": 3078,
+      "language": "Python",
+      "merged": 3,
+      "latest": {
+        "repository": "lepture/mistune",
+        "number": 507,
+        "title": "Document per-document renderer context",
+        "url": "https://github.com/lepture/mistune/pull/507",
+        "merged_at": "2026-10-19T09:42:18Z"
+      }
+    },
+    {
+      "name": "kayak/pypika",
+      "url": "https://github.com/kayak/pypika",
+      "stars": 2924,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "kayak/pypika",
+        "number": 3544,
+        "title": "fix: render valid JSON boolean and null literals",
+        "url": "https://github.com/kayak/pypika/pull/3544",
+        "merged_at": "2026-10-19T06:09:14Z"
+      }
+    },
+    {
+      "name": "spf13/pflag",
+      "url": "https://github.com/spf13/pflag",
+      "stars": 2780,
+      "language": "Go",
+      "merged": 2,
+      "latest": {
+        "repository": "spf13/pflag",
+        "number": 523,
+        "title": "Document non-interspersed argument parsing",
+        "url": "https://github.com/spf13/pflag/pull/523",
+        "merged_at": "2026-10-19T08:37:57Z"
+      }
+    },
+    {
+      "name": "raspberrypi/rpi-imager",
+      "url": "https://github.com/raspberrypi/rpi-imager",
+      "stars": 2639,
+      "language": "C++",
+      "merged": 2,
+      "latest": {
+        "repository": "raspberrypi/rpi-imager",
+        "number": 1732,
+        "title": "fix(linux): reap io_uring completions while waiting for a ring buffer slot",
+        "url": "https://github.com/raspberrypi/rpi-imager/pull/1732",
+        "merged_at": "2026-10-02T11:06:28Z"
+      }
+    },
+    {
+      "name": "gookit/goutil",
+      "url": "https://github.com/gookit/goutil",
+      "stars": 2360,
+      "language": "Go",
+      "merged": 15,
+      "latest": {
+        "repository": "gookit/goutil",
+        "number": 291,
+        "title": "fix(strutil): parse variable RFC3339 fractional seconds",
+        "url": "https://github.com/gookit/goutil/pull/291",
+        "merged_at": "2026-10-19T07:35:40Z"
+      }
+    },
+    {
+      "name": "alexflint/go-arg",
+      "url": "https://github.com/alexflint/go-arg",
+      "stars": 2287,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "alexflint/go-arg",
+        "number": 307,
+        "title": "Avoid panics when parsing nil slice and map pointers",
+        "url": "https://github.com/alexflint/go-arg/pull/307",
+        "merged_at": "2026-10-19T01:15:59Z"
+      }
+    },
+    {
+      "name": "gabriel-vasile/mimetype",
+      "url": "https://github.com/gabriel-vasile/mimetype",
+      "stars": 2024,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "gabriel-vasile/mimetype",
+        "number": 852,
+        "title": "fix: normalise extended MIME aliases",
+        "url": "https://github.com/gabriel-vasile/mimetype/pull/852",
+        "merged_at": "2026-10-19T09:46:17Z"
+      }
+    },
+    {
+      "name": "gookit/color",
+      "url": "https://github.com/gookit/color",
+      "stars": 1607,
+      "language": "Go",
+      "merged": 2,
+      "latest": {
+        "repository": "gookit/color",
+        "number": 126,
+        "title": "fix: count options when checking RGBStyle emptiness",
+        "url": "https://github.com/gookit/color/pull/126",
+        "merged_at": "2026-10-19T11:10:03Z"
+      }
+    },
+    {
+      "name": "DLTcollab/sse2neon",
+      "url": "https://github.com/DLTcollab/sse2neon",
+      "stars": 1532,
+      "language": "C++",
+      "merged": 1,
+      "latest": {
+        "repository": "DLTcollab/sse2neon",
+        "number": 775,
+        "title": "Restore hardware AES path for MSVC ARM64",
+        "url": "https://github.com/DLTcollab/sse2neon/pull/775",
+        "merged_at": "2026-09-13T14:39:10Z"
+      }
+    },
+    {
+      "name": "dgilland/pydash",
+      "url": "https://github.com/dgilland/pydash",
+      "stars": 1448,
+      "language": "Python",
+      "merged": 4,
+      "latest": {
+        "repository": "dgilland/pydash",
+        "number": 334,
+        "title": "Fall back to equality when match customizers return None",
+        "url": "https://github.com/dgilland/pydash/pull/334",
+        "merged_at": "2026-10-18T17:24:56Z"
+      }
+    },
+    {
+      "name": "huandu/xstrings",
+      "url": "https://github.com/huandu/xstrings",
+      "stars": 1412,
+      "language": "Go",
+      "merged": 2,
+      "latest": {
+        "repository": "huandu/xstrings",
+        "number": 74,
+        "title": "Preserve untouched bytes when expanding tabs",
+        "url": "https://github.com/huandu/xstrings/pull/74",
+        "merged_at": "2026-10-20T05:11:00Z"
+      }
+    },
+    {
+      "name": "dlclark/regexp2",
+      "url": "https://github.com/dlclark/regexp2",
+      "stars": 1192,
+      "language": "Go",
+      "merged": 2,
+      "latest": {
+        "repository": "dlclark/regexp2",
+        "number": 134,
+        "title": "Reject invalid numeric group names",
+        "url": "https://github.com/dlclark/regexp2/pull/134",
+        "merged_at": "2026-10-19T21:13:29Z"
+      }
+    },
+    {
+      "name": "twpayne/go-geom",
+      "url": "https://github.com/twpayne/go-geom",
+      "stars": 985,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "twpayne/go-geom",
+        "number": 278,
+        "title": "Handle nested geometry collections when extending bounds",
+        "url": "https://github.com/twpayne/go-geom/pull/278",
+        "merged_at": "2026-10-18T20:42:45Z"
+      }
+    },
+    {
+      "name": "ohler55/ojg",
+      "url": "https://github.com/ohler55/ojg",
+      "stars": 956,
+      "language": "Go",
+      "merged": 4,
+      "latest": {
+        "repository": "ohler55/ojg",
+        "number": 249,
+        "title": "jp: check every reflected wildcard child in Has",
+        "url": "https://github.com/ohler55/ojg/pull/249",
+        "merged_at": "2026-10-19T00:08:16Z"
+      }
+    },
+    {
+      "name": "antchfx/htmlquery",
+      "url": "https://github.com/antchfx/htmlquery",
+      "stars": 783,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "antchfx/htmlquery",
+        "number": 84,
+        "title": "Clear the attribute cursor when moving to the root",
+        "url": "https://github.com/antchfx/htmlquery/pull/84",
+        "merged_at": "2026-10-19T13:58:03Z"
+      }
+    },
+    {
+      "name": "andybalholm/cascadia",
+      "url": "https://github.com/andybalholm/cascadia",
+      "stars": 760,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "andybalholm/cascadia",
+        "number": 76,
+        "title": "Respect language overrides in :lang selectors",
+        "url": "https://github.com/andybalholm/cascadia/pull/76",
+        "merged_at": "2026-10-19T18:02:42Z"
+      }
+    },
+    {
+      "name": "antchfx/xpath",
+      "url": "https://github.com/antchfx/xpath",
+      "stars": 742,
+      "language": "Go",
+      "merged": 2,
+      "latest": {
+        "repository": "antchfx/xpath",
+        "number": 164,
+        "title": "Treat empty node sets as empty strings in predicates",
+        "url": "https://github.com/antchfx/xpath/pull/164",
+        "merged_at": "2026-10-20T13:43:13Z"
+      }
+    },
+    {
+      "name": "smallnest/ringbuffer",
+      "url": "https://github.com/smallnest/ringbuffer",
+      "stars": 650,
+      "language": "Go",
+      "merged": 4,
+      "latest": {
+        "repository": "smallnest/ringbuffer",
+        "number": 37,
+        "title": "Honour write timeouts without closing the buffer",
+        "url": "https://github.com/smallnest/ringbuffer/pull/37",
+        "merged_at": "2026-10-19T02:35:29Z"
+      }
+    },
+    {
+      "name": "etemesi254/zune-image",
+      "url": "https://github.com/etemesi254/zune-image",
+      "stars": 504,
+      "language": "Rust",
+      "merged": 2,
+      "latest": {
+        "repository": "etemesi254/zune-image",
+        "number": 446,
+        "title": "png: Map cICP transfer characteristics per H.273",
+        "url": "https://github.com/etemesi254/zune-image/pull/446",
+        "merged_at": "2026-09-20T17:08:58Z"
+      }
+    },
+    {
+      "name": "CoWork-OS/CoWork-OS",
+      "url": "https://github.com/CoWork-OS/CoWork-OS",
+      "stars": 495,
+      "language": "TypeScript",
+      "merged": 2,
+      "latest": {
+        "repository": "CoWork-OS/CoWork-OS",
+        "number": 684,
+        "title": "fix(voice): preserve identifiers and skip images",
+        "url": "https://github.com/CoWork-OS/CoWork-OS/pull/684",
+        "merged_at": "2026-10-18T12:12:24Z"
+      }
+    },
+    {
+      "name": "ndycode/oc-codex-multi-auth",
+      "url": "https://github.com/ndycode/oc-codex-multi-auth",
+      "stars": 206,
+      "language": "TypeScript",
+      "merged": 2,
+      "latest": {
+        "repository": "ndycode/oc-codex-multi-auth",
+        "number": 283,
+        "title": "feat(quota): optionally spend a banked reset credit when the weekly quota runs low",
+        "url": "https://github.com/ndycode/oc-codex-multi-auth/pull/283",
+        "merged_at": "2026-09-29T23:26:14Z"
+      }
+    },
+    {
+      "name": "tracel-ai/burn-onnx",
+      "url": "https://github.com/tracel-ai/burn-onnx",
+      "stars": 138,
+      "language": "Rust",
+      "merged": 3,
+      "latest": {
+        "repository": "tracel-ai/burn-onnx",
+        "number": 525,
+        "title": "Infer Squeeze output rank from runtime axes count",
+        "url": "https://github.com/tracel-ai/burn-onnx/pull/525",
+        "merged_at": "2026-09-14T20:21:56Z"
+      }
+    },
+    {
+      "name": "prakhar1605/Opencollab-mcp",
+      "url": "https://github.com/prakhar1605/Opencollab-mcp",
+      "stars": 31,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "prakhar1605/Opencollab-mcp",
+        "number": 124,
+        "title": "fix: mark locked issues unavailable",
+        "url": "https://github.com/prakhar1605/Opencollab-mcp/pull/124",
+        "merged_at": "2026-10-09T06:26:34Z"
+      }
+    },
+    {
+      "name": "MakeItEzzz555/tuck-bit",
+      "url": "https://github.com/MakeItEzzz555/tuck-bit",
+      "stars": 25,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "MakeItEzzz555/tuck-bit",
+        "number": 7,
+        "title": "Test privacy-audit boundaries and failure handling",
+        "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
+        "merged_at": "2026-10-18T06:57:46Z"
+      }
+    },
+    {
+      "name": "wassim-azi/agy-powerline",
+      "url": "https://github.com/wassim-azi/agy-powerline",
+      "stars": 16,
+      "language": "JavaScript",
+      "merged": 3,
+      "latest": {
+        "repository": "wassim-azi/agy-powerline",
+        "number": 79,
+        "title": "test(exec): cover disk cache and error branches",
+        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
+        "merged_at": "2026-10-18T07:15:56Z"
+      }
+    },
+    {
+      "name": "chinthanasathyajithcs/qpaste",
+      "url": "https://github.com/chinthanasathyajithcs/qpaste",
+      "stars": 15,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "chinthanasathyajithcs/qpaste",
+        "number": 10,
+        "title": "Fix recording with modifiers already held",
+        "url": "https://github.com/chinthanasathyajithcs/qpaste/pull/10",
+        "merged_at": "2026-10-18T01:24:44Z"
+      }
+    },
+    {
+      "name": "LeagueToolkit/league-toolkit",
+      "url": "https://github.com/LeagueToolkit/league-toolkit",
+      "stars": 15,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "LeagueToolkit/league-toolkit",
+        "number": 236,
+        "title": "fix(ltk_anim): error on malformed input",
+        "url": "https://github.com/LeagueToolkit/league-toolkit/pull/236",
+        "merged_at": "2026-09-13T22:46:46Z"
+      }
+    },
+    {
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 15,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
+      }
+    },
+    {
+      "name": "abduznik/bitbox",
+      "url": "https://github.com/abduznik/bitbox",
+      "stars": 13,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "abduznik/bitbox",
+        "number": 556,
+        "title": "[tool] rotate_string",
+        "url": "https://github.com/abduznik/bitbox/pull/556",
+        "merged_at": "2026-10-08T05:37:32Z"
+      }
+    },
+    {
+      "name": "404-PF/New-Tab",
+      "url": "https://github.com/404-PF/New-Tab",
+      "stars": 8,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "404-PF/New-Tab",
+        "number": 849,
+        "title": "fix: complete offline source unit conversions",
+        "url": "https://github.com/404-PF/New-Tab/pull/849",
+        "merged_at": "2026-10-18T00:57:04Z"
+      }
+    },
+    {
+      "name": "aws-samples/sample-aws-genai-db-modernizer",
+      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
+      "stars": 8,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "aws-samples/sample-aws-genai-db-modernizer",
+        "number": 392,
+        "title": "fix(schema-design): reject Aurora split requests",
+        "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
+        "merged_at": "2026-10-07T13:30:46Z"
+      }
+    },
+    {
+      "name": "ChristianHandy/FleetPilot",
+      "url": "https://github.com/ChristianHandy/FleetPilot",
+      "stars": 5,
+      "language": "Python",
+      "merged": 2,
+      "latest": {
+        "repository": "ChristianHandy/FleetPilot",
+        "number": 140,
+        "title": "Add a report of missing template translations",
+        "url": "https://github.com/ChristianHandy/FleetPilot/pull/140",
+        "merged_at": "2026-10-18T10:16:06Z"
+      }
+    },
+    {
+      "name": "deyna256/convy",
+      "url": "https://github.com/deyna256/convy",
+      "stars": 4,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "deyna256/convy",
+        "number": 15,
+        "title": "#8: keep written dialogue list numbers",
+        "url": "https://github.com/deyna256/convy/pull/15",
+        "merged_at": "2026-10-10T13:35:16Z"
+      }
+    },
+    {
+      "name": "syncronix-labs/aegora",
+      "url": "https://github.com/syncronix-labs/aegora",
+      "stars": 4,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "syncronix-labs/aegora",
+        "number": 18,
+        "title": "feat(cache): report Age on cache hits",
+        "url": "https://github.com/syncronix-labs/aegora/pull/18",
+        "merged_at": "2026-10-18T07:46:27Z"
+      }
+    },
+    {
+      "name": "AdamDiStefanoAI/acr-standard",
+      "url": "https://github.com/AdamDiStefanoAI/acr-standard",
+      "stars": 2,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "AdamDiStefanoAI/acr-standard",
+        "number": 31,
+        "title": "test(sdk): prove denial blocks tool execution",
+        "url": "https://github.com/AdamDiStefanoAI/acr-standard/pull/31",
+        "merged_at": "2026-10-18T03:09:50Z"
+      }
+    },
+    {
+      "name": "nikhilxsunder/cultivars",
+      "url": "https://github.com/nikhilxsunder/cultivars",
+      "stars": 2,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "nikhilxsunder/cultivars",
+        "number": 494,
+        "title": "fix: validate ARMA order before unpacking",
+        "url": "https://github.com/nikhilxsunder/cultivars/pull/494",
+        "merged_at": "2026-10-13T23:02:24Z"
+      }
+    },
+    {
+      "name": "centuryglass/sd-backend-client",
+      "url": "https://github.com/centuryglass/sd-backend-client",
+      "stars": 1,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "centuryglass/sd-backend-client",
+        "number": 72,
+        "title": "fix: allow model fields on supported Pydantic versions",
+        "url": "https://github.com/centuryglass/sd-backend-client/pull/72",
+        "merged_at": "2026-10-06T17:55:48Z"
+      }
+    },
+    {
+      "name": "onurbaydas/VirtoMir",
+      "url": "https://github.com/onurbaydas/VirtoMir",
+      "stars": 1,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "onurbaydas/VirtoMir",
+        "number": 8,
+        "title": "test: cover UI formatting boundaries",
+        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+        "merged_at": "2026-10-17T22:20:08Z"
+      }
+    },
+    {
+      "name": "SamuelNDCE/plume",
+      "url": "https://github.com/SamuelNDCE/plume",
+      "stars": 1,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "SamuelNDCE/plume",
+        "number": 11,
+        "title": "Fix Ctrl+Shift+Z redo in the source editor",
+        "url": "https://github.com/SamuelNDCE/plume/pull/11",
+        "merged_at": "2026-10-08T20:36:49Z"
+      }
+    },
+    {
+      "name": "arminazimi/seaworthy",
+      "url": "https://github.com/arminazimi/seaworthy",
+      "stars": 0,
+      "language": "TypeScript",
+      "merged": 2,
+      "latest": {
+        "repository": "arminazimi/seaworthy",
+        "number": 384,
+        "title": "feat(verify): report untitled iframes",
+        "url": "https://github.com/arminazimi/seaworthy/pull/384",
+        "merged_at": "2026-10-18T11:42:16Z"
+      }
+    },
+    {
+      "name": "Buildingcoolstuff/Codecritter-",
+      "url": "https://github.com/Buildingcoolstuff/Codecritter-",
+      "stars": 0,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "Buildingcoolstuff/Codecritter-",
+        "number": 32,
+        "title": "fix: query diagnostics only for visible documents",
+        "url": "https://github.com/Buildingcoolstuff/Codecritter-/pull/32",
+        "merged_at": "2026-10-19T06:14:41Z"
+      }
+    }
+  ],
+  "pull_requests": [
+    {
+      "repository": "antchfx/xpath",
+      "number": 164,
+      "title": "Treat empty node sets as empty strings in predicates",
+      "url": "https://github.com/antchfx/xpath/pull/164",
+      "merged_at": "2026-10-20T13:43:13Z"
+    },
+    {
+      "repository": "antchfx/xpath",
+      "number": 163,
+      "title": "Preserve infinity when number strings overflow",
+      "url": "https://github.com/antchfx/xpath/pull/163",
+      "merged_at": "2026-10-20T13:43:13Z"
+    },
+    {
+      "repository": "huandu/xstrings",
+      "number": 74,
+      "title": "Preserve untouched bytes when expanding tabs",
+      "url": "https://github.com/huandu/xstrings/pull/74",
+      "merged_at": "2026-10-20T05:11:00Z"
+    },
+    {
+      "repository": "huandu/xstrings",
+      "number": 73,
+      "title": "Preserve untouched bytes when squeezing strings",
+      "url": "https://github.com/huandu/xstrings/pull/73",
+      "merged_at": "2026-10-20T05:10:51Z"
+    },
+    {
+      "repository": "dlclark/regexp2",
+      "number": 134,
+      "title": "Reject invalid numeric group names",
+      "url": "https://github.com/dlclark/regexp2/pull/134",
+      "merged_at": "2026-10-19T21:13:29Z"
+    },
+    {
+      "repository": "dlclark/regexp2",
+      "number": 133,
+      "title": "Preserve input when replacement count is zero",
+      "url": "https://github.com/dlclark/regexp2/pull/133",
+      "merged_at": "2026-10-19T21:00:34Z"
+    },
+    {
+      "repository": "andybalholm/cascadia",
+      "number": 76,
+      "title": "Respect language overrides in :lang selectors",
+      "url": "https://github.com/andybalholm/cascadia/pull/76",
+      "merged_at": "2026-10-19T18:02:42Z"
+    },
+    {
+      "repository": "go-playground/validator",
+      "number": 1672,
+      "title": "Clarify separators for non-existent directory paths",
+      "url": "https://github.com/go-playground/validator/pull/1672",
+      "merged_at": "2026-10-19T16:31:14Z"
+    },
+    {
+      "repository": "antchfx/htmlquery",
+      "number": 84,
+      "title": "Clear the attribute cursor when moving to the root",
+      "url": "https://github.com/antchfx/htmlquery/pull/84",
+      "merged_at": "2026-10-19T13:58:03Z"
+    },
+    {
+      "repository": "gookit/color",
+      "number": 126,
+      "title": "fix: count options when checking RGBStyle emptiness",
+      "url": "https://github.com/gookit/color/pull/126",
+      "merged_at": "2026-10-19T11:10:03Z"
+    },
+    {
+      "repository": "gookit/color",
+      "number": 125,
+      "title": "fix: use background SGR code for white tags",
+      "url": "https://github.com/gookit/color/pull/125",
+      "merged_at": "2026-10-19T11:09:54Z"
+    },
+    {
+      "repository": "gabriel-vasile/mimetype",
+      "number": 852,
+      "title": "fix: normalise extended MIME aliases",
+      "url": "https://github.com/gabriel-vasile/mimetype/pull/852",
+      "merged_at": "2026-10-19T09:46:17Z"
+    },
+    {
+      "repository": "lepture/mistune",
+      "number": 507,
+      "title": "Document per-document renderer context",
+      "url": "https://github.com/lepture/mistune/pull/507",
+      "merged_at": "2026-10-19T09:42:18Z"
+    },
+    {
+      "repository": "lepture/mistune",
+      "number": 508,
+      "title": "Use the custom Markdown renderer in the plugin example",
+      "url": "https://github.com/lepture/mistune/pull/508",
+      "merged_at": "2026-10-19T09:42:12Z"
+    },
+    {
+      "repository": "lepture/mistune",
+      "number": 510,
+      "title": "Preserve hard line breaks in ReST list items",
+      "url": "https://github.com/lepture/mistune/pull/510",
+      "merged_at": "2026-10-19T09:42:00Z"
+    },
+    {
+      "repository": "spf13/pflag",
+      "number": 523,
+      "title": "Document non-interspersed argument parsing",
+      "url": "https://github.com/spf13/pflag/pull/523",
+      "merged_at": "2026-10-19T08:37:57Z"
+    },
+    {
+      "repository": "spf13/pflag",
+      "number": 524,
+      "title": "Reject IPv6 addresses as IPv4 masks",
+      "url": "https://github.com/spf13/pflag/pull/524",
+      "merged_at": "2026-10-19T08:30:34Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 291,
+      "title": "fix(strutil): parse variable RFC3339 fractional seconds",
+      "url": "https://github.com/gookit/goutil/pull/291",
+      "merged_at": "2026-10-19T07:35:40Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 290,
+      "title": "fix(strutil): reject byte units without a numeric value",
+      "url": "https://github.com/gookit/goutil/pull/290",
+      "merged_at": "2026-10-19T07:35:34Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 289,
+      "title": "fix(strutil): honour the configured size-range separator",
+      "url": "https://github.com/gookit/goutil/pull/289",
+      "merged_at": "2026-10-19T07:35:29Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 288,
+      "title": "fix(strutil): split inline comments at the first marker",
+      "url": "https://github.com/gookit/goutil/pull/288",
+      "merged_at": "2026-10-19T07:35:24Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 287,
+      "title": "fix(strutil): clamp large substring lengths without overflow",
+      "url": "https://github.com/gookit/goutil/pull/287",
+      "merged_at": "2026-10-19T07:35:14Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 286,
+      "title": "fix(mathutil): apply nil policy before pointer conversion",
+      "url": "https://github.com/gookit/goutil/pull/286",
+      "merged_at": "2026-10-19T07:35:08Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 285,
+      "title": "fix(mathutil): report unsupported pointer conversions",
+      "url": "https://github.com/gookit/goutil/pull/285",
+      "merged_at": "2026-10-19T07:35:04Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 284,
+      "title": "fix(arrutil): filter nil interface values without panicking",
+      "url": "https://github.com/gookit/goutil/pull/284",
+      "merged_at": "2026-10-19T07:34:59Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 283,
+      "title": "fix(mathutil): reject floats consistently in strict mode",
+      "url": "https://github.com/gookit/goutil/pull/283",
+      "merged_at": "2026-10-19T07:34:54Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 282,
+      "title": "fix(strutil): emit the zero digit in base conversion",
+      "url": "https://github.com/gookit/goutil/pull/282",
+      "merged_at": "2026-10-19T07:34:49Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 281,
+      "title": "fix(strutil): apply default padding to UTF-8 text",
+      "url": "https://github.com/gookit/goutil/pull/281",
+      "merged_at": "2026-10-19T07:34:44Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 280,
+      "title": "fix(maputil): merge values into nil inner maps",
+      "url": "https://github.com/gookit/goutil/pull/280",
+      "merged_at": "2026-10-19T07:34:35Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 279,
+      "title": "fix(strutil): synchronise serial number defaults",
+      "url": "https://github.com/gookit/goutil/pull/279",
+      "merged_at": "2026-10-19T07:34:29Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 278,
+      "title": "fix(strutil): honour empty replacement keys",
+      "url": "https://github.com/gookit/goutil/pull/278",
+      "merged_at": "2026-10-19T07:34:24Z"
+    },
+    {
+      "repository": "gookit/goutil",
+      "number": 277,
+      "title": "fix(arrutil): bound ChunkBy allocation to the input",
+      "url": "https://github.com/gookit/goutil/pull/277",
+      "merged_at": "2026-10-19T07:34:19Z"
+    },
+    {
+      "repository": "redis/go-redis",
+      "number": 4160,
+      "title": "fix(command): put IGNORE before LABELS",
+      "url": "https://github.com/redis/go-redis/pull/4160",
+      "merged_at": "2026-10-19T07:17:19Z"
+    },
+    {
+      "repository": "Buildingcoolstuff/Codecritter-",
+      "number": 32,
+      "title": "fix: query diagnostics only for visible documents",
+      "url": "https://github.com/Buildingcoolstuff/Codecritter-/pull/32",
+      "merged_at": "2026-10-19T06:14:41Z"
+    },
+    {
+      "repository": "kayak/pypika",
+      "number": 3544,
+      "title": "fix: render valid JSON boolean and null literals",
+      "url": "https://github.com/kayak/pypika/pull/3544",
+      "merged_at": "2026-10-19T06:09:14Z"
+    },
+    {
+      "repository": "dromara/carbon",
+      "number": 383,
+      "title": "Synchronise frozen clock advances in Sleep",
+      "url": "https://github.com/dromara/carbon/pull/383",
+      "merged_at": "2026-10-19T05:08:45Z"
+    },
+    {
+      "repository": "smallnest/ringbuffer",
+      "number": 37,
+      "title": "Honour write timeouts without closing the buffer",
+      "url": "https://github.com/smallnest/ringbuffer/pull/37",
+      "merged_at": "2026-10-19T02:35:29Z"
+    },
+    {
+      "repository": "smallnest/ringbuffer",
+      "number": 36,
+      "title": "Count bytes accepted by a short writer",
+      "url": "https://github.com/smallnest/ringbuffer/pull/36",
+      "merged_at": "2026-10-19T02:33:24Z"
+    },
+    {
+      "repository": "smallnest/ringbuffer",
+      "number": 35,
+      "title": "Wake blocked writers after reading a byte",
+      "url": "https://github.com/smallnest/ringbuffer/pull/35",
+      "merged_at": "2026-10-19T02:33:19Z"
+    },
+    {
+      "repository": "smallnest/ringbuffer",
+      "number": 34,
+      "title": "Preserve transferred byte counts on timeout",
+      "url": "https://github.com/smallnest/ringbuffer/pull/34",
+      "merged_at": "2026-10-19T02:33:14Z"
+    },
+    {
+      "repository": "alexflint/go-arg",
+      "number": 307,
+      "title": "Avoid panics when parsing nil slice and map pointers",
+      "url": "https://github.com/alexflint/go-arg/pull/307",
+      "merged_at": "2026-10-19T01:15:59Z"
+    },
+    {
+      "repository": "ohler55/ojg",
+      "number": 249,
+      "title": "jp: check every reflected wildcard child in Has",
+      "url": "https://github.com/ohler55/ojg/pull/249",
+      "merged_at": "2026-10-19T00:08:16Z"
+    },
+    {
+      "repository": "ohler55/ojg",
+      "number": 247,
+      "title": "jp: traverse typed maps in Has",
+      "url": "https://github.com/ohler55/ojg/pull/247",
+      "merged_at": "2026-10-18T22:05:10Z"
+    },
+    {
+      "repository": "ohler55/ojg",
+      "number": 245,
+      "title": "jp: respect reflected slice bounds in Has",
+      "url": "https://github.com/ohler55/ojg/pull/245",
+      "merged_at": "2026-10-18T20:54:31Z"
+    },
+    {
+      "repository": "twpayne/go-geom",
+      "number": 278,
+      "title": "Handle nested geometry collections when extending bounds",
+      "url": "https://github.com/twpayne/go-geom/pull/278",
+      "merged_at": "2026-10-18T20:42:45Z"
+    },
+    {
+      "repository": "ohler55/ojg",
+      "number": 244,
+      "title": "Return no matches for out-of-range reverse slices",
+      "url": "https://github.com/ohler55/ojg/pull/244",
+      "merged_at": "2026-10-18T20:18:53Z"
+    },
+    {
+      "repository": "dgilland/pydash",
+      "number": 334,
+      "title": "Fall back to equality when match customizers return None",
+      "url": "https://github.com/dgilland/pydash/pull/334",
+      "merged_at": "2026-10-18T17:24:56Z"
+    },
+    {
+      "repository": "shopspring/decimal",
+      "number": 472,
+      "title": "fix: reject overflowing division precision",
+      "url": "https://github.com/shopspring/decimal/pull/472",
+      "merged_at": "2026-10-18T15:29:12Z"
+    },
+    {
+      "repository": "CoWork-OS/CoWork-OS",
+      "number": 684,
+      "title": "fix(voice): preserve identifiers and skip images",
+      "url": "https://github.com/CoWork-OS/CoWork-OS/pull/684",
+      "merged_at": "2026-10-18T12:12:24Z"
+    },
+    {
+      "repository": "CoWork-OS/CoWork-OS",
+      "number": 640,
+      "title": "docs(providers): document LM Studio setup",
+      "url": "https://github.com/CoWork-OS/CoWork-OS/pull/640",
+      "merged_at": "2026-10-18T12:10:15Z"
+    },
+    {
+      "repository": "arminazimi/seaworthy",
+      "number": 384,
+      "title": "feat(verify): report untitled iframes",
+      "url": "https://github.com/arminazimi/seaworthy/pull/384",
+      "merged_at": "2026-10-18T11:42:16Z"
+    },
+    {
+      "repository": "ChristianHandy/FleetPilot",
+      "number": 140,
+      "title": "Add a report of missing template translations",
+      "url": "https://github.com/ChristianHandy/FleetPilot/pull/140",
+      "merged_at": "2026-10-18T10:16:06Z"
+    },
+    {
+      "repository": "ChristianHandy/FleetPilot",
+      "number": 139,
+      "title": "Add a concise pull request template",
+      "url": "https://github.com/ChristianHandy/FleetPilot/pull/139",
+      "merged_at": "2026-10-18T10:05:51Z"
+    },
+    {
+      "repository": "syncronix-labs/aegora",
+      "number": 18,
+      "title": "feat(cache): report Age on cache hits",
+      "url": "https://github.com/syncronix-labs/aegora/pull/18",
+      "merged_at": "2026-10-18T07:46:27Z"
+    },
+    {
+      "repository": "wassim-azi/agy-powerline",
+      "number": 79,
+      "title": "test(exec): cover disk cache and error branches",
+      "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
+      "merged_at": "2026-10-18T07:15:56Z"
+    },
+    {
+      "repository": "wassim-azi/agy-powerline",
+      "number": 77,
+      "title": "style: enable strict mode in every source file",
+      "url": "https://github.com/wassim-azi/agy-powerline/pull/77",
+      "merged_at": "2026-10-18T07:11:16Z"
+    },
+    {
+      "repository": "wassim-azi/agy-powerline",
+      "number": 75,
+      "title": "refactor(cli): centralise the repository URL",
+      "url": "https://github.com/wassim-azi/agy-powerline/pull/75",
+      "merged_at": "2026-10-18T07:10:12Z"
+    },
+    {
+      "repository": "MakeItEzzz555/tuck-bit",
+      "number": 7,
+      "title": "Test privacy-audit boundaries and failure handling",
+      "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
+      "merged_at": "2026-10-18T06:57:46Z"
+    },
+    {
+      "repository": "arminazimi/seaworthy",
+      "number": 385,
+      "title": "fix(sarif): encode paths and pin CRLF behaviour",
+      "url": "https://github.com/arminazimi/seaworthy/pull/385",
+      "merged_at": "2026-10-18T06:52:13Z"
+    },
+    {
+      "repository": "wmentor/go-magnetar",
+      "number": 150,
+      "title": "fix(help): return markdown through command output",
+      "url": "https://github.com/wmentor/go-magnetar/pull/150",
+      "merged_at": "2026-10-18T06:27:49Z"
+    },
+    {
+      "repository": "AdamDiStefanoAI/acr-standard",
+      "number": 31,
+      "title": "test(sdk): prove denial blocks tool execution",
+      "url": "https://github.com/AdamDiStefanoAI/acr-standard/pull/31",
+      "merged_at": "2026-10-18T03:09:50Z"
+    },
+    {
+      "repository": "chinthanasathyajithcs/qpaste",
+      "number": 10,
+      "title": "Fix recording with modifiers already held",
+      "url": "https://github.com/chinthanasathyajithcs/qpaste/pull/10",
+      "merged_at": "2026-10-18T01:24:44Z"
+    },
+    {
+      "repository": "404-PF/New-Tab",
+      "number": 849,
+      "title": "fix: complete offline source unit conversions",
+      "url": "https://github.com/404-PF/New-Tab/pull/849",
+      "merged_at": "2026-10-18T00:57:04Z"
+    },
+    {
+      "repository": "dgilland/pydash",
+      "number": 321,
+      "title": "Keep anchored replacements at string boundaries",
+      "url": "https://github.com/dgilland/pydash/pull/321",
+      "merged_at": "2026-10-18T00:09:41Z"
+    },
+    {
+      "repository": "dgilland/pydash",
+      "number": 320,
+      "title": "Correct the pull_at return description",
+      "url": "https://github.com/dgilland/pydash/pull/320",
+      "merged_at": "2026-10-18T00:09:07Z"
+    },
+    {
+      "repository": "onurbaydas/VirtoMir",
+      "number": 8,
+      "title": "test: cover UI formatting boundaries",
+      "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+      "merged_at": "2026-10-17T22:20:08Z"
+    },
+    {
+      "repository": "BerriAI/litellm",
+      "number": 41677,
+      "title": "fix(proxy): allow model instances in LiteLLM_EndUserTable validation",
+      "url": "https://github.com/BerriAI/litellm/pull/41677",
+      "merged_at": "2026-10-15T17:57:27Z"
+    },
+    {
+      "repository": "nikhilxsunder/cultivars",
+      "number": 494,
+      "title": "fix: validate ARMA order before unpacking",
+      "url": "https://github.com/nikhilxsunder/cultivars/pull/494",
+      "merged_at": "2026-10-13T23:02:24Z"
+    },
+    {
+      "repository": "go-resty/resty",
+      "number": 1240,
+      "title": "docs: clarify that trace timings cover one attempt",
+      "url": "https://github.com/go-resty/resty/pull/1240",
+      "merged_at": "2026-10-11T02:31:04Z"
+    },
+    {
+      "repository": "pylint-dev/pylint",
+      "number": 11546,
+      "title": "Ignore discard variable type redefinitions",
+      "url": "https://github.com/pylint-dev/pylint/pull/11546",
+      "merged_at": "2026-10-10T20:31:17Z"
+    },
+    {
+      "repository": "deyna256/convy",
+      "number": 15,
+      "title": "#8: keep written dialogue list numbers",
+      "url": "https://github.com/deyna256/convy/pull/15",
+      "merged_at": "2026-10-10T13:35:16Z"
+    },
+    {
+      "repository": "affaan-m/ECC",
+      "number": 3115,
+      "title": "fix: resolve OpenCode source imports and installed skills paths",
+      "url": "https://github.com/affaan-m/ECC/pull/3115",
+      "merged_at": "2026-10-10T00:07:17Z"
+    },
+    {
+      "repository": "prakhar1605/Opencollab-mcp",
+      "number": 124,
+      "title": "fix: mark locked issues unavailable",
+      "url": "https://github.com/prakhar1605/Opencollab-mcp/pull/124",
+      "merged_at": "2026-10-09T06:26:34Z"
+    },
+    {
+      "repository": "SamuelNDCE/plume",
+      "number": 11,
+      "title": "Fix Ctrl+Shift+Z redo in the source editor",
+      "url": "https://github.com/SamuelNDCE/plume/pull/11",
+      "merged_at": "2026-10-08T20:36:49Z"
+    },
+    {
+      "repository": "abduznik/bitbox",
+      "number": 556,
+      "title": "[tool] rotate_string",
+      "url": "https://github.com/abduznik/bitbox/pull/556",
+      "merged_at": "2026-10-08T05:37:32Z"
+    },
+    {
+      "repository": "aws-samples/sample-aws-genai-db-modernizer",
+      "number": 392,
+      "title": "fix(schema-design): reject Aurora split requests",
+      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
+      "merged_at": "2026-10-07T13:30:46Z"
+    },
+    {
+      "repository": "dgilland/pydash",
+      "number": 282,
+      "title": "Keep complete words at truncate separator boundaries",
+      "url": "https://github.com/dgilland/pydash/pull/282",
+      "merged_at": "2026-10-07T00:47:10Z"
+    },
+    {
+      "repository": "centuryglass/sd-backend-client",
+      "number": 72,
+      "title": "fix: allow model fields on supported Pydantic versions",
+      "url": "https://github.com/centuryglass/sd-backend-client/pull/72",
+      "merged_at": "2026-10-06T17:55:48Z"
+    },
+    {
+      "repository": "pylint-dev/pylint",
+      "number": 11538,
+      "title": "Allow __main__ in module naming presets",
+      "url": "https://github.com/pylint-dev/pylint/pull/11538",
+      "merged_at": "2026-10-03T14:10:06Z"
+    },
+    {
+      "repository": "sqlfluff/sqlfluff",
+      "number": 8638,
+      "title": "RF06: Preserve MySQL and MariaDB account quotes",
+      "url": "https://github.com/sqlfluff/sqlfluff/pull/8638",
+      "merged_at": "2026-10-03T12:12:09Z"
+    },
+    {
+      "repository": "raspberrypi/rpi-imager",
+      "number": 1732,
+      "title": "fix(linux): reap io_uring completions while waiting for a ring buffer slot",
+      "url": "https://github.com/raspberrypi/rpi-imager/pull/1732",
+      "merged_at": "2026-10-02T11:06:28Z"
+    },
+    {
+      "repository": "raspberrypi/rpi-imager",
+      "number": 1737,
+      "title": "fix(fetch): distinguish URL normalisation from redirects",
+      "url": "https://github.com/raspberrypi/rpi-imager/pull/1737",
+      "merged_at": "2026-10-02T10:49:33Z"
+    },
+    {
+      "repository": "ndycode/oc-codex-multi-auth",
+      "number": 283,
+      "title": "feat(quota): optionally spend a banked reset credit when the weekly quota runs low",
+      "url": "https://github.com/ndycode/oc-codex-multi-auth/pull/283",
+      "merged_at": "2026-09-29T23:26:14Z"
+    },
+    {
+      "repository": "ndycode/oc-codex-multi-auth",
+      "number": 273,
+      "title": "fix(storage): preserve accounts across concurrent sessions",
+      "url": "https://github.com/ndycode/oc-codex-multi-auth/pull/273",
+      "merged_at": "2026-09-28T00:19:07Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 19,
+      "title": "Publish as turkce-slugify on npm",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/19",
+      "merged_at": "2026-09-26T23:36:46Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 18,
+      "title": "Release 0.2.0",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/18",
+      "merged_at": "2026-09-26T23:30:43Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 17,
+      "title": "Add issue forms for bugs and feature requests",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/17",
+      "merged_at": "2026-09-26T23:30:10Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 16,
+      "title": "Add contributing guide",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/16",
+      "merged_at": "2026-09-26T23:29:41Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 15,
+      "title": "Run tests before publishing and mark package side-effect free",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/15",
+      "merged_at": "2026-09-26T23:29:18Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 14,
+      "title": "Add ESM entry point",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/14",
+      "merged_at": "2026-09-26T23:28:54Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 13,
+      "title": "Add TypeScript type definitions",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/13",
+      "merged_at": "2026-09-26T23:28:22Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 12,
+      "title": "Map Latin letters that NFKD cannot strip",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/12",
+      "merged_at": "2026-09-26T23:27:46Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 11,
+      "title": "Add replacements option",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/11",
+      "merged_at": "2026-09-26T23:27:12Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 10,
+      "title": "Use escaped code points in the combining-marks regex",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/10",
+      "merged_at": "2026-09-26T23:26:36Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 9,
+      "title": "Add maxLength option",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/9",
+      "merged_at": "2026-09-26T23:25:48Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 8,
+      "title": "Add lowercase option",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/8",
+      "merged_at": "2026-09-26T23:25:17Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 7,
+      "title": "Reject non-string separators",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/7",
+      "merged_at": "2026-09-26T23:24:52Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 6,
+      "title": "Hoist regexes to module-level constants",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/6",
+      "merged_at": "2026-09-26T23:24:33Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 5,
+      "title": "Add gitignore, editorconfig and gitattributes",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/5",
+      "merged_at": "2026-09-26T23:24:13Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 4,
+      "title": "Add slugify with Turkish character handling",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/4",
+      "merged_at": "2026-09-26T23:20:03Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 3,
+      "title": "Add MIT license",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/3",
+      "merged_at": "2026-09-26T23:18:14Z"
+    },
+    {
+      "repository": "yuefdev/tr-slugify",
+      "number": 2,
+      "title": "Add notes section",
+      "url": "https://github.com/yuefdev/tr-slugify/pull/2",
+      "merged_at": "2026-09-26T23:17:59Z"
+    },
+    {
+      "repository": "huggingface/candle",
+      "number": 3975,
+      "title": "fix(onnx): LogSoftmax without an axis attribute returned softmax",
+      "url": "https://github.com/huggingface/candle/pull/3975",
+      "merged_at": "2026-09-24T15:13:32Z"
+    },
+    {
+      "repository": "etemesi254/zune-image",
+      "number": 446,
+      "title": "png: Map cICP transfer characteristics per H.273",
+      "url": "https://github.com/etemesi254/zune-image/pull/446",
+      "merged_at": "2026-09-20T17:08:58Z"
+    },
+    {
+      "repository": "etemesi254/zune-image",
+      "number": 447,
+      "title": "imageprocs: Fix Linear, HLG, IEC 61966-2-4 and BT.1361 transfer curves",
+      "url": "https://github.com/etemesi254/zune-image/pull/447",
+      "merged_at": "2026-09-20T17:08:34Z"
+    },
+    {
+      "repository": "Tencent/ncnn",
+      "number": 7000,
+      "title": "cmake: fix CMAKE_EXE_LINKER_FLAGS typo in emscripten flags",
+      "url": "https://github.com/Tencent/ncnn/pull/7000",
+      "merged_at": "2026-09-16T03:05:26Z"
+    },
+    {
+      "repository": "tox-dev/tox",
+      "number": 4067,
+      "title": "fix: correct coverage startup environment variable",
+      "url": "https://github.com/tox-dev/tox/pull/4067",
+      "merged_at": "2026-09-16T00:25:49Z"
+    },
+    {
+      "repository": "tox-dev/tox",
+      "number": 4065,
+      "title": "fix(config): accept empty set_env lists",
+      "url": "https://github.com/tox-dev/tox/pull/4065",
+      "merged_at": "2026-09-16T00:10:45Z"
+    },
+    {
+      "repository": "tox-dev/tox",
+      "number": 4066,
+      "title": "fix(config): reject boolean TOML range bounds",
+      "url": "https://github.com/tox-dev/tox/pull/4066",
+      "merged_at": "2026-09-15T23:55:28Z"
+    },
+    {
+      "repository": "plantuml/plantuml",
+      "number": 2894,
+      "title": "🐛 record included files again so !include skips duplicates",
+      "url": "https://github.com/plantuml/plantuml/pull/2894",
+      "merged_at": "2026-09-15T20:45:51Z"
+    },
+    {
+      "repository": "anomalyco/opentui",
+      "number": 1503,
+      "title": "fix(core): pass markdown fg through to table cells",
+      "url": "https://github.com/anomalyco/opentui/pull/1503",
+      "merged_at": "2026-09-15T18:35:53Z"
+    },
+    {
+      "repository": "tracel-ai/burn",
+      "number": 5662,
+      "title": "fix(flex): propagate NaN through max pooling",
+      "url": "https://github.com/tracel-ai/burn/pull/5662",
+      "merged_at": "2026-09-15T15:33:33Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2863,
+      "title": "onnx: InstanceNorm statistics per sample",
+      "url": "https://github.com/sonos/tract/pull/2863",
+      "merged_at": "2026-09-15T09:47:50Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2860,
+      "title": "onnx: MaxPool indices across planes and storage_order",
+      "url": "https://github.com/sonos/tract/pull/2860",
+      "merged_at": "2026-09-15T09:41:33Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2865,
+      "title": "onnx: Dropout mask output and opset 12 inputs",
+      "url": "https://github.com/sonos/tract/pull/2865",
+      "merged_at": "2026-09-15T09:41:03Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2866,
+      "title": "onnx: SimplifiedLayerNormalization's optional inv_std_var output failed analysis",
+      "url": "https://github.com/sonos/tract/pull/2866",
+      "merged_at": "2026-09-15T09:30:50Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2864,
+      "title": "onnx: Shape with start past end",
+      "url": "https://github.com/sonos/tract/pull/2864",
+      "merged_at": "2026-09-15T07:57:15Z"
+    },
+    {
+      "repository": "uutils/coreutils",
+      "number": 14565,
+      "title": "csplit: always create the final split, even when empty",
+      "url": "https://github.com/uutils/coreutils/pull/14565",
+      "merged_at": "2026-09-15T06:22:30Z"
+    },
+    {
+      "repository": "jgm/pandoc",
+      "number": 11873,
+      "title": "TEI writer: use rend, not rendition, on milestone",
+      "url": "https://github.com/jgm/pandoc/pull/11873",
+      "merged_at": "2026-09-14T20:45:54Z"
+    },
+    {
+      "repository": "tracel-ai/burn-onnx",
+      "number": 525,
+      "title": "Infer Squeeze output rank from runtime axes count",
+      "url": "https://github.com/tracel-ai/burn-onnx/pull/525",
+      "merged_at": "2026-09-14T20:21:56Z"
+    },
+    {
+      "repository": "tracel-ai/burn-onnx",
+      "number": 523,
+      "title": "Handle negative indices in Gather and GatherElements",
+      "url": "https://github.com/tracel-ai/burn-onnx/pull/523",
+      "merged_at": "2026-09-14T20:19:24Z"
+    },
+    {
+      "repository": "tracel-ai/burn-onnx",
+      "number": 526,
+      "title": "Resolve runtime Slice bounds against the input dims",
+      "url": "https://github.com/tracel-ai/burn-onnx/pull/526",
+      "merged_at": "2026-09-14T18:36:34Z"
+    },
+    {
+      "repository": "tracel-ai/burn",
+      "number": 5666,
+      "title": "test(pack): check streaming memory with a drop hook, not a global allocator",
+      "url": "https://github.com/tracel-ai/burn/pull/5666",
+      "merged_at": "2026-09-14T17:52:38Z"
+    },
+    {
+      "repository": "tox-dev/tox",
+      "number": 4069,
+      "title": "chore(type): narrow execute_async cwd for pyrefly 1.3",
+      "url": "https://github.com/tox-dev/tox/pull/4069",
+      "merged_at": "2026-09-14T17:52:32Z"
+    },
+    {
+      "repository": "tracel-ai/burn",
+      "number": 5661,
+      "title": "fix(flex): make u64 right shift logical",
+      "url": "https://github.com/tracel-ai/burn/pull/5661",
+      "merged_at": "2026-09-14T16:15:56Z"
+    },
+    {
+      "repository": "tracel-ai/burn",
+      "number": 5663,
+      "title": "fix(flex): round nearest grid_sample ties to even",
+      "url": "https://github.com/tracel-ai/burn/pull/5663",
+      "merged_at": "2026-09-14T16:10:10Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2847,
+      "title": "onnx: MaxPool and AveragePool ignored the dilations attribute",
+      "url": "https://github.com/sonos/tract/pull/2847",
+      "merged_at": "2026-09-14T11:01:18Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2848,
+      "title": "onnx: Scan ignored directions, crashed on negative axes and on extra scan outputs",
+      "url": "https://github.com/sonos/tract/pull/2848",
+      "merged_at": "2026-09-14T10:00:29Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2849,
+      "title": "onnx: QuantizeLinear and DequantizeLinear ignored per-axis scales and zero points",
+      "url": "https://github.com/sonos/tract/pull/2849",
+      "merged_at": "2026-09-14T09:47:01Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2850,
+      "title": "core: QuantizeLinear rounded ties away from zero instead of to even",
+      "url": "https://github.com/sonos/tract/pull/2850",
+      "merged_at": "2026-09-14T09:46:03Z"
+    },
+    {
+      "repository": "sonos/tract",
+      "number": 2851,
+      "title": "core: AveragePool with ceil_mode and count_include_pad counted the overhang in the divisor",
+      "url": "https://github.com/sonos/tract/pull/2851",
+      "merged_at": "2026-09-14T09:20:51Z"
+    },
+    {
+      "repository": "LeagueToolkit/league-toolkit",
+      "number": 236,
+      "title": "fix(ltk_anim): error on malformed input",
+      "url": "https://github.com/LeagueToolkit/league-toolkit/pull/236",
+      "merged_at": "2026-09-13T22:46:46Z"
+    },
+    {
+      "repository": "rust-lang/rust",
+      "number": 162722,
+      "title": "Fix typo in riscv64a23-unknown-linux-gnu platform docs",
+      "url": "https://github.com/rust-lang/rust/pull/162722",
+      "merged_at": "2026-09-13T20:26:02Z"
+    },
+    {
+      "repository": "DLTcollab/sse2neon",
+      "number": 775,
+      "title": "Restore hardware AES path for MSVC ARM64",
+      "url": "https://github.com/DLTcollab/sse2neon/pull/775",
+      "merged_at": "2026-09-13T14:39:10Z"
+    }
+  ]
+}
