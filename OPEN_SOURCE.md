@@ -11,7 +11,7 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 284,523 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 284,527 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | 120,651 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,651 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,648 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
