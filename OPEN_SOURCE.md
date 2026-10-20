@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-10-20
 
-**116 merged PRs across 60 external projects**, out of **134 total public merged PRs** including my own repositories.
+**119 merged PRs across 63 external projects**, out of **137 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 284,527 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 284,715 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
 | [rust-lang/rust](https://github.com/rust-lang/rust) | 120,651 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,651 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,648 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,665 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,651 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [immerjs/immer](https://github.com/immerjs/immer) | 28,988 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
 | [uutils/coreutils](https://github.com/uutils/coreutils) | 24,274 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
-| [Tencent/ncnn](https://github.com/Tencent/ncnn) | 23,982 | 1 | [cmake: fix CMAKE_EXE_LINKER_FLAGS typo in emscripten flags (#7000)](https://github.com/Tencent/ncnn/pull/7000) |
 
 ## Latest upstream merges
 
+- **2026-10-20** · [bits-and-blooms/bitset #235](https://github.com/bits-and-blooms/bitset/pull/235) — Keep PreviousClear within the bitset length
+- **2026-10-20** · [gianfrancodemarco/resume-builder #100](https://github.com/gianfrancodemarco/resume-builder/pull/100) — fix: remember preview zoom and Fit mode
+- **2026-10-20** · [immerjs/immer #1334](https://github.com/immerjs/immer/pull/1334) — fix: snapshot the iteration range of optimised array searches
 - **2026-10-20** · [antchfx/xpath #164](https://github.com/antchfx/xpath/pull/164) — Treat empty node sets as empty strings in predicates
 - **2026-10-20** · [antchfx/xpath #163](https://github.com/antchfx/xpath/pull/163) — Preserve infinity when number strings overflow
-- **2026-10-20** · [huandu/xstrings #74](https://github.com/huandu/xstrings/pull/74) — Preserve untouched bytes when expanding tabs
-- **2026-10-20** · [huandu/xstrings #73](https://github.com/huandu/xstrings/pull/73) — Preserve untouched bytes when squeezing strings
-- **2026-10-19** · [dlclark/regexp2 #134](https://github.com/dlclark/regexp2/pull/134) — Reject invalid numeric group names
 <!-- OSS:END -->
 
 ## Automatic updates and verification

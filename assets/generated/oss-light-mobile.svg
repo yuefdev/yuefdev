@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="1284" viewBox="0 0 640 1284" role="img" aria-labelledby="oss-title oss-desc">
 <title id="oss-title">Contributing upstream.</title>
-<desc id="oss-desc">116 accepted upstream PRs across 60 external projects; 134 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, uutils/coreutils, Tencent/ncnn. Updated 2026-10-20.</desc>
+<desc id="oss-desc">119 accepted upstream PRs across 63 external projects; 137 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, immerjs/immer, uutils/coreutils. Updated 2026-10-20.</desc>
 <rect width="640" height="1284" rx="24" fill="#f6f8f3"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="36" y="49" font-size="14" fill="#427519" font-weight="700" letter-spacing="1.6">ENGINEERING IN THE OPEN</text>
@@ -8,13 +8,13 @@
 <text x="36" y="128" font-size="18" fill="#59685c" font-weight="400" >Accepted changes. Established projects.</text>
 <text x="36" y="157" font-size="13" fill="#59685c" font-weight="400" text-anchor="start">UPDATED 2026-10-20</text>
 <rect x="36.0" y="184" width="178.67" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
-<text x="54.0" y="233" font-size="42" fill="#427519" font-weight="700" >116</text>
+<text x="54.0" y="233" font-size="42" fill="#427519" font-weight="700" >119</text>
 <text x="54.0" y="264" font-size="14" fill="#59685c" font-weight="400" >Upstream merges</text>
 <rect x="230.67" y="184" width="178.67" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
-<text x="248.67" y="233" font-size="42" fill="#17211c" font-weight="700" >60</text>
+<text x="248.67" y="233" font-size="42" fill="#17211c" font-weight="700" >63</text>
 <text x="248.67" y="264" font-size="14" fill="#59685c" font-weight="400" >External projects</text>
 <rect x="425.34" y="184" width="178.67" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
-<text x="443.34" y="233" font-size="42" fill="#17211c" font-weight="700" >134</text>
+<text x="443.34" y="233" font-size="42" fill="#17211c" font-weight="700" >137</text>
 <text x="443.34" y="264" font-size="14" fill="#59685c" font-weight="400" >Total merged PRs</text>
 <text x="36" y="341" font-size="13" fill="#59685c" font-weight="600" letter-spacing="1">FEATURED PROJECTS / BY GITHUB STARS</text>
 <rect x="36" y="366" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
@@ -25,7 +25,7 @@
 <text x="83" y="402" font-size="22" fill="#17211c" font-weight="600" >affaan-m/ECC</text>
 <text x="54" y="438" font-size="16" fill="#59685c" font-weight="400" >fix: resolve OpenCode source imports and installed skills paths</text>
 <text x="54" y="471" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="586" y="471" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 284.5k</text>
+<text x="586" y="471" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 284.7k</text>
 <rect x="36" y="510" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54 534V553M54 543Q67 543 67 531" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="531" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
@@ -52,24 +52,24 @@
 <text x="83" y="834" font-size="22" fill="#17211c" font-weight="600" >jgm/pandoc</text>
 <text x="54" y="870" font-size="16" fill="#59685c" font-weight="400" >TEI writer: use rend, not rendition, on milestone</text>
 <text x="54" y="903" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Haskell</text>
-<text x="586" y="903" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 46.6k</text>
+<text x="586" y="903" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 46.7k</text>
 <rect x="36" y="942" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54 966V985M54 975Q67 975 67 963" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="963" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
 <circle cx="67" cy="960" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="988" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
-<text x="83" y="978" font-size="22" fill="#17211c" font-weight="600" >uutils/coreutils</text>
-<text x="54" y="1014" font-size="16" fill="#59685c" font-weight="400" >csplit: always create the final split, even when empty</text>
-<text x="54" y="1047" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Rust</text>
-<text x="586" y="1047" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 24.3k</text>
+<text x="83" y="978" font-size="22" fill="#17211c" font-weight="600" >immerjs/immer</text>
+<text x="54" y="1014" font-size="16" fill="#59685c" font-weight="400" >fix: snapshot the iteration range of optimised array searches</text>
+<text x="54" y="1047" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
+<text x="586" y="1047" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 29.0k</text>
 <rect x="36" y="1086" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54 1110V1129M54 1119Q67 1119 67 1107" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="1107" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
 <circle cx="67" cy="1104" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="1132" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
-<text x="83" y="1122" font-size="22" fill="#17211c" font-weight="600" >Tencent/ncnn</text>
-<text x="54" y="1158" font-size="16" fill="#59685c" font-weight="400" >cmake: fix CMAKE_EXE_LINKER_FLAGS typo in emscripten flags</text>
-<text x="54" y="1191" font-size="13" fill="#427519" font-weight="400" >1 merged PR · C++</text>
-<text x="586" y="1191" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 24.0k</text>
+<text x="83" y="1122" font-size="22" fill="#17211c" font-weight="600" >uutils/coreutils</text>
+<text x="54" y="1158" font-size="16" fill="#59685c" font-weight="400" >csplit: always create the final split, even when empty</text>
+<text x="54" y="1191" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Rust</text>
+<text x="586" y="1191" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 24.3k</text>
 <text x="36" y="1254" font-size="11" fill="#59685c" font-weight="400" >PUBLIC PRs · ALL TIME · OWN REPOS EXCLUDED FROM UPSTREAM</text>
 </g></svg>

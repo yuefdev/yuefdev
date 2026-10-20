@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-20",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 134,
-  "upstream_merged": 116,
-  "upstream_repositories": 60,
+  "total_merged": 137,
+  "upstream_merged": 119,
+  "upstream_repositories": 63,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 284527,
+      "stars": 284715,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61651,
+      "stars": 61665,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46648,
+      "stars": 46651,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -60,6 +60,20 @@
         "title": "TEI writer: use rend, not rendition, on milestone",
         "url": "https://github.com/jgm/pandoc/pull/11873",
         "merged_at": "2026-09-14T20:45:54Z"
+      }
+    },
+    {
+      "name": "immerjs/immer",
+      "url": "https://github.com/immerjs/immer",
+      "stars": 28988,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "immerjs/immer",
+        "number": 1334,
+        "title": "fix: snapshot the iteration range of optimised array searches",
+        "url": "https://github.com/immerjs/immer/pull/1334",
+        "merged_at": "2026-10-20T14:16:00Z"
       }
     },
     {
@@ -79,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23982,
+      "stars": 23983,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -93,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22268,
+      "stars": 22269,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -107,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21203,
+      "stars": 21205,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +163,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13586,
+      "stars": 13585,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +219,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7495,
+      "stars": 7496,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +233,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5739,
+      "stars": 5740,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -399,9 +413,23 @@
       }
     },
     {
+      "name": "bits-and-blooms/bitset",
+      "url": "https://github.com/bits-and-blooms/bitset",
+      "stars": 1514,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "bits-and-blooms/bitset",
+        "number": 235,
+        "title": "Keep PreviousClear within the bitset length",
+        "url": "https://github.com/bits-and-blooms/bitset/pull/235",
+        "merged_at": "2026-10-20T17:13:26Z"
+      }
+    },
+    {
       "name": "dgilland/pydash",
       "url": "https://github.com/dgilland/pydash",
-      "stars": 1448,
+      "stars": 1449,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -541,7 +569,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 495,
+      "stars": 496,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -581,6 +609,20 @@
       }
     },
     {
+      "name": "gianfrancodemarco/resume-builder",
+      "url": "https://github.com/gianfrancodemarco/resume-builder",
+      "stars": 32,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "gianfrancodemarco/resume-builder",
+        "number": 100,
+        "title": "fix: remember preview zoom and Fit mode",
+        "url": "https://github.com/gianfrancodemarco/resume-builder/pull/100",
+        "merged_at": "2026-10-20T17:04:53Z"
+      }
+    },
+    {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
       "stars": 31,
@@ -609,6 +651,20 @@
       }
     },
     {
+      "name": "chinthanasathyajithcs/qpaste",
+      "url": "https://github.com/chinthanasathyajithcs/qpaste",
+      "stars": 18,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "chinthanasathyajithcs/qpaste",
+        "number": 10,
+        "title": "Fix recording with modifiers already held",
+        "url": "https://github.com/chinthanasathyajithcs/qpaste/pull/10",
+        "merged_at": "2026-10-18T01:24:44Z"
+      }
+    },
+    {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
       "stars": 16,
@@ -620,20 +676,6 @@
         "title": "test(exec): cover disk cache and error branches",
         "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
         "merged_at": "2026-10-18T07:15:56Z"
-      }
-    },
-    {
-      "name": "chinthanasathyajithcs/qpaste",
-      "url": "https://github.com/chinthanasathyajithcs/qpaste",
-      "stars": 15,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "chinthanasathyajithcs/qpaste",
-        "number": 10,
-        "title": "Fix recording with modifiers already held",
-        "url": "https://github.com/chinthanasathyajithcs/qpaste/pull/10",
-        "merged_at": "2026-10-18T01:24:44Z"
       }
     },
     {
@@ -848,6 +890,27 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "bits-and-blooms/bitset",
+      "number": 235,
+      "title": "Keep PreviousClear within the bitset length",
+      "url": "https://github.com/bits-and-blooms/bitset/pull/235",
+      "merged_at": "2026-10-20T17:13:26Z"
+    },
+    {
+      "repository": "gianfrancodemarco/resume-builder",
+      "number": 100,
+      "title": "fix: remember preview zoom and Fit mode",
+      "url": "https://github.com/gianfrancodemarco/resume-builder/pull/100",
+      "merged_at": "2026-10-20T17:04:53Z"
+    },
+    {
+      "repository": "immerjs/immer",
+      "number": 1334,
+      "title": "fix: snapshot the iteration range of optimised array searches",
+      "url": "https://github.com/immerjs/immer/pull/1334",
+      "merged_at": "2026-10-20T14:16:00Z"
+    },
     {
       "repository": "antchfx/xpath",
       "number": 164,
