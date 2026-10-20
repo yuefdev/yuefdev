@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-20",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 137,
-  "upstream_merged": 119,
-  "upstream_repositories": 63,
+  "total_merged": 141,
+  "upstream_merged": 123,
+  "upstream_repositories": 66,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 284715,
+      "stars": 284863,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120651,
+      "stars": 120629,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61665,
+      "stars": 61670,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46651,
+      "stars": 46655,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20206,
+      "stars": 20207,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -147,9 +147,23 @@
       }
     },
     {
+      "name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "stars": 16158,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "mikefarah/yq",
+        "number": 2862,
+        "title": "fix: remove entries in map_values when the expression returns nothing",
+        "url": "https://github.com/mikefarah/yq/pull/2862",
+        "merged_at": "2026-10-20T22:27:57Z"
+      }
+    },
+    {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16136,
+      "stars": 16138,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +177,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13585,
+      "stars": 13586,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -177,7 +191,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13375,
+      "stars": 13376,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -205,7 +219,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9985,
+      "stars": 9986,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -331,7 +345,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2639,
+      "stars": 2640,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -382,6 +396,20 @@
         "title": "fix: normalise extended MIME aliases",
         "url": "https://github.com/gabriel-vasile/mimetype/pull/852",
         "merged_at": "2026-10-19T09:46:17Z"
+      }
+    },
+    {
+      "name": "r1chardj0n3s/parse",
+      "url": "https://github.com/r1chardj0n3s/parse",
+      "stars": 1795,
+      "language": "Python",
+      "merged": 2,
+      "latest": {
+        "repository": "r1chardj0n3s/parse",
+        "number": 260,
+        "title": "Document the extra_types conversion mapping",
+        "url": "https://github.com/r1chardj0n3s/parse/pull/260",
+        "merged_at": "2026-10-20T20:45:19Z"
       }
     },
     {
@@ -494,6 +522,20 @@
         "title": "jp: check every reflected wildcard child in Has",
         "url": "https://github.com/ohler55/ojg/pull/249",
         "merged_at": "2026-10-19T00:08:16Z"
+      }
+    },
+    {
+      "name": "stretchr/objx",
+      "url": "https://github.com/stretchr/objx",
+      "stars": 873,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "stretchr/objx",
+        "number": 190,
+        "title": "Clean nested string-keyed maps before JSON encoding",
+        "url": "https://github.com/stretchr/objx/pull/190",
+        "merged_at": "2026-10-20T19:50:08Z"
       }
     },
     {
@@ -667,7 +709,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 16,
+      "stars": 17,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -890,6 +932,34 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "mikefarah/yq",
+      "number": 2862,
+      "title": "fix: remove entries in map_values when the expression returns nothing",
+      "url": "https://github.com/mikefarah/yq/pull/2862",
+      "merged_at": "2026-10-20T22:27:57Z"
+    },
+    {
+      "repository": "r1chardj0n3s/parse",
+      "number": 260,
+      "title": "Document the extra_types conversion mapping",
+      "url": "https://github.com/r1chardj0n3s/parse/pull/260",
+      "merged_at": "2026-10-20T20:45:19Z"
+    },
+    {
+      "repository": "r1chardj0n3s/parse",
+      "number": 261,
+      "title": "Reject out-of-range timezone minutes",
+      "url": "https://github.com/r1chardj0n3s/parse/pull/261",
+      "merged_at": "2026-10-20T20:36:23Z"
+    },
+    {
+      "repository": "stretchr/objx",
+      "number": 190,
+      "title": "Clean nested string-keyed maps before JSON encoding",
+      "url": "https://github.com/stretchr/objx/pull/190",
+      "merged_at": "2026-10-20T19:50:08Z"
+    },
     {
       "repository": "bits-and-blooms/bitset",
       "number": 235,
