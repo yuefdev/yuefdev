@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 285055,
+      "stars": 285225,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120608,
+      "stars": 120615,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61694,
+      "stars": 61715,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46662,
+      "stars": 46663,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28988,
+      "stars": 28989,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24275,
+      "stars": 24276,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23985,
+      "stars": 23986,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16160,
+      "stars": 16161,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16142,
+      "stars": 16144,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13588,
+      "stars": 13589,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13376,
+      "stars": 13377,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7496,
+      "stars": 7497,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3093,
+      "stars": 3095,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "r1chardj0n3s/parse",
       "url": "https://github.com/r1chardj0n3s/parse",
-      "stars": 1796,
+      "stars": 1797,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -429,7 +429,7 @@
     {
       "name": "huandu/go-sqlbuilder",
       "url": "https://github.com/huandu/go-sqlbuilder",
-      "stars": 1730,
+      "stars": 1729,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -709,7 +709,7 @@
     {
       "name": "MakeItEzzz555/tuck-bit",
       "url": "https://github.com/MakeItEzzz555/tuck-bit",
-      "stars": 25,
+      "stars": 26,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -718,6 +718,20 @@
         "title": "Test privacy-audit boundaries and failure handling",
         "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
         "merged_at": "2026-10-18T06:57:46Z"
+      }
+    },
+    {
+      "name": "wassim-azi/agy-powerline",
+      "url": "https://github.com/wassim-azi/agy-powerline",
+      "stars": 21,
+      "language": "JavaScript",
+      "merged": 3,
+      "latest": {
+        "repository": "wassim-azi/agy-powerline",
+        "number": 79,
+        "title": "test(exec): cover disk cache and error branches",
+        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
+        "merged_at": "2026-10-18T07:15:56Z"
       }
     },
     {
@@ -735,17 +749,17 @@
       }
     },
     {
-      "name": "wassim-azi/agy-powerline",
-      "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 18,
-      "language": "JavaScript",
-      "merged": 3,
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 17,
+      "language": "Go",
+      "merged": 1,
       "latest": {
-        "repository": "wassim-azi/agy-powerline",
-        "number": 79,
-        "title": "test(exec): cover disk cache and error branches",
-        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
-        "merged_at": "2026-10-18T07:15:56Z"
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -760,20 +774,6 @@
         "title": "fix(ltk_anim): error on malformed input",
         "url": "https://github.com/LeagueToolkit/league-toolkit/pull/236",
         "merged_at": "2026-09-13T22:46:46Z"
-      }
-    },
-    {
-      "name": "wmentor/go-magnetar",
-      "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 15,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "wmentor/go-magnetar",
-        "number": 150,
-        "title": "fix(help): return markdown through command output",
-        "url": "https://github.com/wmentor/go-magnetar/pull/150",
-        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -821,7 +821,7 @@
     {
       "name": "ChristianHandy/FleetPilot",
       "url": "https://github.com/ChristianHandy/FleetPilot",
-      "stars": 5,
+      "stars": 6,
       "language": "Python",
       "merged": 2,
       "latest": {
