@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-21",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 142,
-  "upstream_merged": 124,
-  "upstream_repositories": 67,
+  "total_merged": 143,
+  "upstream_merged": 125,
+  "upstream_repositories": 68,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 284919,
+      "stars": 285055,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120615,
+      "stars": 120608,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61673,
+      "stars": 61694,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46656,
+      "stars": 46662,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23983,
+      "stars": 23985,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21207,
+      "stars": 21208,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20206,
+      "stars": 20207,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16159,
+      "stars": 16160,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16141,
+      "stars": 16142,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13587,
+      "stars": 13588,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9987,
+      "stars": 9989,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3973,
+      "stars": 3974,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "r1chardj0n3s/parse",
       "url": "https://github.com/r1chardj0n3s/parse",
-      "stars": 1795,
+      "stars": 1796,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -424,6 +424,20 @@
         "title": "Document the extra_types conversion mapping",
         "url": "https://github.com/r1chardj0n3s/parse/pull/260",
         "merged_at": "2026-10-20T20:45:19Z"
+      }
+    },
+    {
+      "name": "huandu/go-sqlbuilder",
+      "url": "https://github.com/huandu/go-sqlbuilder",
+      "stars": 1730,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "huandu/go-sqlbuilder",
+        "number": 250,
+        "title": "Preserve nil values when flattening argument lists",
+        "url": "https://github.com/huandu/go-sqlbuilder/pull/250",
+        "merged_at": "2026-10-21T02:47:26Z"
       }
     },
     {
@@ -485,7 +499,7 @@
     {
       "name": "huandu/xstrings",
       "url": "https://github.com/huandu/xstrings",
-      "stars": 1412,
+      "stars": 1411,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -639,7 +653,7 @@
     {
       "name": "ndycode/oc-codex-multi-auth",
       "url": "https://github.com/ndycode/oc-codex-multi-auth",
-      "stars": 206,
+      "stars": 207,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -723,7 +737,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 17,
+      "stars": 18,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -946,6 +960,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "huandu/go-sqlbuilder",
+      "number": 250,
+      "title": "Preserve nil values when flattening argument lists",
+      "url": "https://github.com/huandu/go-sqlbuilder/pull/250",
+      "merged_at": "2026-10-21T02:47:26Z"
+    },
     {
       "repository": "itchyny/gojq",
       "number": 325,
