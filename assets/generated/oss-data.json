@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-21",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 144,
-  "upstream_merged": 126,
-  "upstream_repositories": 69,
+  "total_merged": 145,
+  "upstream_merged": 127,
+  "upstream_repositories": 70,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 285412,
+      "stars": 285588,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120625,
+      "stars": 120635,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61740,
+      "stars": 61746,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23987,
+      "stars": 23986,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22270,
+      "stars": 22271,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21207,
+      "stars": 21208,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16163,
+      "stars": 16164,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13592,
+      "stars": 13591,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13377,
+      "stars": 13376,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11815,
+      "stars": 11814,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9989,
+      "stars": 9988,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -410,6 +410,20 @@
         "title": "Avoid panics when parsing nil slice and map pointers",
         "url": "https://github.com/alexflint/go-arg/pull/307",
         "merged_at": "2026-10-19T01:15:59Z"
+      }
+    },
+    {
+      "name": "k0kubun/pp",
+      "url": "https://github.com/k0kubun/pp",
+      "stars": 2055,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "k0kubun/pp",
+        "number": 119,
+        "title": "Preserve values for map keys containing NaN",
+        "url": "https://github.com/k0kubun/pp/pull/119",
+        "merged_at": "2026-10-21T18:30:59Z"
       }
     },
     {
@@ -693,6 +707,20 @@
       }
     },
     {
+      "name": "prakhar1605/Opencollab-mcp",
+      "url": "https://github.com/prakhar1605/Opencollab-mcp",
+      "stars": 33,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "prakhar1605/Opencollab-mcp",
+        "number": 124,
+        "title": "fix: mark locked issues unavailable",
+        "url": "https://github.com/prakhar1605/Opencollab-mcp/pull/124",
+        "merged_at": "2026-10-09T06:26:34Z"
+      }
+    },
+    {
       "name": "gianfrancodemarco/resume-builder",
       "url": "https://github.com/gianfrancodemarco/resume-builder",
       "stars": 32,
@@ -704,20 +732,6 @@
         "title": "fix: remember preview zoom and Fit mode",
         "url": "https://github.com/gianfrancodemarco/resume-builder/pull/100",
         "merged_at": "2026-10-20T17:04:53Z"
-      }
-    },
-    {
-      "name": "prakhar1605/Opencollab-mcp",
-      "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 32,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "prakhar1605/Opencollab-mcp",
-        "number": 124,
-        "title": "fix: mark locked issues unavailable",
-        "url": "https://github.com/prakhar1605/Opencollab-mcp/pull/124",
-        "merged_at": "2026-10-09T06:26:34Z"
       }
     },
     {
@@ -737,7 +751,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 22,
+      "stars": 21,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -974,6 +988,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "k0kubun/pp",
+      "number": 119,
+      "title": "Preserve values for map keys containing NaN",
+      "url": "https://github.com/k0kubun/pp/pull/119",
+      "merged_at": "2026-10-21T18:30:59Z"
+    },
     {
       "repository": "PuerkitoBio/goquery",
       "number": 621,
