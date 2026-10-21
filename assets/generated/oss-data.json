@@ -1,15 +1,15 @@
 {
   "username": "yuefdev",
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 141,
-  "upstream_merged": 123,
-  "upstream_repositories": 66,
+  "total_merged": 142,
+  "upstream_merged": 124,
+  "upstream_repositories": 67,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 284863,
+      "stars": 284919,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120629,
+      "stars": 120615,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61670,
+      "stars": 61673,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46655,
+      "stars": 46656,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24274,
+      "stars": 24275,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22269,
+      "stars": 22270,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21205,
+      "stars": 21207,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20207,
+      "stars": 20206,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16158,
+      "stars": 16159,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16138,
+      "stars": 16141,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13586,
+      "stars": 13587,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9986,
+      "stars": 9987,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3972,
+      "stars": 3973,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -284,6 +284,20 @@
         "title": "fix: correct coverage startup environment variable",
         "url": "https://github.com/tox-dev/tox/pull/4067",
         "merged_at": "2026-09-16T00:25:49Z"
+      }
+    },
+    {
+      "name": "itchyny/gojq",
+      "url": "https://github.com/itchyny/gojq",
+      "stars": 3815,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "itchyny/gojq",
+        "number": 325,
+        "title": "fix add to handle a nil map as the first value",
+        "url": "https://github.com/itchyny/gojq/pull/325",
+        "merged_at": "2026-10-20T23:17:01Z"
       }
     },
     {
@@ -345,7 +359,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2640,
+      "stars": 2641,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -667,7 +681,7 @@
     {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 31,
+      "stars": 32,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -932,6 +946,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "itchyny/gojq",
+      "number": 325,
+      "title": "fix add to handle a nil map as the first value",
+      "url": "https://github.com/itchyny/gojq/pull/325",
+      "merged_at": "2026-10-20T23:17:01Z"
+    },
     {
       "repository": "mikefarah/yq",
       "number": 2862,
