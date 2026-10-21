@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-21",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 143,
-  "upstream_merged": 125,
-  "upstream_repositories": 68,
+  "total_merged": 144,
+  "upstream_merged": 126,
+  "upstream_repositories": 69,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 285225,
+      "stars": 285412,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120615,
+      "stars": 120625,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61715,
+      "stars": 61740,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46663,
+      "stars": 46664,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28989,
+      "stars": 28988,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24276,
+      "stars": 24277,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23986,
+      "stars": 23987,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21208,
+      "stars": 21207,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16161,
+      "stars": 16163,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16144,
+      "stars": 16145,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -175,9 +175,23 @@
       }
     },
     {
+      "name": "PuerkitoBio/goquery",
+      "url": "https://github.com/PuerkitoBio/goquery",
+      "stars": 14991,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "PuerkitoBio/goquery",
+        "number": 621,
+        "title": "Preserve the selection stack for out-of-range Eq calls",
+        "url": "https://github.com/PuerkitoBio/goquery/pull/621",
+        "merged_at": "2026-10-21T15:54:00Z"
+      }
+    },
+    {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13589,
+      "stars": 13592,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -303,7 +317,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3095,
+      "stars": 3094,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -359,7 +373,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2641,
+      "stars": 2642,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -513,7 +527,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1192,
+      "stars": 1193,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -723,7 +737,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 21,
+      "stars": 22,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -779,7 +793,7 @@
     {
       "name": "abduznik/bitbox",
       "url": "https://github.com/abduznik/bitbox",
-      "stars": 13,
+      "stars": 14,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -960,6 +974,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "PuerkitoBio/goquery",
+      "number": 621,
+      "title": "Preserve the selection stack for out-of-range Eq calls",
+      "url": "https://github.com/PuerkitoBio/goquery/pull/621",
+      "merged_at": "2026-10-21T15:54:00Z"
+    },
     {
       "repository": "huandu/go-sqlbuilder",
       "number": 250,

@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-10-21
 
-**125 merged PRs across 68 external projects**, out of **143 total public merged PRs** including my own repositories.
+**126 merged PRs across 69 external projects**, out of **144 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 285,225 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,615 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,715 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,663 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
-| [immerjs/immer](https://github.com/immerjs/immer) | 28,989 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,276 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 285,412 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,625 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,740 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,664 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [immerjs/immer](https://github.com/immerjs/immer) | 28,988 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,277 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 
+- **2026-10-21** · [PuerkitoBio/goquery #621](https://github.com/PuerkitoBio/goquery/pull/621) — Preserve the selection stack for out-of-range Eq calls
 - **2026-10-21** · [huandu/go-sqlbuilder #250](https://github.com/huandu/go-sqlbuilder/pull/250) — Preserve nil values when flattening argument lists
 - **2026-10-20** · [itchyny/gojq #325](https://github.com/itchyny/gojq/pull/325) — fix add to handle a nil map as the first value
 - **2026-10-20** · [mikefarah/yq #2862](https://github.com/mikefarah/yq/pull/2862) — fix: remove entries in map_values when the expression returns nothing
 - **2026-10-20** · [r1chardj0n3s/parse #260](https://github.com/r1chardj0n3s/parse/pull/260) — Document the extra_types conversion mapping
-- **2026-10-20** · [r1chardj0n3s/parse #261](https://github.com/r1chardj0n3s/parse/pull/261) — Reject out-of-range timezone minutes
 <!-- OSS:END -->
 
 ## Automatic updates and verification
