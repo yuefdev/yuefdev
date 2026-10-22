@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 286223,
+      "stars": 286370,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120668,
+      "stars": 120674,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61821,
+      "stars": 61827,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23988,
+      "stars": 23990,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16167,
+      "stars": 16169,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3974,
+      "stars": 3975,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2643,
+      "stars": 2644,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -793,7 +793,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 23,
+      "stars": 24,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -959,6 +959,20 @@
       }
     },
     {
+      "name": "onurbaydas/VirtoMir",
+      "url": "https://github.com/onurbaydas/VirtoMir",
+      "stars": 2,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "onurbaydas/VirtoMir",
+        "number": 8,
+        "title": "test: cover UI formatting boundaries",
+        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+        "merged_at": "2026-10-17T22:20:08Z"
+      }
+    },
+    {
       "name": "centuryglass/sd-backend-client",
       "url": "https://github.com/centuryglass/sd-backend-client",
       "stars": 1,
@@ -970,20 +984,6 @@
         "title": "fix: allow model fields on supported Pydantic versions",
         "url": "https://github.com/centuryglass/sd-backend-client/pull/72",
         "merged_at": "2026-10-06T17:55:48Z"
-      }
-    },
-    {
-      "name": "onurbaydas/VirtoMir",
-      "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 1,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "onurbaydas/VirtoMir",
-        "number": 8,
-        "title": "test: cover UI formatting boundaries",
-        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
-        "merged_at": "2026-10-17T22:20:08Z"
       }
     },
     {
