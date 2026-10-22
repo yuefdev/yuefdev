@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-22",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 145,
-  "upstream_merged": 127,
-  "upstream_repositories": 70,
+  "total_merged": 173,
+  "upstream_merged": 155,
+  "upstream_repositories": 72,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 285715,
+      "stars": 285862,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120640,
+      "stars": 120650,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61751,
+      "stars": 61763,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46663,
+      "stars": 46669,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28988,
+      "stars": 28989,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24278,
+      "stars": 24279,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23986,
+      "stars": 23987,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20207,
+      "stars": 20208,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16146,
+      "stars": 16147,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14991,
+      "stars": 14990,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11814,
+      "stars": 11813,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -273,6 +273,20 @@
       }
     },
     {
+      "name": "duke-git/lancet",
+      "url": "https://github.com/duke-git/lancet",
+      "stars": 5301,
+      "language": "Go",
+      "merged": 23,
+      "latest": {
+        "repository": "duke-git/lancet",
+        "number": 384,
+        "title": "fix(package): [datetime] accept empty timezone options",
+        "url": "https://github.com/duke-git/lancet/pull/384",
+        "merged_at": "2026-10-22T02:57:53Z"
+      }
+    },
+    {
       "name": "dromara/carbon",
       "url": "https://github.com/dromara/carbon",
       "stars": 5219,
@@ -284,6 +298,20 @@
         "title": "Synchronise frozen clock advances in Sleep",
         "url": "https://github.com/dromara/carbon/pull/383",
         "merged_at": "2026-10-19T05:08:45Z"
+      }
+    },
+    {
+      "name": "olekukonko/tablewriter",
+      "url": "https://github.com/olekukonko/tablewriter",
+      "stars": 4821,
+      "language": "Go",
+      "merged": 5,
+      "latest": {
+        "repository": "olekukonko/tablewriter",
+        "number": 347,
+        "title": "Release the cache lock when computation panics",
+        "url": "https://github.com/olekukonko/tablewriter/pull/347",
+        "merged_at": "2026-10-22T03:38:43Z"
       }
     },
     {
@@ -373,7 +401,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2642,
+      "stars": 2643,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -988,6 +1016,202 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 347,
+      "title": "Release the cache lock when computation panics",
+      "url": "https://github.com/olekukonko/tablewriter/pull/347",
+      "merged_at": "2026-10-22T03:38:43Z"
+    },
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 346,
+      "title": "Return a zero hit rate for disabled caches",
+      "url": "https://github.com/olekukonko/tablewriter/pull/346",
+      "merged_at": "2026-10-22T03:31:23Z"
+    },
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 343,
+      "title": "Escape CSS classes in the HTML renderer",
+      "url": "https://github.com/olekukonko/tablewriter/pull/343",
+      "merged_at": "2026-10-22T03:22:48Z"
+    },
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 344,
+      "title": "Keep grapheme clusters together when truncating",
+      "url": "https://github.com/olekukonko/tablewriter/pull/344",
+      "merged_at": "2026-10-22T03:21:48Z"
+    },
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 342,
+      "title": "fix: honour skip tags on embedded structs",
+      "url": "https://github.com/olekukonko/tablewriter/pull/342",
+      "merged_at": "2026-10-22T03:14:24Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 384,
+      "title": "fix(package): [datetime] accept empty timezone options",
+      "url": "https://github.com/duke-git/lancet/pull/384",
+      "merged_at": "2026-10-22T02:57:53Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 387,
+      "title": "fix(package): [algorithm] keep duplicate CountSort entries",
+      "url": "https://github.com/duke-git/lancet/pull/387",
+      "merged_at": "2026-10-22T02:56:56Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 383,
+      "title": "fix(package): [convertor] preserve cloned scalar types",
+      "url": "https://github.com/duke-git/lancet/pull/383",
+      "merged_at": "2026-10-22T02:56:43Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 390,
+      "title": "fix(package): [queue] check membership only in active slots",
+      "url": "https://github.com/duke-git/lancet/pull/390",
+      "merged_at": "2026-10-22T02:56:27Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 382,
+      "title": "fix(formatter): exclude leading plus signs from comma groups",
+      "url": "https://github.com/duke-git/lancet/pull/382",
+      "merged_at": "2026-10-22T02:56:14Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 381,
+      "title": "fix(slice): return safely when DeleteAt receives no elements",
+      "url": "https://github.com/duke-git/lancet/pull/381",
+      "merged_at": "2026-10-22T02:55:55Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 385,
+      "title": "fix(package): [datetime] count calendar days across DST",
+      "url": "https://github.com/duke-git/lancet/pull/385",
+      "merged_at": "2026-10-22T02:48:54Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 386,
+      "title": "fix(package): [datetime] reject non-positive intervals",
+      "url": "https://github.com/duke-git/lancet/pull/386",
+      "merged_at": "2026-10-22T02:48:17Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 388,
+      "title": "fix(package): [netutil] reject failed download responses",
+      "url": "https://github.com/duke-git/lancet/pull/388",
+      "merged_at": "2026-10-22T02:48:00Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 389,
+      "title": "fix(package): [netutil] handle upload responses",
+      "url": "https://github.com/duke-git/lancet/pull/389",
+      "merged_at": "2026-10-22T02:47:40Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 391,
+      "title": "fix(package): [list] preserve source storage during merge",
+      "url": "https://github.com/duke-git/lancet/pull/391",
+      "merged_at": "2026-10-22T02:47:25Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 394,
+      "title": "fix(package): [queue] keep circular queues reusable after clear",
+      "url": "https://github.com/duke-git/lancet/pull/394",
+      "merged_at": "2026-10-22T02:43:42Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 393,
+      "title": "fix(package): [stream] avoid overflowing range arithmetic",
+      "url": "https://github.com/duke-git/lancet/pull/393",
+      "merged_at": "2026-10-22T02:40:13Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 396,
+      "title": "fix(package): [validator] match whole Chinese phone numbers",
+      "url": "https://github.com/duke-git/lancet/pull/396",
+      "merged_at": "2026-10-22T02:39:57Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 400,
+      "title": "fix(package): [stream] bound Limit capacity by source length",
+      "url": "https://github.com/duke-git/lancet/pull/400",
+      "merged_at": "2026-10-22T02:39:29Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 401,
+      "title": "fix(package): [slice] report unreadable struct fields",
+      "url": "https://github.com/duke-git/lancet/pull/401",
+      "merged_at": "2026-10-22T02:39:00Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 392,
+      "title": "fix(package): [iterator] report available elements in HasNext",
+      "url": "https://github.com/duke-git/lancet/pull/392",
+      "merged_at": "2026-10-22T02:34:04Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 395,
+      "title": "fix(package): [validator] accept supported hostless URL schemes",
+      "url": "https://github.com/duke-git/lancet/pull/395",
+      "merged_at": "2026-10-22T02:31:05Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 397,
+      "title": "fix(package): [netutil] skip invalid forwarded IP values",
+      "url": "https://github.com/duke-git/lancet/pull/397",
+      "merged_at": "2026-10-22T02:29:36Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 402,
+      "title": "fix(package): [random] handle non-positive unique slice lengths",
+      "url": "https://github.com/duke-git/lancet/pull/402",
+      "merged_at": "2026-10-22T02:29:11Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 403,
+      "title": "fix(package): [structs] recognise directly embedded fields",
+      "url": "https://github.com/duke-git/lancet/pull/403",
+      "merged_at": "2026-10-22T02:28:54Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 398,
+      "title": "fix(package): [netutil] bracket IPv6 dial addresses",
+      "url": "https://github.com/duke-git/lancet/pull/398",
+      "merged_at": "2026-10-22T02:28:41Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 399,
+      "title": "fix(package): [algorithm] handle empty iterative searches",
+      "url": "https://github.com/duke-git/lancet/pull/399",
+      "merged_at": "2026-10-22T02:28:05Z"
+    },
     {
       "repository": "k0kubun/pp",
       "number": 119,
