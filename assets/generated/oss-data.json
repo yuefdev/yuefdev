@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-22",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 173,
-  "upstream_merged": 155,
-  "upstream_repositories": 72,
+  "total_merged": 174,
+  "upstream_merged": 156,
+  "upstream_repositories": 73,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 285862,
+      "stars": 286044,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120650,
+      "stars": 120659,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61763,
+      "stars": 61797,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46669,
+      "stars": 46664,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28989,
+      "stars": 28988,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24279,
+      "stars": 24278,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23987,
+      "stars": 23988,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21208,
+      "stars": 21210,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16147,
+      "stars": 16148,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13593,
+      "stars": 13598,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11813,
+      "stars": 11814,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9988,
+      "stars": 9989,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "duke-git/lancet",
       "url": "https://github.com/duke-git/lancet",
-      "stars": 5301,
+      "stars": 5300,
       "language": "Go",
       "merged": 23,
       "latest": {
@@ -298,6 +298,20 @@
         "title": "Synchronise frozen clock advances in Sleep",
         "url": "https://github.com/dromara/carbon/pull/383",
         "merged_at": "2026-10-19T05:08:45Z"
+      }
+    },
+    {
+      "name": "alecthomas/chroma",
+      "url": "https://github.com/alecthomas/chroma",
+      "stars": 5063,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "alecthomas/chroma",
+        "number": 1409,
+        "title": "fix: remove stale aliases when replacing a lexer",
+        "url": "https://github.com/alecthomas/chroma/pull/1409",
+        "merged_at": "2026-10-22T07:49:19Z"
       }
     },
     {
@@ -345,7 +359,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3095,
+      "stars": 3096,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -415,7 +429,7 @@
     {
       "name": "gookit/goutil",
       "url": "https://github.com/gookit/goutil",
-      "stars": 2360,
+      "stars": 2361,
       "language": "Go",
       "merged": 15,
       "latest": {
@@ -779,7 +793,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 21,
+      "stars": 22,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -807,7 +821,7 @@
     {
       "name": "wmentor/go-magnetar",
       "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 17,
+      "stars": 18,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1016,6 +1030,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "alecthomas/chroma",
+      "number": 1409,
+      "title": "fix: remove stale aliases when replacing a lexer",
+      "url": "https://github.com/alecthomas/chroma/pull/1409",
+      "merged_at": "2026-10-22T07:49:19Z"
+    },
     {
       "repository": "olekukonko/tablewriter",
       "number": 347,
