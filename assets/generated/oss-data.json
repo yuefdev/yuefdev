@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 286044,
+      "stars": 286223,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120659,
+      "stars": 120668,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61797,
+      "stars": 61821,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46664,
+      "stars": 46657,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21210,
+      "stars": 21211,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20208,
+      "stars": 20209,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16165,
+      "stars": 16167,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13598,
+      "stars": 13600,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13376,
+      "stars": 13377,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5063,
+      "stars": 5064,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -401,7 +401,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2781,
+      "stars": 2782,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -527,7 +527,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1532,
+      "stars": 1533,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -625,7 +625,7 @@
     {
       "name": "stretchr/objx",
       "url": "https://github.com/stretchr/objx",
-      "stars": 873,
+      "stars": 874,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -793,7 +793,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 22,
+      "stars": 23,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -802,6 +802,20 @@
         "title": "test(exec): cover disk cache and error branches",
         "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
         "merged_at": "2026-10-18T07:15:56Z"
+      }
+    },
+    {
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 19,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -816,20 +830,6 @@
         "title": "Fix recording with modifiers already held",
         "url": "https://github.com/chinthanasathyajithcs/qpaste/pull/10",
         "merged_at": "2026-10-18T01:24:44Z"
-      }
-    },
-    {
-      "name": "wmentor/go-magnetar",
-      "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 18,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "wmentor/go-magnetar",
-        "number": 150,
-        "title": "fix(help): return markdown through command output",
-        "url": "https://github.com/wmentor/go-magnetar/pull/150",
-        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -933,7 +933,7 @@
     {
       "name": "AdamDiStefanoAI/acr-standard",
       "url": "https://github.com/AdamDiStefanoAI/acr-standard",
-      "stars": 2,
+      "stars": 3,
       "language": "Python",
       "merged": 1,
       "latest": {
