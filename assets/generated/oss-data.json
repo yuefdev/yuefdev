@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 286572,
+      "stars": 286740,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120684,
+      "stars": 120688,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61840,
+      "stars": 61875,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46659,
+      "stars": 46662,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28989,
+      "stars": 28990,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24280,
+      "stars": 24279,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16150,
+      "stars": 16148,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14990,
+      "stars": 14989,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11814,
+      "stars": 11816,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3975,
+      "stars": 3976,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -429,7 +429,7 @@
     {
       "name": "gookit/goutil",
       "url": "https://github.com/gookit/goutil",
-      "stars": 2361,
+      "stars": 2362,
       "language": "Go",
       "merged": 15,
       "latest": {
@@ -709,7 +709,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 496,
+      "stars": 497,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -793,7 +793,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 24,
+      "stars": 25,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -891,7 +891,7 @@
     {
       "name": "ChristianHandy/FleetPilot",
       "url": "https://github.com/ChristianHandy/FleetPilot",
-      "stars": 6,
+      "stars": 7,
       "language": "Python",
       "merged": 2,
       "latest": {
