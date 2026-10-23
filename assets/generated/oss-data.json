@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-23",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 174,
-  "upstream_merged": 156,
+  "total_merged": 195,
+  "upstream_merged": 177,
   "upstream_repositories": 73,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 286740,
+      "stars": 286998,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120688,
+      "stars": 120695,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61875,
+      "stars": 61898,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46662,
+      "stars": 46666,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28990,
+      "stars": 28991,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24279,
+      "stars": 24280,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23991,
+      "stars": 23993,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22272,
+      "stars": 22274,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21211,
+      "stars": 21213,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16171,
+      "stars": 16172,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13600,
+      "stars": 13605,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13377,
+      "stars": 13378,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11816,
+      "stars": 11817,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9989,
+      "stars": 9990,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7497,
+      "stars": 7498,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -277,13 +277,13 @@
       "url": "https://github.com/duke-git/lancet",
       "stars": 5300,
       "language": "Go",
-      "merged": 23,
+      "merged": 42,
       "latest": {
         "repository": "duke-git/lancet",
-        "number": 384,
-        "title": "fix(package): [datetime] accept empty timezone options",
-        "url": "https://github.com/duke-git/lancet/pull/384",
-        "merged_at": "2026-10-22T02:57:53Z"
+        "number": 361,
+        "title": "fix(mathutil): scale integer inputs after float conversion",
+        "url": "https://github.com/duke-git/lancet/pull/361",
+        "merged_at": "2026-10-23T13:02:24Z"
       }
     },
     {
@@ -443,7 +443,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2287,
+      "stars": 2288,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -501,13 +501,13 @@
       "url": "https://github.com/huandu/go-sqlbuilder",
       "stars": 1729,
       "language": "Go",
-      "merged": 1,
+      "merged": 2,
       "latest": {
         "repository": "huandu/go-sqlbuilder",
-        "number": 250,
-        "title": "Preserve nil values when flattening argument lists",
-        "url": "https://github.com/huandu/go-sqlbuilder/pull/250",
-        "merged_at": "2026-10-21T02:47:26Z"
+        "number": 249,
+        "title": "Recognise underscores and digits in PostgreSQL dollar-quote tags",
+        "url": "https://github.com/huandu/go-sqlbuilder/pull/249",
+        "merged_at": "2026-10-23T12:27:03Z"
       }
     },
     {
@@ -569,7 +569,7 @@
     {
       "name": "huandu/xstrings",
       "url": "https://github.com/huandu/xstrings",
-      "stars": 1411,
+      "stars": 1412,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -627,13 +627,13 @@
       "url": "https://github.com/stretchr/objx",
       "stars": 874,
       "language": "Go",
-      "merged": 1,
+      "merged": 2,
       "latest": {
         "repository": "stretchr/objx",
-        "number": 190,
-        "title": "Clean nested string-keyed maps before JSON encoding",
-        "url": "https://github.com/stretchr/objx/pull/190",
-        "merged_at": "2026-10-20T19:50:08Z"
+        "number": 191,
+        "title": "Fix Set on nil nested maps",
+        "url": "https://github.com/stretchr/objx/pull/191",
+        "merged_at": "2026-10-23T13:18:49Z"
       }
     },
     {
@@ -709,7 +709,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 497,
+      "stars": 498,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -807,7 +807,7 @@
     {
       "name": "wmentor/go-magnetar",
       "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 19,
+      "stars": 20,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1030,6 +1030,153 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "stretchr/objx",
+      "number": 191,
+      "title": "Fix Set on nil nested maps",
+      "url": "https://github.com/stretchr/objx/pull/191",
+      "merged_at": "2026-10-23T13:18:49Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 361,
+      "title": "fix(mathutil): scale integer inputs after float conversion",
+      "url": "https://github.com/duke-git/lancet/pull/361",
+      "merged_at": "2026-10-23T13:02:24Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 362,
+      "title": "fix(mathutil): honour Fibonacci seeds at the first positions",
+      "url": "https://github.com/duke-git/lancet/pull/362",
+      "merged_at": "2026-10-23T12:57:08Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 365,
+      "title": "fix(mathutil): format TruncRound integer inputs as floats",
+      "url": "https://github.com/duke-git/lancet/pull/365",
+      "merged_at": "2026-10-23T12:55:00Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 366,
+      "title": "fix(slice): handle Intersection without inputs",
+      "url": "https://github.com/duke-git/lancet/pull/366",
+      "merged_at": "2026-10-23T12:54:26Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 372,
+      "title": "fix(validator): exclude the correct GBK trail byte",
+      "url": "https://github.com/duke-git/lancet/pull/372",
+      "merged_at": "2026-10-23T12:54:09Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 371,
+      "title": "fix(maputil): map slices into array destinations",
+      "url": "https://github.com/duke-git/lancet/pull/371",
+      "merged_at": "2026-10-23T12:53:53Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 373,
+      "title": "fix(validator): correct JCB digit pattern escaping",
+      "url": "https://github.com/duke-git/lancet/pull/373",
+      "merged_at": "2026-10-23T12:53:03Z"
+    },
+    {
+      "repository": "huandu/go-sqlbuilder",
+      "number": 249,
+      "title": "Recognise underscores and digits in PostgreSQL dollar-quote tags",
+      "url": "https://github.com/huandu/go-sqlbuilder/pull/249",
+      "merged_at": "2026-10-23T12:27:03Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 363,
+      "title": "fix(mathutil): divide before multiplying LCM factors",
+      "url": "https://github.com/duke-git/lancet/pull/363",
+      "merged_at": "2026-10-23T10:19:47Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 369,
+      "title": "fix(strutil): encode default trim characters as runes",
+      "url": "https://github.com/duke-git/lancet/pull/369",
+      "merged_at": "2026-10-23T10:14:58Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 368,
+      "title": "fix(strutil): validate Hamming distance by rune count",
+      "url": "https://github.com/duke-git/lancet/pull/368",
+      "merged_at": "2026-10-23T10:14:42Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 367,
+      "title": "fix(strutil): preserve IndexOffset not-found results",
+      "url": "https://github.com/duke-git/lancet/pull/367",
+      "merged_at": "2026-10-23T10:14:24Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 370,
+      "title": "fix(slice): pass actual comparison indexes to DifferenceBy",
+      "url": "https://github.com/duke-git/lancet/pull/370",
+      "merged_at": "2026-10-23T10:14:07Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 374,
+      "title": "fix(validator): reject backslashes in Base64 values",
+      "url": "https://github.com/duke-git/lancet/pull/374",
+      "merged_at": "2026-10-23T10:12:27Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 375,
+      "title": "fix(maputil): validate MapToStruct inputs before reflection",
+      "url": "https://github.com/duke-git/lancet/pull/375",
+      "merged_at": "2026-10-23T10:10:00Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 376,
+      "title": "fix(mathutil): stop stepped ranges when values stop increasing",
+      "url": "https://github.com/duke-git/lancet/pull/376",
+      "merged_at": "2026-10-23T10:04:43Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 377,
+      "title": "fix(strutil): clamp substring lengths before integer conversion",
+      "url": "https://github.com/duke-git/lancet/pull/377",
+      "merged_at": "2026-10-23T10:04:29Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 378,
+      "title": "fix(fileutil): preserve CSV fields and truncate replaced files",
+      "url": "https://github.com/duke-git/lancet/pull/378",
+      "merged_at": "2026-10-23T10:04:11Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 379,
+      "title": "fix(fileutil): reject copies onto the source file",
+      "url": "https://github.com/duke-git/lancet/pull/379",
+      "merged_at": "2026-10-23T10:03:38Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 380,
+      "title": "fix(convertor): clone array values without slice reflection",
+      "url": "https://github.com/duke-git/lancet/pull/380",
+      "merged_at": "2026-10-23T10:03:23Z"
+    },
     {
       "repository": "alecthomas/chroma",
       "number": 1409,

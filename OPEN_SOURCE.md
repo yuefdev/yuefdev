@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-10-23
 
-**156 merged PRs across 73 external projects**, out of **174 total public merged PRs** including my own repositories.
+**177 merged PRs across 73 external projects**, out of **195 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 286,740 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,688 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,875 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,662 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
-| [immerjs/immer](https://github.com/immerjs/immer) | 28,990 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,279 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 286,998 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,695 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61,898 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,666 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [immerjs/immer](https://github.com/immerjs/immer) | 28,991 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,280 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 
-- **2026-10-22** · [alecthomas/chroma #1409](https://github.com/alecthomas/chroma/pull/1409) — fix: remove stale aliases when replacing a lexer
-- **2026-10-22** · [olekukonko/tablewriter #347](https://github.com/olekukonko/tablewriter/pull/347) — Release the cache lock when computation panics
-- **2026-10-22** · [olekukonko/tablewriter #346](https://github.com/olekukonko/tablewriter/pull/346) — Return a zero hit rate for disabled caches
-- **2026-10-22** · [olekukonko/tablewriter #343](https://github.com/olekukonko/tablewriter/pull/343) — Escape CSS classes in the HTML renderer
-- **2026-10-22** · [olekukonko/tablewriter #344](https://github.com/olekukonko/tablewriter/pull/344) — Keep grapheme clusters together when truncating
+- **2026-10-23** · [stretchr/objx #191](https://github.com/stretchr/objx/pull/191) — Fix Set on nil nested maps
+- **2026-10-23** · [duke-git/lancet #361](https://github.com/duke-git/lancet/pull/361) — fix(mathutil): scale integer inputs after float conversion
+- **2026-10-23** · [duke-git/lancet #362](https://github.com/duke-git/lancet/pull/362) — fix(mathutil): honour Fibonacci seeds at the first positions
+- **2026-10-23** · [duke-git/lancet #365](https://github.com/duke-git/lancet/pull/365) — fix(mathutil): format TruncRound integer inputs as floats
+- **2026-10-23** · [duke-git/lancet #366](https://github.com/duke-git/lancet/pull/366) — fix(slice): handle Intersection without inputs
 <!-- OSS:END -->
 
 ## Automatic updates and verification
