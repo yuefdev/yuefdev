@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="oss-title oss-desc">
 <title id="oss-title">Contributing upstream.</title>
-<desc id="oss-desc">156 accepted upstream PRs across 73 external projects; 174 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, immerjs/immer, uutils/coreutils. Updated 2026-10-22.</desc>
+<desc id="oss-desc">156 accepted upstream PRs across 73 external projects; 174 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, immerjs/immer, uutils/coreutils. Updated 2026-10-23.</desc>
 <rect width="1200" height="640" rx="24" fill="#10151c"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="36" y="49" font-size="14" fill="#c5f277" font-weight="700" letter-spacing="1.6">ENGINEERING IN THE OPEN</text>
 <text x="36" y="96" font-size="38" fill="#f2f5f0" font-weight="700" >Contributing upstream.</text>
 <text x="36" y="128" font-size="18" fill="#a2adba" font-weight="400" >Accepted changes. Established projects.</text>
-<text x="1164" y="48" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">UPDATED 2026-10-22</text>
+<text x="1164" y="48" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">UPDATED 2026-10-23</text>
 <rect x="36.0" y="156" width="365.33" height="106" rx="14" fill="#151c25" stroke="#2a3542"/>
 <text x="54.0" y="205" font-size="42" fill="#c5f277" font-weight="700" >156</text>
 <text x="54.0" y="236" font-size="14" fill="#a2adba" font-weight="400" >Upstream merges</text>
@@ -25,7 +25,7 @@
 <text x="83.0" y="349" font-size="18" fill="#f2f5f0" font-weight="600" >affaan-m/ECC</text>
 <text x="54.0" y="385" font-size="14" fill="#a2adba" font-weight="400" >fix: resolve OpenCode source imports and…</text>
 <text x="54.0" y="418" font-size="13" fill="#c5f277" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="383.33" y="418" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 286.5k</text>
+<text x="383.33" y="418" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 286.6k</text>
 <rect x="417.33" y="313" width="365.33" height="128" rx="14" fill="#151c25" stroke="#2a3542"/>
 <path d="M435.33 337V356M435.33 346Q448.33 346 448.33 334" fill="none" stroke="#c5f277" stroke-width="2"/>
 <circle cx="435.33" cy="334" r="3" fill="#151c25" stroke="#c5f277" stroke-width="2"/>
