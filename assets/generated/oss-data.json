@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-23",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 195,
-  "upstream_merged": 177,
-  "upstream_repositories": 73,
+  "total_merged": 197,
+  "upstream_merged": 179,
+  "upstream_repositories": 74,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 286998,
+      "stars": 287165,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120695,
+      "stars": 120702,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61898,
+      "stars": 61910,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46666,
+      "stars": 46670,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24280,
+      "stars": 24284,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23993,
+      "stars": 23994,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21213,
+      "stars": 21217,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16172,
+      "stars": 16174,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13378,
+      "stars": 13379,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7498,
+      "stars": 7499,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -277,13 +277,13 @@
       "url": "https://github.com/duke-git/lancet",
       "stars": 5300,
       "language": "Go",
-      "merged": 42,
+      "merged": 43,
       "latest": {
         "repository": "duke-git/lancet",
-        "number": 361,
-        "title": "fix(mathutil): scale integer inputs after float conversion",
-        "url": "https://github.com/duke-git/lancet/pull/361",
-        "merged_at": "2026-10-23T13:02:24Z"
+        "number": 360,
+        "title": "fix(mathutil): preserve distances at extreme scales",
+        "url": "https://github.com/duke-git/lancet/pull/360",
+        "merged_at": "2026-10-23T14:43:48Z"
       }
     },
     {
@@ -457,7 +457,7 @@
     {
       "name": "k0kubun/pp",
       "url": "https://github.com/k0kubun/pp",
-      "stars": 2055,
+      "stars": 2056,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -597,7 +597,7 @@
     {
       "name": "twpayne/go-geom",
       "url": "https://github.com/twpayne/go-geom",
-      "stars": 985,
+      "stars": 986,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -634,6 +634,20 @@
         "title": "Fix Set on nil nested maps",
         "url": "https://github.com/stretchr/objx/pull/191",
         "merged_at": "2026-10-23T13:18:49Z"
+      }
+    },
+    {
+      "name": "go-test/deep",
+      "url": "https://github.com/go-test/deep",
+      "stars": 787,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "go-test/deep",
+        "number": 74,
+        "title": "Compare uintptr values as unsigned integers",
+        "url": "https://github.com/go-test/deep/pull/74",
+        "merged_at": "2026-10-23T16:48:19Z"
       }
     },
     {
@@ -693,6 +707,20 @@
       }
     },
     {
+      "name": "CoWork-OS/CoWork-OS",
+      "url": "https://github.com/CoWork-OS/CoWork-OS",
+      "stars": 504,
+      "language": "TypeScript",
+      "merged": 2,
+      "latest": {
+        "repository": "CoWork-OS/CoWork-OS",
+        "number": 684,
+        "title": "fix(voice): preserve identifiers and skip images",
+        "url": "https://github.com/CoWork-OS/CoWork-OS/pull/684",
+        "merged_at": "2026-10-18T12:12:24Z"
+      }
+    },
+    {
       "name": "etemesi254/zune-image",
       "url": "https://github.com/etemesi254/zune-image",
       "stars": 504,
@@ -704,20 +732,6 @@
         "title": "png: Map cICP transfer characteristics per H.273",
         "url": "https://github.com/etemesi254/zune-image/pull/446",
         "merged_at": "2026-09-20T17:08:58Z"
-      }
-    },
-    {
-      "name": "CoWork-OS/CoWork-OS",
-      "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 498,
-      "language": "TypeScript",
-      "merged": 2,
-      "latest": {
-        "repository": "CoWork-OS/CoWork-OS",
-        "number": 684,
-        "title": "fix(voice): preserve identifiers and skip images",
-        "url": "https://github.com/CoWork-OS/CoWork-OS/pull/684",
-        "merged_at": "2026-10-18T12:12:24Z"
       }
     },
     {
@@ -903,6 +917,20 @@
       }
     },
     {
+      "name": "onurbaydas/VirtoMir",
+      "url": "https://github.com/onurbaydas/VirtoMir",
+      "stars": 5,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "onurbaydas/VirtoMir",
+        "number": 8,
+        "title": "test: cover UI formatting boundaries",
+        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+        "merged_at": "2026-10-17T22:20:08Z"
+      }
+    },
+    {
       "name": "deyna256/convy",
       "url": "https://github.com/deyna256/convy",
       "stars": 4,
@@ -942,20 +970,6 @@
         "title": "test(sdk): prove denial blocks tool execution",
         "url": "https://github.com/AdamDiStefanoAI/acr-standard/pull/31",
         "merged_at": "2026-10-18T03:09:50Z"
-      }
-    },
-    {
-      "name": "onurbaydas/VirtoMir",
-      "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 3,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "onurbaydas/VirtoMir",
-        "number": 8,
-        "title": "test: cover UI formatting boundaries",
-        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
-        "merged_at": "2026-10-17T22:20:08Z"
       }
     },
     {
@@ -1030,6 +1044,20 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "go-test/deep",
+      "number": 74,
+      "title": "Compare uintptr values as unsigned integers",
+      "url": "https://github.com/go-test/deep/pull/74",
+      "merged_at": "2026-10-23T16:48:19Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 360,
+      "title": "fix(mathutil): preserve distances at extreme scales",
+      "url": "https://github.com/duke-git/lancet/pull/360",
+      "merged_at": "2026-10-23T14:43:48Z"
+    },
     {
       "repository": "stretchr/objx",
       "number": 191,
