@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-24",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 197,
-  "upstream_merged": 179,
-  "upstream_repositories": 74,
+  "total_merged": 200,
+  "upstream_merged": 182,
+  "upstream_repositories": 75,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 287640,
+      "stars": 287766,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120727,
+      "stars": 120737,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61947,
+      "stars": 61953,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28992,
+      "stars": 28993,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 23992,
+      "stars": 23993,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22277,
+      "stars": 22276,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20208,
+      "stars": 20207,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14989,
+      "stars": 14988,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13610,
+      "stars": 13611,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -277,19 +277,19 @@
       "url": "https://github.com/duke-git/lancet",
       "stars": 5300,
       "language": "Go",
-      "merged": 43,
+      "merged": 45,
       "latest": {
         "repository": "duke-git/lancet",
-        "number": 360,
-        "title": "fix(mathutil): preserve distances at extreme scales",
-        "url": "https://github.com/duke-git/lancet/pull/360",
-        "merged_at": "2026-10-23T14:43:48Z"
+        "number": 364,
+        "title": "fix(mathutil): compute permutations without factorial division",
+        "url": "https://github.com/duke-git/lancet/pull/364",
+        "merged_at": "2026-10-24T14:50:04Z"
       }
     },
     {
       "name": "dromara/carbon",
       "url": "https://github.com/dromara/carbon",
-      "stars": 5219,
+      "stars": 5220,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -443,7 +443,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2289,
+      "stars": 2290,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -693,6 +693,20 @@
       }
     },
     {
+      "name": "bmatcuk/doublestar",
+      "url": "https://github.com/bmatcuk/doublestar",
+      "stars": 720,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "bmatcuk/doublestar",
+        "number": 125,
+        "title": "fix: preserve segment position across brace alternatives",
+        "url": "https://github.com/bmatcuk/doublestar/pull/125",
+        "merged_at": "2026-10-24T13:18:25Z"
+      }
+    },
+    {
       "name": "smallnest/ringbuffer",
       "url": "https://github.com/smallnest/ringbuffer",
       "stars": 650,
@@ -821,7 +835,7 @@
     {
       "name": "wmentor/go-magnetar",
       "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 20,
+      "stars": 21,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1044,6 +1058,27 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "duke-git/lancet",
+      "number": 364,
+      "title": "fix(mathutil): compute permutations without factorial division",
+      "url": "https://github.com/duke-git/lancet/pull/364",
+      "merged_at": "2026-10-24T14:50:04Z"
+    },
+    {
+      "repository": "duke-git/lancet",
+      "number": 359,
+      "title": "fix(package): update LRU length after deletion",
+      "url": "https://github.com/duke-git/lancet/pull/359",
+      "merged_at": "2026-10-24T14:46:07Z"
+    },
+    {
+      "repository": "bmatcuk/doublestar",
+      "number": 125,
+      "title": "fix: preserve segment position across brace alternatives",
+      "url": "https://github.com/bmatcuk/doublestar/pull/125",
+      "merged_at": "2026-10-24T13:18:25Z"
+    },
     {
       "repository": "go-test/deep",
       "number": 74,
