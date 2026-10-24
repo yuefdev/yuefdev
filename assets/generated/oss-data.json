@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 287899,
+      "stars": 288013,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120739,
+      "stars": 120750,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61968,
+      "stars": 61973,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46680,
+      "stars": 46683,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24282,
+      "stars": 24283,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22276,
+      "stars": 22277,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21220,
+      "stars": 21219,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16175,
+      "stars": 16176,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16150,
+      "stars": 16151,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11818,
+      "stars": 11819,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -457,7 +457,7 @@
     {
       "name": "k0kubun/pp",
       "url": "https://github.com/k0kubun/pp",
-      "stars": 2056,
+      "stars": 2057,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -723,7 +723,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 509,
+      "stars": 510,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -849,7 +849,7 @@
     {
       "name": "chinthanasathyajithcs/qpaste",
       "url": "https://github.com/chinthanasathyajithcs/qpaste",
-      "stars": 18,
+      "stars": 19,
       "language": "Python",
       "merged": 1,
       "latest": {
