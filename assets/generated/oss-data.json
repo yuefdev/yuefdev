@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 287465,
+      "stars": 287640,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120719,
+      "stars": 120727,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 61935,
+      "stars": 61947,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46674,
+      "stars": 46677,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24283,
+      "stars": 24282,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22275,
+      "stars": 22277,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16175,
+      "stars": 16174,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16149,
+      "stars": 16148,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13608,
+      "stars": 13610,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13378,
+      "stars": 13379,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11817,
+      "stars": 11818,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3976,
+      "stars": 3974,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -443,7 +443,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2288,
+      "stars": 2289,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -737,7 +737,7 @@
     {
       "name": "ndycode/oc-codex-multi-auth",
       "url": "https://github.com/ndycode/oc-codex-multi-auth",
-      "stars": 207,
+      "stars": 206,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -791,6 +791,20 @@
       }
     },
     {
+      "name": "wassim-azi/agy-powerline",
+      "url": "https://github.com/wassim-azi/agy-powerline",
+      "stars": 27,
+      "language": "JavaScript",
+      "merged": 3,
+      "latest": {
+        "repository": "wassim-azi/agy-powerline",
+        "number": 79,
+        "title": "test(exec): cover disk cache and error branches",
+        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
+        "merged_at": "2026-10-18T07:15:56Z"
+      }
+    },
+    {
       "name": "MakeItEzzz555/tuck-bit",
       "url": "https://github.com/MakeItEzzz555/tuck-bit",
       "stars": 26,
@@ -802,20 +816,6 @@
         "title": "Test privacy-audit boundaries and failure handling",
         "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
         "merged_at": "2026-10-18T06:57:46Z"
-      }
-    },
-    {
-      "name": "wassim-azi/agy-powerline",
-      "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 26,
-      "language": "JavaScript",
-      "merged": 3,
-      "latest": {
-        "repository": "wassim-azi/agy-powerline",
-        "number": 79,
-        "title": "test(exec): cover disk cache and error branches",
-        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
-        "merged_at": "2026-10-18T07:15:56Z"
       }
     },
     {
