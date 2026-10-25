@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-25",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 201,
-  "upstream_merged": 183,
-  "upstream_repositories": 76,
+  "total_merged": 202,
+  "upstream_merged": 184,
+  "upstream_repositories": 77,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 288506,
+      "stars": 288645,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120774,
+      "stars": 120779,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62007,
+      "stars": 62019,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46689,
+      "stars": 46693,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21223,
+      "stars": 21224,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20207,
+      "stars": 20209,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16157,
+      "stars": 16158,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14989,
+      "stars": 14990,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13616,
+      "stars": 13619,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -385,6 +385,20 @@
       }
     },
     {
+      "name": "montanaflynn/stats",
+      "url": "https://github.com/montanaflynn/stats",
+      "stars": 3031,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "montanaflynn/stats",
+        "number": 145,
+        "title": "fix: preserve finite Euclidean distances across scales",
+        "url": "https://github.com/montanaflynn/stats/pull/145",
+        "merged_at": "2026-10-25T15:52:45Z"
+      }
+    },
+    {
       "name": "kayak/pypika",
       "url": "https://github.com/kayak/pypika",
       "stars": 2924,
@@ -415,7 +429,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2644,
+      "stars": 2645,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -793,7 +807,7 @@
     {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 34,
+      "stars": 35,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1072,6 +1086,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "montanaflynn/stats",
+      "number": 145,
+      "title": "fix: preserve finite Euclidean distances across scales",
+      "url": "https://github.com/montanaflynn/stats/pull/145",
+      "merged_at": "2026-10-25T15:52:45Z"
+    },
     {
       "repository": "python-humanize/humanize",
       "number": 435,
