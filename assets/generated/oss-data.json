@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 288765,
+      "stars": 288826,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120792,
+      "stars": 120802,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62027,
+      "stars": 62030,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24286,
+      "stars": 24288,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21225,
+      "stars": 21226,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16185,
+      "stars": 16186,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13619,
+      "stars": 13620,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9991,
+      "stars": 9992,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -345,7 +345,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3815,
+      "stars": 3816,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -429,7 +429,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2645,
+      "stars": 2646,
       "language": "C++",
       "merged": 2,
       "latest": {

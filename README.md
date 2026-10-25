@@ -36,10 +36,10 @@ My background in **automation, e-commerce and technical service** shapes how I b
 
 <!-- OSS:START -->
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=f79f1ce78abb">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=f79f1ce78abb">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=f79f1ce78abb">
-  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=f79f1ce78abb" alt="184 merged upstream PRs across 77 external projects; 202 total public merged PRs." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=6bf3afc96a6b">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=6bf3afc96a6b">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=6bf3afc96a6b">
+  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=6bf3afc96a6b" alt="184 merged upstream PRs across 77 external projects; 202 total public merged PRs." width="1200">
 </picture>
 
 [affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [immerjs/immer](https://github.com/immerjs/immer/pull/1334) · [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565)
