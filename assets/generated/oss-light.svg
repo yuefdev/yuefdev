@@ -25,7 +25,7 @@
 <text x="83.0" y="349" font-size="18" fill="#17211c" font-weight="600" >affaan-m/ECC</text>
 <text x="54.0" y="385" font-size="14" fill="#59685c" font-weight="400" >fix: resolve OpenCode source imports and…</text>
 <text x="54.0" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="383.33" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 289.1k</text>
+<text x="383.33" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 289.4k</text>
 <rect x="417.33" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M435.33 337V356M435.33 346Q448.33 346 448.33 334" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="435.33" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
@@ -43,7 +43,7 @@
 <text x="845.66" y="349" font-size="18" fill="#17211c" font-weight="600" >BerriAI/litellm</text>
 <text x="816.66" y="385" font-size="14" fill="#59685c" font-weight="400" >fix(proxy): allow model instances in…</text>
 <text x="816.66" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Python</text>
-<text x="1145.99" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 62.0k</text>
+<text x="1145.99" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 62.1k</text>
 <rect x="36.0" y="451" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54.0 475V494M54.0 484Q67.0 484 67.0 472" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54.0" cy="472" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
