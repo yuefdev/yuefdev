@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-10-26
 
-**184 merged PRs across 77 external projects**, out of **202 total public merged PRs** including my own repositories.
+**186 merged PRs across 78 external projects**, out of **204 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 289,420 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,833 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,071 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 289,699 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,848 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,079 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,703 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
 | [immerjs/immer](https://github.com/immerjs/immer) | 28,994 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,291 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,292 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 
+- **2026-10-26** · [ARM-software/ComputeLibrary #1312](https://github.com/ARM-software/ComputeLibrary/pull/1312) — fix: Preserve spaces in string list options
+- **2026-10-26** · [ARM-software/ComputeLibrary #1309](https://github.com/ARM-software/ComputeLibrary/pull/1309) — fix: Report unsupported TFLite operators
 - **2026-10-25** · [montanaflynn/stats #145](https://github.com/montanaflynn/stats/pull/145) — fix: preserve finite Euclidean distances across scales
 - **2026-10-25** · [python-humanize/humanize #435](https://github.com/python-humanize/humanize/pull/435) — Document local test setup and pytest commands
 - **2026-10-24** · [duke-git/lancet #364](https://github.com/duke-git/lancet/pull/364) — fix(mathutil): compute permutations without factorial division
-- **2026-10-24** · [duke-git/lancet #359](https://github.com/duke-git/lancet/pull/359) — fix(package): update LRU length after deletion
-- **2026-10-24** · [bmatcuk/doublestar #125](https://github.com/bmatcuk/doublestar/pull/125) — fix: preserve segment position across brace alternatives
 <!-- OSS:END -->
 
 ## Automatic updates and verification

@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-26",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 202,
-  "upstream_merged": 184,
-  "upstream_repositories": 77,
+  "total_merged": 204,
+  "upstream_merged": 186,
+  "upstream_repositories": 78,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 289420,
+      "stars": 289699,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120833,
+      "stars": 120848,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62071,
+      "stars": 62079,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24291,
+      "stars": 24292,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22279,
+      "stars": 22278,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16172,
+      "stars": 16173,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13380,
+      "stars": 13379,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11820,
+      "stars": 11821,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -357,6 +357,20 @@
       }
     },
     {
+      "name": "ARM-software/ComputeLibrary",
+      "url": "https://github.com/ARM-software/ComputeLibrary",
+      "stars": 3198,
+      "language": "C++",
+      "merged": 2,
+      "latest": {
+        "repository": "ARM-software/ComputeLibrary",
+        "number": 1312,
+        "title": "fix: Preserve spaces in string list options",
+        "url": "https://github.com/ARM-software/ComputeLibrary/pull/1312",
+        "merged_at": "2026-10-26T18:19:38Z"
+      }
+    },
+    {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
       "stars": 3097,
@@ -401,7 +415,7 @@
     {
       "name": "kayak/pypika",
       "url": "https://github.com/kayak/pypika",
-      "stars": 2924,
+      "stars": 2923,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -429,7 +443,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2647,
+      "stars": 2648,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -457,7 +471,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2290,
+      "stars": 2289,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -723,7 +737,7 @@
     {
       "name": "bmatcuk/doublestar",
       "url": "https://github.com/bmatcuk/doublestar",
-      "stars": 720,
+      "stars": 721,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1086,6 +1100,20 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "ARM-software/ComputeLibrary",
+      "number": 1312,
+      "title": "fix: Preserve spaces in string list options",
+      "url": "https://github.com/ARM-software/ComputeLibrary/pull/1312",
+      "merged_at": "2026-10-26T18:19:38Z"
+    },
+    {
+      "repository": "ARM-software/ComputeLibrary",
+      "number": 1309,
+      "title": "fix: Report unsupported TFLite operators",
+      "url": "https://github.com/ARM-software/ComputeLibrary/pull/1309",
+      "merged_at": "2026-10-26T16:52:35Z"
+    },
     {
       "repository": "montanaflynn/stats",
       "number": 145,
