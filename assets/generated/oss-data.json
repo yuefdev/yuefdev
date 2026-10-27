@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-27",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 205,
-  "upstream_merged": 187,
-  "upstream_repositories": 79,
+  "total_merged": 207,
+  "upstream_merged": 189,
+  "upstream_repositories": 80,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 290084,
+      "stars": 290425,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120870,
+      "stars": 120884,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62123,
+      "stars": 62151,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46712,
+      "stars": 46713,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24295,
+      "stars": 24297,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21238,
+      "stars": 21237,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20211,
+      "stars": 20210,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16192,
+      "stars": 16194,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16175,
+      "stars": 16178,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14991,
+      "stars": 14992,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13630,
+      "stars": 13633,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13379,
+      "stars": 13380,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7502,
+      "stars": 7504,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -317,15 +317,29 @@
     {
       "name": "olekukonko/tablewriter",
       "url": "https://github.com/olekukonko/tablewriter",
-      "stars": 4821,
+      "stars": 4822,
       "language": "Go",
-      "merged": 5,
+      "merged": 6,
       "latest": {
         "repository": "olekukonko/tablewriter",
-        "number": 347,
-        "title": "Release the cache lock when computation panics",
-        "url": "https://github.com/olekukonko/tablewriter/pull/347",
-        "merged_at": "2026-10-22T03:38:43Z"
+        "number": 345,
+        "title": "Keep text after OSC string terminators",
+        "url": "https://github.com/olekukonko/tablewriter/pull/345",
+        "merged_at": "2026-10-27T11:42:24Z"
+      }
+    },
+    {
+      "name": "go-ozzo/ozzo-validation",
+      "url": "https://github.com/go-ozzo/ozzo-validation",
+      "stars": 4154,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "go-ozzo/ozzo-validation",
+        "number": 232,
+        "title": "fix: return an error for nil EnsureString input",
+        "url": "https://github.com/go-ozzo/ozzo-validation/pull/232",
+        "merged_at": "2026-10-27T08:20:31Z"
       }
     },
     {
@@ -513,7 +527,7 @@
     {
       "name": "r1chardj0n3s/parse",
       "url": "https://github.com/r1chardj0n3s/parse",
-      "stars": 1797,
+      "stars": 1798,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -765,7 +779,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 513,
+      "stars": 514,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -919,7 +933,7 @@
     {
       "name": "abduznik/bitbox",
       "url": "https://github.com/abduznik/bitbox",
-      "stars": 14,
+      "stars": 13,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1114,6 +1128,20 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "olekukonko/tablewriter",
+      "number": 345,
+      "title": "Keep text after OSC string terminators",
+      "url": "https://github.com/olekukonko/tablewriter/pull/345",
+      "merged_at": "2026-10-27T11:42:24Z"
+    },
+    {
+      "repository": "go-ozzo/ozzo-validation",
+      "number": 232,
+      "title": "fix: return an error for nil EnsureString input",
+      "url": "https://github.com/go-ozzo/ozzo-validation/pull/232",
+      "merged_at": "2026-10-27T08:20:31Z"
+    },
     {
       "repository": "Terry-Kao/Autonomous-Research-Agent-Protocol",
       "number": 7,
