@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-27",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 207,
-  "upstream_merged": 189,
-  "upstream_repositories": 80,
+  "total_merged": 208,
+  "upstream_merged": 190,
+  "upstream_repositories": 81,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 290425,
+      "stars": 290657,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120884,
+      "stars": 120889,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62151,
+      "stars": 62170,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46713,
+      "stars": 46717,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24297,
+      "stars": 24298,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21237,
+      "stars": 21239,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16194,
+      "stars": 16195,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16178,
+      "stars": 16179,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13633,
+      "stars": 13632,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13380,
+      "stars": 13381,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9995,
+      "stars": 9997,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5742,
+      "stars": 5740,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5068,
+      "stars": 5069,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3099,
+      "stars": 3100,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -679,6 +679,20 @@
       }
     },
     {
+      "name": "go-faker/faker",
+      "url": "https://github.com/go-faker/faker",
+      "stars": 869,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "go-faker/faker",
+        "number": 103,
+        "title": "fix: tagged fixed-size array generation",
+        "url": "https://github.com/go-faker/faker/pull/103",
+        "merged_at": "2026-10-27T18:13:16Z"
+      }
+    },
+    {
       "name": "go-test/deep",
       "url": "https://github.com/go-test/deep",
       "stars": 787,
@@ -709,7 +723,7 @@
     {
       "name": "python-humanize/humanize",
       "url": "https://github.com/python-humanize/humanize",
-      "stars": 765,
+      "stars": 766,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -891,7 +905,7 @@
     {
       "name": "wmentor/go-magnetar",
       "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 23,
+      "stars": 25,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -945,6 +959,20 @@
       }
     },
     {
+      "name": "aws-samples/sample-aws-genai-db-modernizer",
+      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
+      "stars": 13,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "aws-samples/sample-aws-genai-db-modernizer",
+        "number": 392,
+        "title": "fix(schema-design): reject Aurora split requests",
+        "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
+        "merged_at": "2026-10-07T13:30:46Z"
+      }
+    },
+    {
       "name": "404-PF/New-Tab",
       "url": "https://github.com/404-PF/New-Tab",
       "stars": 8,
@@ -956,20 +984,6 @@
         "title": "fix: complete offline source unit conversions",
         "url": "https://github.com/404-PF/New-Tab/pull/849",
         "merged_at": "2026-10-18T00:57:04Z"
-      }
-    },
-    {
-      "name": "aws-samples/sample-aws-genai-db-modernizer",
-      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
-      "stars": 8,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "aws-samples/sample-aws-genai-db-modernizer",
-        "number": 392,
-        "title": "fix(schema-design): reject Aurora split requests",
-        "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
-        "merged_at": "2026-10-07T13:30:46Z"
       }
     },
     {
@@ -1128,6 +1142,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "go-faker/faker",
+      "number": 103,
+      "title": "fix: tagged fixed-size array generation",
+      "url": "https://github.com/go-faker/faker/pull/103",
+      "merged_at": "2026-10-27T18:13:16Z"
+    },
     {
       "repository": "olekukonko/tablewriter",
       "number": 345,
