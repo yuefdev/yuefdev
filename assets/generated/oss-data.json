@@ -1,15 +1,15 @@
 {
   "username": "yuefdev",
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 204,
-  "upstream_merged": 186,
-  "upstream_repositories": 78,
+  "total_merged": 205,
+  "upstream_merged": 187,
+  "upstream_repositories": 79,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 289699,
+      "stars": 289844,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120848,
+      "stars": 120859,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62079,
+      "stars": 62087,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24292,
+      "stars": 24294,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21233,
+      "stars": 21236,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16173,
+      "stars": 16174,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13626,
+      "stars": 13629,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9994,
+      "stars": 9995,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7502,
+      "stars": 7501,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5741,
+      "stars": 5742,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -359,7 +359,7 @@
     {
       "name": "ARM-software/ComputeLibrary",
       "url": "https://github.com/ARM-software/ComputeLibrary",
-      "stars": 3198,
+      "stars": 3199,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3097,
+      "stars": 3099,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -443,7 +443,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2648,
+      "stars": 2647,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -583,7 +583,7 @@
     {
       "name": "dgilland/pydash",
       "url": "https://github.com/dgilland/pydash",
-      "stars": 1449,
+      "stars": 1450,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -765,7 +765,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 512,
+      "stars": 513,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1097,9 +1097,30 @@
         "url": "https://github.com/Buildingcoolstuff/Codecritter-/pull/32",
         "merged_at": "2026-10-19T06:14:41Z"
       }
+    },
+    {
+      "name": "Terry-Kao/Autonomous-Research-Agent-Protocol",
+      "url": "https://github.com/Terry-Kao/Autonomous-Research-Agent-Protocol",
+      "stars": 0,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "Terry-Kao/Autonomous-Research-Agent-Protocol",
+        "number": 7,
+        "title": "Document CLI exit codes and expected failures",
+        "url": "https://github.com/Terry-Kao/Autonomous-Research-Agent-Protocol/pull/7",
+        "merged_at": "2026-10-26T23:13:26Z"
+      }
     }
   ],
   "pull_requests": [
+    {
+      "repository": "Terry-Kao/Autonomous-Research-Agent-Protocol",
+      "number": 7,
+      "title": "Document CLI exit codes and expected failures",
+      "url": "https://github.com/Terry-Kao/Autonomous-Research-Agent-Protocol/pull/7",
+      "merged_at": "2026-10-26T23:13:26Z"
+    },
     {
       "repository": "ARM-software/ComputeLibrary",
       "number": 1312,
