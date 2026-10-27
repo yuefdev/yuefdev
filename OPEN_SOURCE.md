@@ -11,12 +11,12 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290,657 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,889 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,170 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,717 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
-| [immerjs/immer](https://github.com/immerjs/immer) | 28,995 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,298 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 290,843 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 120,898 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,182 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,718 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [immerjs/immer](https://github.com/immerjs/immer) | 28,996 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,300 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 

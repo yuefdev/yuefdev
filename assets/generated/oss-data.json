@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 290657,
+      "stars": 290843,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120889,
+      "stars": 120898,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62170,
+      "stars": 62182,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46717,
+      "stars": 46718,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28995,
+      "stars": 28996,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24298,
+      "stars": 24300,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21239,
+      "stars": 21240,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13632,
+      "stars": 13633,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5740,
+      "stars": 5741,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5069,
+      "stars": 5070,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2289,
+      "stars": 2288,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1001,6 +1001,20 @@
       }
     },
     {
+      "name": "deyna256/convy",
+      "url": "https://github.com/deyna256/convy",
+      "stars": 5,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "deyna256/convy",
+        "number": 15,
+        "title": "#8: keep written dialogue list numbers",
+        "url": "https://github.com/deyna256/convy/pull/15",
+        "merged_at": "2026-10-10T13:35:16Z"
+      }
+    },
+    {
       "name": "onurbaydas/VirtoMir",
       "url": "https://github.com/onurbaydas/VirtoMir",
       "stars": 5,
@@ -1012,20 +1026,6 @@
         "title": "test: cover UI formatting boundaries",
         "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
         "merged_at": "2026-10-17T22:20:08Z"
-      }
-    },
-    {
-      "name": "deyna256/convy",
-      "url": "https://github.com/deyna256/convy",
-      "stars": 4,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "deyna256/convy",
-        "number": 15,
-        "title": "#8: keep written dialogue list numbers",
-        "url": "https://github.com/deyna256/convy/pull/15",
-        "merged_at": "2026-10-10T13:35:16Z"
       }
     },
     {
