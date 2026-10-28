@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-10-28",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 208,
-  "upstream_merged": 190,
-  "upstream_repositories": 81,
+  "total_merged": 209,
+  "upstream_merged": 191,
+  "upstream_repositories": 82,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 290956,
+      "stars": 291208,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120904,
+      "stars": 120878,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62193,
+      "stars": 62219,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46722,
+      "stars": 46725,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22278,
+      "stars": 22280,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21241,
+      "stars": 21240,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16195,
+      "stars": 16196,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16180,
+      "stars": 16182,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14992,
+      "stars": 14993,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13633,
+      "stars": 13634,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13381,
+      "stars": 13382,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11822,
+      "stars": 11823,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7504,
+      "stars": 7506,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -345,7 +345,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3976,
+      "stars": 3977,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3100,
+      "stars": 3102,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -637,6 +637,20 @@
       }
     },
     {
+      "name": "tox-dev/platformdirs",
+      "url": "https://github.com/tox-dev/platformdirs",
+      "stars": 1000,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "tox-dev/platformdirs",
+        "number": 630,
+        "title": "✅ test(unix): use host strerror in warning tests",
+        "url": "https://github.com/tox-dev/platformdirs/pull/630",
+        "merged_at": "2026-10-28T05:45:22Z"
+      }
+    },
+    {
       "name": "twpayne/go-geom",
       "url": "https://github.com/twpayne/go-geom",
       "stars": 986,
@@ -807,7 +821,7 @@
     {
       "name": "etemesi254/zune-image",
       "url": "https://github.com/etemesi254/zune-image",
-      "stars": 504,
+      "stars": 505,
       "language": "Rust",
       "merged": 2,
       "latest": {
@@ -821,7 +835,7 @@
     {
       "name": "ndycode/oc-codex-multi-auth",
       "url": "https://github.com/ndycode/oc-codex-multi-auth",
-      "stars": 207,
+      "stars": 208,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1001,6 +1015,20 @@
       }
     },
     {
+      "name": "onurbaydas/VirtoMir",
+      "url": "https://github.com/onurbaydas/VirtoMir",
+      "stars": 6,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "onurbaydas/VirtoMir",
+        "number": 8,
+        "title": "test: cover UI formatting boundaries",
+        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+        "merged_at": "2026-10-17T22:20:08Z"
+      }
+    },
+    {
       "name": "deyna256/convy",
       "url": "https://github.com/deyna256/convy",
       "stars": 5,
@@ -1012,20 +1040,6 @@
         "title": "#8: keep written dialogue list numbers",
         "url": "https://github.com/deyna256/convy/pull/15",
         "merged_at": "2026-10-10T13:35:16Z"
-      }
-    },
-    {
-      "name": "onurbaydas/VirtoMir",
-      "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 5,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "onurbaydas/VirtoMir",
-        "number": 8,
-        "title": "test: cover UI formatting boundaries",
-        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
-        "merged_at": "2026-10-17T22:20:08Z"
       }
     },
     {
@@ -1071,6 +1085,20 @@
       }
     },
     {
+      "name": "arminazimi/seaworthy",
+      "url": "https://github.com/arminazimi/seaworthy",
+      "stars": 1,
+      "language": "TypeScript",
+      "merged": 2,
+      "latest": {
+        "repository": "arminazimi/seaworthy",
+        "number": 384,
+        "title": "feat(verify): report untitled iframes",
+        "url": "https://github.com/arminazimi/seaworthy/pull/384",
+        "merged_at": "2026-10-18T11:42:16Z"
+      }
+    },
+    {
       "name": "centuryglass/sd-backend-client",
       "url": "https://github.com/centuryglass/sd-backend-client",
       "stars": 1,
@@ -1096,20 +1124,6 @@
         "title": "Fix Ctrl+Shift+Z redo in the source editor",
         "url": "https://github.com/SamuelNDCE/plume/pull/11",
         "merged_at": "2026-10-08T20:36:49Z"
-      }
-    },
-    {
-      "name": "arminazimi/seaworthy",
-      "url": "https://github.com/arminazimi/seaworthy",
-      "stars": 0,
-      "language": "TypeScript",
-      "merged": 2,
-      "latest": {
-        "repository": "arminazimi/seaworthy",
-        "number": 384,
-        "title": "feat(verify): report untitled iframes",
-        "url": "https://github.com/arminazimi/seaworthy/pull/384",
-        "merged_at": "2026-10-18T11:42:16Z"
       }
     },
     {
@@ -1142,6 +1156,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "tox-dev/platformdirs",
+      "number": 630,
+      "title": "✅ test(unix): use host strerror in warning tests",
+      "url": "https://github.com/tox-dev/platformdirs/pull/630",
+      "merged_at": "2026-10-28T05:45:22Z"
+    },
     {
       "repository": "go-faker/faker",
       "number": 103,
