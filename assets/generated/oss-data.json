@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 291490,
+      "stars": 291677,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62241,
+      "stars": 62249,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46734,
+      "stars": 46736,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24302,
+      "stars": 24303,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24006,
+      "stars": 24009,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21242,
+      "stars": 21246,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16201,
+      "stars": 16202,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16186,
+      "stars": 16189,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13639,
+      "stars": 13641,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 9998,
+      "stars": 10000,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5743,
+      "stars": 5744,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -359,7 +359,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3817,
+      "stars": 3818,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -457,7 +457,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2647,
+      "stars": 2646,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -639,7 +639,7 @@
     {
       "name": "tox-dev/platformdirs",
       "url": "https://github.com/tox-dev/platformdirs",
-      "stars": 1000,
+      "stars": 1001,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -765,7 +765,7 @@
     {
       "name": "antchfx/xpath",
       "url": "https://github.com/antchfx/xpath",
-      "stars": 742,
+      "stars": 743,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -863,7 +863,7 @@
     {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 35,
+      "stars": 37,
       "language": "Python",
       "merged": 1,
       "latest": {
