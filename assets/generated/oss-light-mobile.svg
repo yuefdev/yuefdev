@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="1284" viewBox="0 0 640 1284" role="img" aria-labelledby="oss-title oss-desc">
 <title id="oss-title">Contributing upstream.</title>
-<desc id="oss-desc">191 accepted upstream PRs across 82 external projects; 209 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, immerjs/immer, uutils/coreutils. Updated 2026-10-28.</desc>
+<desc id="oss-desc">191 accepted upstream PRs across 82 external projects; 209 total public merged PRs including own repositories. Featured: affaan-m/ECC, rust-lang/rust, BerriAI/litellm, jgm/pandoc, immerjs/immer, uutils/coreutils. Updated 2026-10-29.</desc>
 <rect width="640" height="1284" rx="24" fill="#f6f8f3"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="36" y="49" font-size="14" fill="#427519" font-weight="700" letter-spacing="1.6">ENGINEERING IN THE OPEN</text>
 <text x="36" y="96" font-size="38" fill="#17211c" font-weight="700" >Contributing upstream.</text>
 <text x="36" y="128" font-size="18" fill="#59685c" font-weight="400" >Accepted changes. Established projects.</text>
-<text x="36" y="157" font-size="13" fill="#59685c" font-weight="400" text-anchor="start">UPDATED 2026-10-28</text>
+<text x="36" y="157" font-size="13" fill="#59685c" font-weight="400" text-anchor="start">UPDATED 2026-10-29</text>
 <rect x="36.0" y="184" width="178.67" height="106" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <text x="54.0" y="233" font-size="42" fill="#427519" font-weight="700" >191</text>
 <text x="54.0" y="264" font-size="14" fill="#59685c" font-weight="400" >Upstream merges</text>
@@ -25,7 +25,7 @@
 <text x="83" y="402" font-size="22" fill="#17211c" font-weight="600" >affaan-m/ECC</text>
 <text x="54" y="438" font-size="16" fill="#59685c" font-weight="400" >fix: resolve OpenCode source imports and installed skills paths</text>
 <text x="54" y="471" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="586" y="471" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 291.7k</text>
+<text x="586" y="471" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 291.8k</text>
 <rect x="36" y="510" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54 534V553M54 543Q67 543 67 531" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="531" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
@@ -43,7 +43,7 @@
 <text x="83" y="690" font-size="22" fill="#17211c" font-weight="600" >BerriAI/litellm</text>
 <text x="54" y="726" font-size="16" fill="#59685c" font-weight="400" >fix(proxy): allow model instances in LiteLLM_EndUserTable…</text>
 <text x="54" y="759" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Python</text>
-<text x="586" y="759" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 62.2k</text>
+<text x="586" y="759" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 62.3k</text>
 <rect x="36" y="798" width="568" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M54 822V841M54 831Q67 831 67 819" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="54" cy="819" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
