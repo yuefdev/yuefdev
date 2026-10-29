@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 292347,
+      "stars": 292566,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120904,
+      "stars": 120814,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62312,
+      "stars": 62322,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46748,
+      "stars": 46749,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24307,
+      "stars": 24308,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22283,
+      "stars": 22282,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21244,
+      "stars": 21246,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20212,
+      "stars": 20211,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16198,
+      "stars": 16200,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13647,
+      "stars": 13651,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11823,
+      "stars": 11824,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10001,
+      "stars": 10004,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5070,
+      "stars": 5071,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -541,7 +541,7 @@
     {
       "name": "huandu/go-sqlbuilder",
       "url": "https://github.com/huandu/go-sqlbuilder",
-      "stars": 1729,
+      "stars": 1730,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -807,7 +807,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 514,
+      "stars": 515,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -849,7 +849,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 138,
+      "stars": 139,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -891,7 +891,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 27,
+      "stars": 28,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -987,6 +987,20 @@
       }
     },
     {
+      "name": "onurbaydas/VirtoMir",
+      "url": "https://github.com/onurbaydas/VirtoMir",
+      "stars": 8,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "onurbaydas/VirtoMir",
+        "number": 8,
+        "title": "test: cover UI formatting boundaries",
+        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
+        "merged_at": "2026-10-17T22:20:08Z"
+      }
+    },
+    {
       "name": "404-PF/New-Tab",
       "url": "https://github.com/404-PF/New-Tab",
       "stars": 7,
@@ -1012,20 +1026,6 @@
         "title": "Add a report of missing template translations",
         "url": "https://github.com/ChristianHandy/FleetPilot/pull/140",
         "merged_at": "2026-10-18T10:16:06Z"
-      }
-    },
-    {
-      "name": "onurbaydas/VirtoMir",
-      "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 7,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "onurbaydas/VirtoMir",
-        "number": 8,
-        "title": "test: cover UI formatting boundaries",
-        "url": "https://github.com/onurbaydas/VirtoMir/pull/8",
-        "merged_at": "2026-10-17T22:20:08Z"
       }
     },
     {
