@@ -25,7 +25,7 @@
 <text x="83.0" y="349" font-size="18" fill="#17211c" font-weight="600" >affaan-m/ECC</text>
 <text x="54.0" y="385" font-size="14" fill="#59685c" font-weight="400" >fix: resolve OpenCode source imports and…</text>
 <text x="54.0" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="383.33" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 293.3k</text>
+<text x="383.33" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 293.4k</text>
 <rect x="417.33" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M435.33 337V356M435.33 346Q448.33 346 448.33 334" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="435.33" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
@@ -34,7 +34,7 @@
 <text x="464.33" y="349" font-size="18" fill="#17211c" font-weight="600" >rust-lang/rust</text>
 <text x="435.33" y="385" font-size="14" fill="#59685c" font-weight="400" >Fix typo in riscv64a23-unknown-linux-gnu…</text>
 <text x="435.33" y="418" font-size="13" fill="#427519" font-weight="400" >1 merged PR · Rust</text>
-<text x="764.66" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 120.8k</text>
+<text x="764.66" y="418" font-size="13" fill="#59685c" font-weight="400" text-anchor="end">★ 120.9k</text>
 <rect x="798.66" y="313" width="365.33" height="128" rx="14" fill="#ffffff" stroke="#d9e0d2"/>
 <path d="M816.66 337V356M816.66 346Q829.66 346 829.66 334" fill="none" stroke="#427519" stroke-width="2"/>
 <circle cx="816.66" cy="334" r="3" fill="#ffffff" stroke="#427519" stroke-width="2"/>
