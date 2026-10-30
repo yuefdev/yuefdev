@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 292707,
+      "stars": 292868,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120814,
+      "stars": 120824,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62328,
+      "stars": 62338,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24310,
+      "stars": 24314,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22282,
+      "stars": 22283,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21246,
+      "stars": 21248,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16200,
+      "stars": 16202,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13656,
+      "stars": 13661,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -457,7 +457,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2646,
+      "stars": 2647,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "gookit/goutil",
       "url": "https://github.com/gookit/goutil",
-      "stars": 2362,
+      "stars": 2363,
       "language": "Go",
       "merged": 15,
       "latest": {
@@ -625,7 +625,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1193,
+      "stars": 1194,
       "language": "Go",
       "merged": 2,
       "latest": {
