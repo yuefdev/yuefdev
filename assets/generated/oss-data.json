@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 293085,
+      "stars": 293284,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120834,
+      "stars": 120847,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62374,
+      "stars": 62397,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46753,
+      "stars": 46758,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24314,
+      "stars": 24313,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24008,
+      "stars": 24011,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -147,6 +147,20 @@
       }
     },
     {
+      "name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "stars": 16206,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "mikefarah/yq",
+        "number": 2862,
+        "title": "fix: remove entries in map_values when the expression returns nothing",
+        "url": "https://github.com/mikefarah/yq/pull/2862",
+        "merged_at": "2026-10-20T22:27:57Z"
+      }
+    },
+    {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
       "stars": 16206,
@@ -158,20 +172,6 @@
         "title": "fix(flex): propagate NaN through max pooling",
         "url": "https://github.com/tracel-ai/burn/pull/5662",
         "merged_at": "2026-09-15T15:33:33Z"
-      }
-    },
-    {
-      "name": "mikefarah/yq",
-      "url": "https://github.com/mikefarah/yq",
-      "stars": 16204,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "mikefarah/yq",
-        "number": 2862,
-        "title": "fix: remove entries in map_values when the expression returns nothing",
-        "url": "https://github.com/mikefarah/yq/pull/2862",
-        "merged_at": "2026-10-20T22:27:57Z"
       }
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13664,
+      "stars": 13666,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7507,
+      "stars": 7509,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -289,7 +289,7 @@
     {
       "name": "dromara/carbon",
       "url": "https://github.com/dromara/carbon",
-      "stars": 5221,
+      "stars": 5222,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "ARM-software/ComputeLibrary",
       "url": "https://github.com/ARM-software/ComputeLibrary",
-      "stars": 3201,
+      "stars": 3202,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3106,
+      "stars": 3107,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -807,7 +807,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 516,
+      "stars": 517,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
