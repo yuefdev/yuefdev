@@ -25,7 +25,7 @@
 <text x="83" y="402" font-size="22" fill="#f2f5f0" font-weight="600" >affaan-m/ECC</text>
 <text x="54" y="438" font-size="16" fill="#a2adba" font-weight="400" >fix: resolve OpenCode source imports and installed skills paths</text>
 <text x="54" y="471" font-size="13" fill="#c5f277" font-weight="400" >1 merged PR · JavaScript</text>
-<text x="586" y="471" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 292.9k</text>
+<text x="586" y="471" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 293.1k</text>
 <rect x="36" y="510" width="568" height="128" rx="14" fill="#151c25" stroke="#2a3542"/>
 <path d="M54 534V553M54 543Q67 543 67 531" fill="none" stroke="#c5f277" stroke-width="2"/>
 <circle cx="54" cy="531" r="3" fill="#151c25" stroke="#c5f277" stroke-width="2"/>
@@ -43,7 +43,7 @@
 <text x="83" y="690" font-size="22" fill="#f2f5f0" font-weight="600" >BerriAI/litellm</text>
 <text x="54" y="726" font-size="16" fill="#a2adba" font-weight="400" >fix(proxy): allow model instances in LiteLLM_EndUserTable…</text>
 <text x="54" y="759" font-size="13" fill="#c5f277" font-weight="400" >1 merged PR · Python</text>
-<text x="586" y="759" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 62.3k</text>
+<text x="586" y="759" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 62.4k</text>
 <rect x="36" y="798" width="568" height="128" rx="14" fill="#151c25" stroke="#2a3542"/>
 <path d="M54 822V841M54 831Q67 831 67 819" fill="none" stroke="#c5f277" stroke-width="2"/>
 <circle cx="54" cy="819" r="3" fill="#151c25" stroke="#c5f277" stroke-width="2"/>
@@ -52,7 +52,7 @@
 <text x="83" y="834" font-size="22" fill="#f2f5f0" font-weight="600" >jgm/pandoc</text>
 <text x="54" y="870" font-size="16" fill="#a2adba" font-weight="400" >TEI writer: use rend, not rendition, on milestone</text>
 <text x="54" y="903" font-size="13" fill="#c5f277" font-weight="400" >1 merged PR · Haskell</text>
-<text x="586" y="903" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 46.7k</text>
+<text x="586" y="903" font-size="13" fill="#a2adba" font-weight="400" text-anchor="end">★ 46.8k</text>
 <rect x="36" y="942" width="568" height="128" rx="14" fill="#151c25" stroke="#2a3542"/>
 <path d="M54 966V985M54 975Q67 975 67 963" fill="none" stroke="#c5f277" stroke-width="2"/>
 <circle cx="54" cy="963" r="3" fill="#151c25" stroke="#c5f277" stroke-width="2"/>

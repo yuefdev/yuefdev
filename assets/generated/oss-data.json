@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 292868,
+      "stars": 293085,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120824,
+      "stars": 120834,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62338,
+      "stars": 62374,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46749,
+      "stars": 46753,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21248,
+      "stars": 21252,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20211,
+      "stars": 20212,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -147,23 +147,9 @@
       }
     },
     {
-      "name": "mikefarah/yq",
-      "url": "https://github.com/mikefarah/yq",
-      "stars": 16203,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "mikefarah/yq",
-        "number": 2862,
-        "title": "fix: remove entries in map_values when the expression returns nothing",
-        "url": "https://github.com/mikefarah/yq/pull/2862",
-        "merged_at": "2026-10-20T22:27:57Z"
-      }
-    },
-    {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16202,
+      "stars": 16206,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -172,6 +158,20 @@
         "title": "fix(flex): propagate NaN through max pooling",
         "url": "https://github.com/tracel-ai/burn/pull/5662",
         "merged_at": "2026-09-15T15:33:33Z"
+      }
+    },
+    {
+      "name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "stars": 16204,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "mikefarah/yq",
+        "number": 2862,
+        "title": "fix: remove entries in map_values when the expression returns nothing",
+        "url": "https://github.com/mikefarah/yq/pull/2862",
+        "merged_at": "2026-10-20T22:27:57Z"
       }
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13661,
+      "stars": 13664,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13385,
+      "stars": 13387,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5071,
+      "stars": 5072,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "ARM-software/ComputeLibrary",
       "url": "https://github.com/ARM-software/ComputeLibrary",
-      "stars": 3200,
+      "stars": 3201,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3105,
+      "stars": 3106,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -401,7 +401,7 @@
     {
       "name": "lepture/mistune",
       "url": "https://github.com/lepture/mistune",
-      "stars": 3080,
+      "stars": 3081,
       "language": "Python",
       "merged": 3,
       "latest": {
@@ -457,7 +457,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2647,
+      "stars": 2645,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "gabriel-vasile/mimetype",
       "url": "https://github.com/gabriel-vasile/mimetype",
-      "stars": 2025,
+      "stars": 2026,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -583,7 +583,7 @@
     {
       "name": "bits-and-blooms/bitset",
       "url": "https://github.com/bits-and-blooms/bitset",
-      "stars": 1514,
+      "stars": 1515,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -891,7 +891,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 28,
+      "stars": 29,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
