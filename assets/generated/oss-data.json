@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 293449,
+      "stars": 293633,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120873,
+      "stars": 120879,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62409,
+      "stars": 62427,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46764,
+      "stars": 46768,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24313,
+      "stars": 24315,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24013,
+      "stars": 24014,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22285,
+      "stars": 22286,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21255,
+      "stars": 21256,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16208,
+      "stars": 16207,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13670,
+      "stars": 13677,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13388,
+      "stars": 13390,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5072,
+      "stars": 5071,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -569,7 +569,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1536,
+      "stars": 1537,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -695,7 +695,7 @@
     {
       "name": "go-faker/faker",
       "url": "https://github.com/go-faker/faker",
-      "stars": 869,
+      "stars": 868,
       "language": "Go",
       "merged": 1,
       "latest": {
