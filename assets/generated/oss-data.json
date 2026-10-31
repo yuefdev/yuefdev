@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 293801,
+      "stars": 293942,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120904,
+      "stars": 120919,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62437,
+      "stars": 62448,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21257,
+      "stars": 21256,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20213,
+      "stars": 20214,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16208,
+      "stars": 16209,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13677,
+      "stars": 13679,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10006,
+      "stars": 10008,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "go-ozzo/ozzo-validation",
       "url": "https://github.com/go-ozzo/ozzo-validation",
-      "stars": 4154,
+      "stars": 4155,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -359,7 +359,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3818,
+      "stars": 3817,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3107,
+      "stars": 3108,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -849,7 +849,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 139,
+      "stars": 138,
       "language": "Rust",
       "merged": 3,
       "latest": {
