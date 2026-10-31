@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 293633,
+      "stars": 293801,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120879,
+      "stars": 120904,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62427,
+      "stars": 62437,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 28999,
+      "stars": 29000,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24315,
+      "stars": 24316,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21256,
+      "stars": 21257,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20212,
+      "stars": 20213,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16207,
+      "stars": 16208,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16206,
+      "stars": 16207,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10004,
+      "stars": 10006,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5071,
+      "stars": 5073,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -807,7 +807,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 517,
+      "stars": 516,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -891,7 +891,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 29,
+      "stars": 30,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -900,6 +900,20 @@
         "title": "test(exec): cover disk cache and error branches",
         "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
         "merged_at": "2026-10-18T07:15:56Z"
+      }
+    },
+    {
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 27,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -914,20 +928,6 @@
         "title": "Test privacy-audit boundaries and failure handling",
         "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
         "merged_at": "2026-10-18T06:57:46Z"
-      }
-    },
-    {
-      "name": "wmentor/go-magnetar",
-      "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 26,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "wmentor/go-magnetar",
-        "number": 150,
-        "title": "fix(help): return markdown through command output",
-        "url": "https://github.com/wmentor/go-magnetar/pull/150",
-        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
