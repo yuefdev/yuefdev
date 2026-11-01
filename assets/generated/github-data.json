@@ -1,16 +1,16 @@
 {
   "username": "yuefdev",
-  "updated": "2026-10-31",
-  "period_start": "2026-05-01",
+  "updated": "2026-11-01",
+  "period_start": "2026-06-01",
   "contribution_source": "https://github.com/yuefdev?tab=overview",
   "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
   "contributions": {
-    "2026-05": 1,
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 4,
     "2026-09": 171,
-    "2026-10": 565
+    "2026-10": 566,
+    "2026-11": 0
   },
   "total_contributions": 741,
   "active_days": 38,
