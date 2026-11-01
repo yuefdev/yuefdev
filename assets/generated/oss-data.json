@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-01",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 211,
-  "upstream_merged": 193,
-  "upstream_repositories": 84,
+  "total_merged": 212,
+  "upstream_merged": 194,
+  "upstream_repositories": 85,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 294642,
+      "stars": 294760,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120954,
+      "stars": 120965,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62496,
+      "stars": 62498,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46778,
+      "stars": 46777,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24319,
+      "stars": 24321,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21261,
+      "stars": 21262,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16207,
+      "stars": 16208,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13390,
+      "stars": 13391,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12354,
+      "stars": 12355,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10010,
+      "stars": 10011,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -508,6 +508,20 @@
         "title": "Avoid panics when parsing nil slice and map pointers",
         "url": "https://github.com/alexflint/go-arg/pull/307",
         "merged_at": "2026-10-19T01:15:59Z"
+      }
+    },
+    {
+      "name": "gocarina/gocsv",
+      "url": "https://github.com/gocarina/gocsv",
+      "stars": 2201,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "gocarina/gocsv",
+        "number": 310,
+        "title": "Validate each record during channel marshalling",
+        "url": "https://github.com/gocarina/gocsv/pull/310",
+        "merged_at": "2026-11-01T20:44:51Z"
       }
     },
     {
@@ -877,7 +891,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 138,
+      "stars": 139,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -1184,6 +1198,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "gocarina/gocsv",
+      "number": 310,
+      "title": "Validate each record during channel marshalling",
+      "url": "https://github.com/gocarina/gocsv/pull/310",
+      "merged_at": "2026-11-01T20:44:51Z"
+    },
     {
       "repository": "paulmach/orb",
       "number": 183,
