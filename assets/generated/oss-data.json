@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-01",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 210,
-  "upstream_merged": 192,
-  "upstream_repositories": 83,
+  "total_merged": 211,
+  "upstream_merged": 193,
+  "upstream_repositories": 84,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 294489,
+      "stars": 294642,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62485,
+      "stars": 62496,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46775,
+      "stars": 46778,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24317,
+      "stars": 24319,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24015,
+      "stars": 24017,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22284,
+      "stars": 22285,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21258,
+      "stars": 21261,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16213,
+      "stars": 16214,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16206,
+      "stars": 16207,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14990,
+      "stars": 14989,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13686,
+      "stars": 13688,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -648,6 +648,20 @@
         "title": "Reject invalid numeric group names",
         "url": "https://github.com/dlclark/regexp2/pull/134",
         "merged_at": "2026-10-19T21:13:29Z"
+      }
+    },
+    {
+      "name": "paulmach/orb",
+      "url": "https://github.com/paulmach/orb",
+      "stars": 1142,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "paulmach/orb",
+        "number": 183,
+        "title": "Handle empty bounds in extension and intersection",
+        "url": "https://github.com/paulmach/orb/pull/183",
+        "merged_at": "2026-11-01T16:04:30Z"
       }
     },
     {
@@ -1170,6 +1184,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "paulmach/orb",
+      "number": 183,
+      "title": "Handle empty bounds in extension and intersection",
+      "url": "https://github.com/paulmach/orb/pull/183",
+      "merged_at": "2026-11-01T16:04:30Z"
+    },
     {
       "repository": "orhun/git-cliff",
       "number": 1642,
