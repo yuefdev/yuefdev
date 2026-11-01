@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 294224,
+      "stars": 294489,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120940,
+      "stars": 120954,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62466,
+      "stars": 62485,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46772,
+      "stars": 46775,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24014,
+      "stars": 24015,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22286,
+      "stars": 22284,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21257,
+      "stars": 21258,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20214,
+      "stars": 20215,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16211,
+      "stars": 16213,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16207,
+      "stars": 16206,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14989,
+      "stars": 14990,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13683,
+      "stars": 13686,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12353,
+      "stars": 12354,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10009,
+      "stars": 10010,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7509,
+      "stars": 7510,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -317,7 +317,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5073,
+      "stars": 5074,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "ARM-software/ComputeLibrary",
       "url": "https://github.com/ARM-software/ComputeLibrary",
-      "stars": 3202,
+      "stars": 3203,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -401,7 +401,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3109,
+      "stars": 3110,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2645,
+      "stars": 2646,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -917,20 +917,6 @@
       }
     },
     {
-      "name": "wmentor/go-magnetar",
-      "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 27,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "wmentor/go-magnetar",
-        "number": 150,
-        "title": "fix(help): return markdown through command output",
-        "url": "https://github.com/wmentor/go-magnetar/pull/150",
-        "merged_at": "2026-10-18T06:27:49Z"
-      }
-    },
-    {
       "name": "MakeItEzzz555/tuck-bit",
       "url": "https://github.com/MakeItEzzz555/tuck-bit",
       "stars": 26,
@@ -942,6 +928,20 @@
         "title": "Test privacy-audit boundaries and failure handling",
         "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
         "merged_at": "2026-10-18T06:57:46Z"
+      }
+    },
+    {
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 26,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
