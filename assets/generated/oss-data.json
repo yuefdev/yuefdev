@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-02",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 212,
-  "upstream_merged": 194,
-  "upstream_repositories": 85,
+  "total_merged": 213,
+  "upstream_merged": 195,
+  "upstream_repositories": 86,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 294869,
+      "stars": 295128,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120969,
+      "stars": 120970,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62505,
+      "stars": 62544,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46778,
+      "stars": 46784,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24321,
+      "stars": 24325,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24017,
+      "stars": 24021,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22285,
+      "stars": 22284,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21263,
+      "stars": 21265,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20215,
+      "stars": 20214,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16208,
+      "stars": 16212,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13689,
+      "stars": 13693,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13392,
+      "stars": 13393,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -289,7 +289,7 @@
     {
       "name": "duke-git/lancet",
       "url": "https://github.com/duke-git/lancet",
-      "stars": 5300,
+      "stars": 5301,
       "language": "Go",
       "merged": 45,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "gocarina/gocsv",
       "url": "https://github.com/gocarina/gocsv",
-      "stars": 2201,
+      "stars": 2202,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -651,6 +651,20 @@
       }
     },
     {
+      "name": "mvdan/xurls",
+      "url": "https://github.com/mvdan/xurls",
+      "stars": 1267,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "mvdan/xurls",
+        "number": 86,
+        "title": "Keep queries and fragments after scheme-less hosts",
+        "url": "https://github.com/mvdan/xurls/pull/86",
+        "merged_at": "2026-11-02T11:31:38Z"
+      }
+    },
+    {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
       "stars": 1194,
@@ -779,7 +793,7 @@
     {
       "name": "python-humanize/humanize",
       "url": "https://github.com/python-humanize/humanize",
-      "stars": 765,
+      "stars": 766,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1198,6 +1212,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "mvdan/xurls",
+      "number": 86,
+      "title": "Keep queries and fragments after scheme-less hosts",
+      "url": "https://github.com/mvdan/xurls/pull/86",
+      "merged_at": "2026-11-02T11:31:38Z"
+    },
     {
       "repository": "gocarina/gocsv",
       "number": 310,
