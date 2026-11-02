@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 295128,
+      "stars": 295556,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 120970,
+      "stars": 120988,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62544,
+      "stars": 62569,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46784,
+      "stars": 46785,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24325,
+      "stars": 24323,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24021,
+      "stars": 24023,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21265,
+      "stars": 21269,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -147,23 +147,9 @@
       }
     },
     {
-      "name": "mikefarah/yq",
-      "url": "https://github.com/mikefarah/yq",
-      "stars": 16215,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "mikefarah/yq",
-        "number": 2862,
-        "title": "fix: remove entries in map_values when the expression returns nothing",
-        "url": "https://github.com/mikefarah/yq/pull/2862",
-        "merged_at": "2026-10-20T22:27:57Z"
-      }
-    },
-    {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16212,
+      "stars": 16217,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -172,6 +158,20 @@
         "title": "fix(flex): propagate NaN through max pooling",
         "url": "https://github.com/tracel-ai/burn/pull/5662",
         "merged_at": "2026-09-15T15:33:33Z"
+      }
+    },
+    {
+      "name": "mikefarah/yq",
+      "url": "https://github.com/mikefarah/yq",
+      "stars": 16216,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "mikefarah/yq",
+        "number": 2862,
+        "title": "fix: remove entries in map_values when the expression returns nothing",
+        "url": "https://github.com/mikefarah/yq/pull/2862",
+        "merged_at": "2026-10-20T22:27:57Z"
       }
     },
     {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13693,
+      "stars": 13701,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13393,
+      "stars": 13394,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -709,7 +709,7 @@
     {
       "name": "twpayne/go-geom",
       "url": "https://github.com/twpayne/go-geom",
-      "stars": 986,
+      "stars": 987,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -959,6 +959,20 @@
       }
     },
     {
+      "name": "wmentor/go-magnetar",
+      "url": "https://github.com/wmentor/go-magnetar",
+      "stars": 27,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wmentor/go-magnetar",
+        "number": 150,
+        "title": "fix(help): return markdown through command output",
+        "url": "https://github.com/wmentor/go-magnetar/pull/150",
+        "merged_at": "2026-10-18T06:27:49Z"
+      }
+    },
+    {
       "name": "MakeItEzzz555/tuck-bit",
       "url": "https://github.com/MakeItEzzz555/tuck-bit",
       "stars": 26,
@@ -970,20 +984,6 @@
         "title": "Test privacy-audit boundaries and failure handling",
         "url": "https://github.com/MakeItEzzz555/tuck-bit/pull/7",
         "merged_at": "2026-10-18T06:57:46Z"
-      }
-    },
-    {
-      "name": "wmentor/go-magnetar",
-      "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 26,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "wmentor/go-magnetar",
-        "number": 150,
-        "title": "fix(help): return markdown through command output",
-        "url": "https://github.com/wmentor/go-magnetar/pull/150",
-        "merged_at": "2026-10-18T06:27:49Z"
       }
     },
     {
@@ -1045,7 +1045,7 @@
     {
       "name": "onurbaydas/VirtoMir",
       "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 8,
+      "stars": 9,
       "language": "Go",
       "merged": 1,
       "latest": {
