@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 295731,
+      "stars": 296065,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121000,
+      "stars": 121010,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62585,
+      "stars": 62620,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46789,
+      "stars": 46792,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24323,
+      "stars": 24326,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21269,
+      "stars": 21271,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20214,
+      "stars": 20215,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16219,
+      "stars": 16221,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13701,
+      "stars": 13703,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13396,
+      "stars": 13399,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12355,
+      "stars": 12354,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10009,
+      "stars": 10011,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7510,
+      "stars": 7511,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -289,7 +289,7 @@
     {
       "name": "duke-git/lancet",
       "url": "https://github.com/duke-git/lancet",
-      "stars": 5301,
+      "stars": 5300,
       "language": "Go",
       "merged": 45,
       "latest": {
@@ -317,7 +317,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5074,
+      "stars": 5075,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3818,
+      "stars": 3816,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2646,
+      "stars": 2645,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -667,7 +667,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1195,
+      "stars": 1196,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -863,7 +863,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 518,
+      "stars": 524,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -877,7 +877,7 @@
     {
       "name": "etemesi254/zune-image",
       "url": "https://github.com/etemesi254/zune-image",
-      "stars": 505,
+      "stars": 504,
       "language": "Rust",
       "merged": 2,
       "latest": {
@@ -1045,7 +1045,7 @@
     {
       "name": "onurbaydas/VirtoMir",
       "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 9,
+      "stars": 10,
       "language": "Go",
       "merged": 1,
       "latest": {
