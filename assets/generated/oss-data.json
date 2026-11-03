@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 296065,
+      "stars": 296374,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121010,
+      "stars": 121015,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62620,
+      "stars": 62636,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46792,
+      "stars": 46791,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24326,
+      "stars": 24325,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16221,
+      "stars": 16228,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16217,
+      "stars": 16222,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13703,
+      "stars": 13702,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13399,
+      "stars": 13400,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12354,
+      "stars": 12355,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10011,
+      "stars": 10012,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5748,
+      "stars": 5747,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "dromara/carbon",
       "url": "https://github.com/dromara/carbon",
-      "stars": 5222,
+      "stars": 5221,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "olekukonko/tablewriter",
       "url": "https://github.com/olekukonko/tablewriter",
-      "stars": 4821,
+      "stars": 4822,
       "language": "Go",
       "merged": 6,
       "latest": {
@@ -359,7 +359,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3978,
+      "stars": 3977,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -401,7 +401,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3111,
+      "stars": 3112,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -835,7 +835,7 @@
     {
       "name": "bmatcuk/doublestar",
       "url": "https://github.com/bmatcuk/doublestar",
-      "stars": 721,
+      "stars": 722,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -863,7 +863,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 524,
+      "stars": 526,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -905,7 +905,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 140,
+      "stars": 141,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -919,7 +919,7 @@
     {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 42,
+      "stars": 43,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -947,7 +947,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 30,
+      "stars": 31,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -1045,7 +1045,7 @@
     {
       "name": "onurbaydas/VirtoMir",
       "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 10,
+      "stars": 12,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1155,20 +1155,6 @@
       }
     },
     {
-      "name": "centuryglass/sd-backend-client",
-      "url": "https://github.com/centuryglass/sd-backend-client",
-      "stars": 1,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "centuryglass/sd-backend-client",
-        "number": 72,
-        "title": "fix: allow model fields on supported Pydantic versions",
-        "url": "https://github.com/centuryglass/sd-backend-client/pull/72",
-        "merged_at": "2026-10-06T17:55:48Z"
-      }
-    },
-    {
       "name": "SamuelNDCE/plume",
       "url": "https://github.com/SamuelNDCE/plume",
       "stars": 1,
@@ -1194,6 +1180,20 @@
         "title": "fix: query diagnostics only for visible documents",
         "url": "https://github.com/Buildingcoolstuff/Codecritter-/pull/32",
         "merged_at": "2026-10-19T06:14:41Z"
+      }
+    },
+    {
+      "name": "centuryglass/sd-backend-client",
+      "url": "https://github.com/centuryglass/sd-backend-client",
+      "stars": 0,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "centuryglass/sd-backend-client",
+        "number": 72,
+        "title": "fix: allow model fields on supported Pydantic versions",
+        "url": "https://github.com/centuryglass/sd-backend-client/pull/72",
+        "merged_at": "2026-10-06T17:55:48Z"
       }
     },
     {
