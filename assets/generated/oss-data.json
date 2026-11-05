@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-05",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 213,
-  "upstream_merged": 195,
-  "upstream_repositories": 86,
+  "total_merged": 214,
+  "upstream_merged": 196,
+  "upstream_repositories": 87,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 297296,
+      "stars": 297529,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121082,
+      "stars": 121091,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62722,
+      "stars": 62754,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46814,
+      "stars": 46821,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24332,
+      "stars": 24331,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24021,
+      "stars": 24023,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21274,
+      "stars": 21277,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16234,
+      "stars": 16236,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16229,
+      "stars": 16230,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13711,
+      "stars": 13712,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12357,
+      "stars": 12358,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -270,6 +270,20 @@
         "title": "fix: reject overflowing division precision",
         "url": "https://github.com/shopspring/decimal/pull/472",
         "merged_at": "2026-10-18T15:29:12Z"
+      }
+    },
+    {
+      "name": "caarlos0/env",
+      "url": "https://github.com/caarlos0/env",
+      "stars": 6356,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "caarlos0/env",
+        "number": 452,
+        "title": "fix: preserve initial values in pointer-to-struct slices",
+        "url": "https://github.com/caarlos0/env/pull/452",
+        "merged_at": "2026-11-05T04:35:19Z"
       }
     },
     {
@@ -415,7 +429,7 @@
     {
       "name": "lepture/mistune",
       "url": "https://github.com/lepture/mistune",
-      "stars": 3082,
+      "stars": 3083,
       "language": "Python",
       "merged": 3,
       "latest": {
@@ -457,7 +471,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2784,
+      "stars": 2785,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -471,7 +485,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2647,
+      "stars": 2648,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -513,7 +527,7 @@
     {
       "name": "gocarina/gocsv",
       "url": "https://github.com/gocarina/gocsv",
-      "stars": 2203,
+      "stars": 2204,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1129,7 +1143,7 @@
     {
       "name": "nikhilxsunder/cultivars",
       "url": "https://github.com/nikhilxsunder/cultivars",
-      "stars": 2,
+      "stars": 3,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1212,6 +1226,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "caarlos0/env",
+      "number": 452,
+      "title": "fix: preserve initial values in pointer-to-struct slices",
+      "url": "https://github.com/caarlos0/env/pull/452",
+      "merged_at": "2026-11-05T04:35:19Z"
+    },
     {
       "repository": "mvdan/xurls",
       "number": 86,
