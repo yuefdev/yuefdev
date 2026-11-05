@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 297529,
+      "stars": 297742,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121091,
+      "stars": 121122,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62754,
+      "stars": 62778,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46821,
+      "stars": 46826,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29004,
+      "stars": 29003,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24331,
+      "stars": 24333,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24023,
+      "stars": 24025,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22288,
+      "stars": 22287,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16236,
+      "stars": 16239,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16230,
+      "stars": 16228,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14993,
+      "stars": 14992,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13400,
+      "stars": 13401,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12358,
+      "stars": 12379,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10010,
+      "stars": 10011,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6356,
+      "stars": 6357,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3976,
+      "stars": 3977,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3113,
+      "stars": 3112,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2648,
+      "stars": 2649,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -877,7 +877,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 532,
+      "stars": 533,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -945,6 +945,20 @@
       }
     },
     {
+      "name": "wassim-azi/agy-powerline",
+      "url": "https://github.com/wassim-azi/agy-powerline",
+      "stars": 32,
+      "language": "JavaScript",
+      "merged": 3,
+      "latest": {
+        "repository": "wassim-azi/agy-powerline",
+        "number": 79,
+        "title": "test(exec): cover disk cache and error branches",
+        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
+        "merged_at": "2026-10-18T07:15:56Z"
+      }
+    },
+    {
       "name": "gianfrancodemarco/resume-builder",
       "url": "https://github.com/gianfrancodemarco/resume-builder",
       "stars": 31,
@@ -956,20 +970,6 @@
         "title": "fix: remember preview zoom and Fit mode",
         "url": "https://github.com/gianfrancodemarco/resume-builder/pull/100",
         "merged_at": "2026-10-20T17:04:53Z"
-      }
-    },
-    {
-      "name": "wassim-azi/agy-powerline",
-      "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 31,
-      "language": "JavaScript",
-      "merged": 3,
-      "latest": {
-        "repository": "wassim-azi/agy-powerline",
-        "number": 79,
-        "title": "test(exec): cover disk cache and error branches",
-        "url": "https://github.com/wassim-azi/agy-powerline/pull/79",
-        "merged_at": "2026-10-18T07:15:56Z"
       }
     },
     {
