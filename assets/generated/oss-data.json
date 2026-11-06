@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 298031,
+      "stars": 298322,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121143,
+      "stars": 121253,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62809,
+      "stars": 62835,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46833,
+      "stars": 46835,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29003,
+      "stars": 29002,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24336,
+      "stars": 24338,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24029,
+      "stars": 24031,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22289,
+      "stars": 22288,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21278,
+      "stars": 21280,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16241,
+      "stars": 16245,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16229,
+      "stars": 16230,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13717,
+      "stars": 13719,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13402,
+      "stars": 13404,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12387,
+      "stars": 12408,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10010,
+      "stars": 10011,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7512,
+      "stars": 7511,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -289,7 +289,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5747,
+      "stars": 5745,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -345,7 +345,7 @@
     {
       "name": "olekukonko/tablewriter",
       "url": "https://github.com/olekukonko/tablewriter",
-      "stars": 4822,
+      "stars": 4823,
       "language": "Go",
       "merged": 6,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2785,
+      "stars": 2784,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -765,7 +765,7 @@
     {
       "name": "go-faker/faker",
       "url": "https://github.com/go-faker/faker",
-      "stars": 868,
+      "stars": 869,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -779,7 +779,7 @@
     {
       "name": "go-test/deep",
       "url": "https://github.com/go-test/deep",
-      "stars": 788,
+      "stars": 789,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1029,6 +1029,20 @@
       }
     },
     {
+      "name": "aws-samples/sample-aws-genai-db-modernizer",
+      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
+      "stars": 14,
+      "language": "Python",
+      "merged": 1,
+      "latest": {
+        "repository": "aws-samples/sample-aws-genai-db-modernizer",
+        "number": 392,
+        "title": "fix(schema-design): reject Aurora split requests",
+        "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
+        "merged_at": "2026-10-07T13:30:46Z"
+      }
+    },
+    {
       "name": "abduznik/bitbox",
       "url": "https://github.com/abduznik/bitbox",
       "stars": 13,
@@ -1040,20 +1054,6 @@
         "title": "[tool] rotate_string",
         "url": "https://github.com/abduznik/bitbox/pull/556",
         "merged_at": "2026-10-08T05:37:32Z"
-      }
-    },
-    {
-      "name": "aws-samples/sample-aws-genai-db-modernizer",
-      "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
-      "stars": 13,
-      "language": "Python",
-      "merged": 1,
-      "latest": {
-        "repository": "aws-samples/sample-aws-genai-db-modernizer",
-        "number": 392,
-        "title": "fix(schema-design): reject Aurora split requests",
-        "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
-        "merged_at": "2026-10-07T13:30:46Z"
       }
     },
     {
