@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-11-07
 
-**196 merged PRs across 87 external projects**, out of **214 total public merged PRs** including my own repositories.
+**197 merged PRs across 87 external projects**, out of **215 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 299,063 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 121,592 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,874 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
-| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,848 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 299,155 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 121,604 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62,881 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [jgm/pandoc](https://github.com/jgm/pandoc) | 46,849 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
 | [immerjs/immer](https://github.com/immerjs/immer) | 29,004 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
 | [uutils/coreutils](https://github.com/uutils/coreutils) | 24,343 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 
+- **2026-11-07** · [go-resty/resty #1255](https://github.com/go-resty/resty/pull/1255) — feat(enhancement):Ignore SSE retry fields containing non-ASCII digits
 - **2026-11-05** · [caarlos0/env #452](https://github.com/caarlos0/env/pull/452) — fix: preserve initial values in pointer-to-struct slices
 - **2026-11-02** · [mvdan/xurls #86](https://github.com/mvdan/xurls/pull/86) — Keep queries and fragments after scheme-less hosts
 - **2026-11-01** · [gocarina/gocsv #310](https://github.com/gocarina/gocsv/pull/310) — Validate each record during channel marshalling
 - **2026-11-01** · [paulmach/orb #183](https://github.com/paulmach/orb/pull/183) — Handle empty bounds in extension and intersection
-- **2026-10-31** · [orhun/git-cliff #1642](https://github.com/orhun/git-cliff/pull/1642) — feat(parser): support abbreviated SHAs in commit parsers
 <!-- OSS:END -->
 
 ## Automatic updates and verification

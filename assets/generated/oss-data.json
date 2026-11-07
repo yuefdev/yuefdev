@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-07",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 214,
-  "upstream_merged": 196,
+  "total_merged": 215,
+  "upstream_merged": 197,
   "upstream_repositories": 87,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 299063,
+      "stars": 299155,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121592,
+      "stars": 121604,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62874,
+      "stars": 62881,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46848,
+      "stars": 46849,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21282,
+      "stars": 21283,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16236,
+      "stars": 16237,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13740,
+      "stars": 13741,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -235,13 +235,13 @@
       "url": "https://github.com/go-resty/resty",
       "stars": 11827,
       "language": "Go",
-      "merged": 1,
+      "merged": 2,
       "latest": {
         "repository": "go-resty/resty",
-        "number": 1240,
-        "title": "docs: clarify that trace timings cover one attempt",
-        "url": "https://github.com/go-resty/resty/pull/1240",
-        "merged_at": "2026-10-11T02:31:04Z"
+        "number": 1255,
+        "title": "feat(enhancement):Ignore SSE retry fields containing non-ASCII digits",
+        "url": "https://github.com/go-resty/resty/pull/1255",
+        "merged_at": "2026-11-07T22:43:40Z"
       }
     },
     {
@@ -611,7 +611,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1538,
+      "stars": 1539,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -1226,6 +1226,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "go-resty/resty",
+      "number": 1255,
+      "title": "feat(enhancement):Ignore SSE retry fields containing non-ASCII digits",
+      "url": "https://github.com/go-resty/resty/pull/1255",
+      "merged_at": "2026-11-07T22:43:40Z"
+    },
     {
       "repository": "caarlos0/env",
       "number": 452,
