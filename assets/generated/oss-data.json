@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 214,
   "upstream_merged": 196,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 298501,
+      "stars": 298597,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121361,
+      "stars": 121454,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62844,
+      "stars": 62846,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46840,
+      "stars": 46842,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29002,
+      "stars": 29003,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24338,
+      "stars": 24340,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24030,
+      "stars": 24031,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21279,
+      "stars": 21281,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20218,
+      "stars": 20219,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16246,
+      "stars": 16248,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13722,
+      "stars": 13725,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13404,
+      "stars": 13405,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12441,
+      "stars": 12487,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10011,
+      "stars": 10012,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3976,
+      "stars": 3977,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3816,
+      "stars": 3817,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2290,
+      "stars": 2289,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -709,7 +709,7 @@
     {
       "name": "tox-dev/platformdirs",
       "url": "https://github.com/tox-dev/platformdirs",
-      "stars": 1000,
+      "stars": 1001,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -947,7 +947,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 32,
+      "stars": 33,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
