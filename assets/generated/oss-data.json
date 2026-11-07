@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 298737,
+      "stars": 298937,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121542,
+      "stars": 121583,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62852,
+      "stars": 62868,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46844,
+      "stars": 46847,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24343,
+      "stars": 24342,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22288,
+      "stars": 22289,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21280,
+      "stars": 21282,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16249,
+      "stars": 16250,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16233,
+      "stars": 16236,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13731,
+      "stars": 13737,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12491,
+      "stars": 12501,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11825,
+      "stars": 11826,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7510,
+      "stars": 7511,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3111,
+      "stars": 3112,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -681,7 +681,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1196,
+      "stars": 1197,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -793,7 +793,7 @@
     {
       "name": "antchfx/htmlquery",
       "url": "https://github.com/antchfx/htmlquery",
-      "stars": 783,
+      "stars": 782,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -877,7 +877,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 537,
+      "stars": 538,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1015,20 +1015,6 @@
       }
     },
     {
-      "name": "LeagueToolkit/league-toolkit",
-      "url": "https://github.com/LeagueToolkit/league-toolkit",
-      "stars": 15,
-      "language": "Rust",
-      "merged": 1,
-      "latest": {
-        "repository": "LeagueToolkit/league-toolkit",
-        "number": 236,
-        "title": "fix(ltk_anim): error on malformed input",
-        "url": "https://github.com/LeagueToolkit/league-toolkit/pull/236",
-        "merged_at": "2026-09-13T22:46:46Z"
-      }
-    },
-    {
       "name": "aws-samples/sample-aws-genai-db-modernizer",
       "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer",
       "stars": 14,
@@ -1040,6 +1026,20 @@
         "title": "fix(schema-design): reject Aurora split requests",
         "url": "https://github.com/aws-samples/sample-aws-genai-db-modernizer/pull/392",
         "merged_at": "2026-10-07T13:30:46Z"
+      }
+    },
+    {
+      "name": "LeagueToolkit/league-toolkit",
+      "url": "https://github.com/LeagueToolkit/league-toolkit",
+      "stars": 14,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "LeagueToolkit/league-toolkit",
+        "number": 236,
+        "title": "fix(ltk_anim): error on malformed input",
+        "url": "https://github.com/LeagueToolkit/league-toolkit/pull/236",
+        "merged_at": "2026-09-13T22:46:46Z"
       }
     },
     {
