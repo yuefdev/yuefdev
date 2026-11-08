@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 299534,
+      "stars": 299652,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121626,
+      "stars": 121642,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62910,
+      "stars": 62916,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46857,
+      "stars": 46858,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29003,
+      "stars": 29004,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24342,
+      "stars": 24343,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16254,
+      "stars": 16256,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16242,
+      "stars": 16244,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13750,
+      "stars": 13753,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13408,
+      "stars": 13409,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10013,
+      "stars": 10014,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6357,
+      "stars": 6358,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2653,
+      "stars": 2656,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -709,7 +709,7 @@
     {
       "name": "tox-dev/platformdirs",
       "url": "https://github.com/tox-dev/platformdirs",
-      "stars": 1001,
+      "stars": 1002,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1115,7 +1115,7 @@
     {
       "name": "syncronix-labs/aegora",
       "url": "https://github.com/syncronix-labs/aegora",
-      "stars": 4,
+      "stars": 5,
       "language": "Go",
       "merged": 1,
       "latest": {
