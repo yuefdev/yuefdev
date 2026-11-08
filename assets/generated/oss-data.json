@@ -1,15 +1,15 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 215,
-  "upstream_merged": 197,
+  "total_merged": 218,
+  "upstream_merged": 199,
   "upstream_repositories": 87,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 299155,
+      "stars": 299221,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121604,
+      "stars": 121603,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62881,
+      "stars": 62883,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46849,
+      "stars": 46851,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24030,
+      "stars": 24029,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21283,
+      "stars": 21284,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20219,
+      "stars": 20220,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16250,
+      "stars": 16251,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16237,
+      "stars": 16239,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12504,
+      "stars": 12505,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -235,13 +235,13 @@
       "url": "https://github.com/go-resty/resty",
       "stars": 11827,
       "language": "Go",
-      "merged": 2,
+      "merged": 4,
       "latest": {
         "repository": "go-resty/resty",
-        "number": 1255,
-        "title": "feat(enhancement):Ignore SSE retry fields containing non-ASCII digits",
-        "url": "https://github.com/go-resty/resty/pull/1255",
-        "merged_at": "2026-11-07T22:43:40Z"
+        "number": 1257,
+        "title": "fix(sse): ignore a leading UTF-8 byte order mark",
+        "url": "https://github.com/go-resty/resty/pull/1257",
+        "merged_at": "2026-11-07T23:23:42Z"
       }
     },
     {
@@ -261,7 +261,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7512,
+      "stars": 7513,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3112,
+      "stars": 3113,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2651,
+      "stars": 2652,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "alexflint/go-arg",
       "url": "https://github.com/alexflint/go-arg",
-      "stars": 2289,
+      "stars": 2291,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -877,7 +877,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 538,
+      "stars": 539,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1226,6 +1226,27 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "yuefdev/minecraft-ai-translator",
+      "number": 2,
+      "title": "Claude/fabric support",
+      "url": "https://github.com/yuefdev/minecraft-ai-translator/pull/2",
+      "merged_at": "2026-11-08T02:07:34Z"
+    },
+    {
+      "repository": "go-resty/resty",
+      "number": 1257,
+      "title": "fix(sse): ignore a leading UTF-8 byte order mark",
+      "url": "https://github.com/go-resty/resty/pull/1257",
+      "merged_at": "2026-11-07T23:23:42Z"
+    },
+    {
+      "repository": "go-resty/resty",
+      "number": 1256,
+      "title": "feat(enhancement): Add quoted and backslash support in Digest authentication values",
+      "url": "https://github.com/go-resty/resty/pull/1256",
+      "merged_at": "2026-11-07T23:20:14Z"
+    },
     {
       "repository": "go-resty/resty",
       "number": 1255,
