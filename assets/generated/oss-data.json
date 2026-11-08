@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 299381,
+      "stars": 299534,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 121614,
+      "stars": 121626,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 62896,
+      "stars": 62910,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46853,
+      "stars": 46857,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29004,
+      "stars": 29003,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24343,
+      "stars": 24342,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21285,
+      "stars": 21287,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20220,
+      "stars": 20222,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16253,
+      "stars": 16254,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16241,
+      "stars": 16242,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13747,
+      "stars": 13750,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13406,
+      "stars": 13408,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12507,
+      "stars": 12508,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "go-resty/resty",
       "url": "https://github.com/go-resty/resty",
-      "stars": 11828,
+      "stars": 11829,
       "language": "Go",
       "merged": 4,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "duke-git/lancet",
       "url": "https://github.com/duke-git/lancet",
-      "stars": 5300,
+      "stars": 5301,
       "language": "Go",
       "merged": 45,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3817,
+      "stars": 3818,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -443,7 +443,7 @@
     {
       "name": "montanaflynn/stats",
       "url": "https://github.com/montanaflynn/stats",
-      "stars": 3031,
+      "stars": 3030,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2652,
+      "stars": 2653,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -611,7 +611,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1539,
+      "stars": 1540,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -681,7 +681,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1197,
+      "stars": 1198,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -1157,7 +1157,7 @@
     {
       "name": "arminazimi/seaworthy",
       "url": "https://github.com/arminazimi/seaworthy",
-      "stars": 1,
+      "stars": 2,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
