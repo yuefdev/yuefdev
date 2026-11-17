@@ -3,7 +3,7 @@
 <!-- OSS:START -->
 ## Accepted upstream · 2026-11-17
 
-**202 merged PRs across 90 external projects**, out of **221 total public merged PRs** including my own repositories.
+**203 merged PRs across 91 external projects**, out of **222 total public merged PRs** including my own repositories.
 
 ## Featured accepted contributions
 
@@ -11,20 +11,20 @@ Projects are ordered by GitHub stars. Each link below is an actual merged PR; st
 
 | Project | Stars | Merged PRs | Latest accepted change |
 | --- | ---: | ---: | --- |
-| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 304,696 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
-| [rust-lang/rust](https://github.com/rust-lang/rust) | 122,084 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,366 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | 304,936 | 1 | [fix: resolve OpenCode source imports and installed skills paths (#3115)](https://github.com/affaan-m/ECC/pull/3115) |
+| [rust-lang/rust](https://github.com/rust-lang/rust) | 122,144 | 1 | [Fix typo in riscv64a23-unknown-linux-gnu platform docs (#162722)](https://github.com/rust-lang/rust/pull/162722) |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 63,401 | 1 | [fix(proxy): allow model instances in LiteLLM_EndUserTable validation (#41677)](https://github.com/BerriAI/litellm/pull/41677) |
 | [jgm/pandoc](https://github.com/jgm/pandoc) | 46,953 | 1 | [TEI writer: use rend, not rendition, on milestone (#11873)](https://github.com/jgm/pandoc/pull/11873) |
-| [immerjs/immer](https://github.com/immerjs/immer) | 29,003 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
-| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,376 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
+| [immerjs/immer](https://github.com/immerjs/immer) | 29,002 | 1 | [fix: snapshot the iteration range of optimised array searches (#1334)](https://github.com/immerjs/immer/pull/1334) |
+| [uutils/coreutils](https://github.com/uutils/coreutils) | 24,377 | 1 | [csplit: always create the final split, even when empty (#14565)](https://github.com/uutils/coreutils/pull/14565) |
 
 ## Latest upstream merges
 
+- **2026-11-17** · [mattn/go-runewidth #120](https://github.com/mattn/go-runewidth/pull/120) — Avoid padding overflow for negative widths
 - **2026-11-12** · [cloudwego/sonic-rs #244](https://github.com/cloudwego/sonic-rs/pull/244) — fix(lazy): clear the key buffer before a nested get_many lookup
 - **2026-11-11** · [go-ini/ini #417](https://github.com/go-ini/ini/pull/417) — parser: mark empty unparseable sections as raw
 - **2026-11-09** · [gophertools/requests #141](https://github.com/gophertools/requests/pull/141) — Preserve escaped slashes in the base path
 - **2026-11-09** · [joke2k/faker #2484](https://github.com/joke2k/faker/pull/2484) — Fix non-positive precision in time_series
-- **2026-11-07** · [go-resty/resty #1257](https://github.com/go-resty/resty/pull/1257) — fix(sse): ignore a leading UTF-8 byte order mark
 <!-- OSS:END -->
 
 ## Automatic updates and verification
