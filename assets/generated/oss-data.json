@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 305983,
+      "stars": 306353,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122221,
+      "stars": 122220,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63474,
+      "stars": 63494,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46959,
+      "stars": 46965,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24383,
+      "stars": 24386,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22291,
+      "stars": 22293,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21347,
+      "stars": 21349,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16308,
+      "stars": 16311,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16301,
+      "stars": 16300,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13846,
+      "stars": 13849,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -261,7 +261,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10029,
+      "stars": 10030,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "PyGithub/PyGithub",
       "url": "https://github.com/PyGithub/PyGithub",
-      "stars": 7817,
+      "stars": 7818,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "go-ozzo/ozzo-validation",
       "url": "https://github.com/go-ozzo/ozzo-validation",
-      "stars": 4160,
+      "stars": 4161,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2786,
+      "stars": 2787,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -807,7 +807,7 @@
     {
       "name": "cloudwego/sonic-rs",
       "url": "https://github.com/cloudwego/sonic-rs",
-      "stars": 944,
+      "stars": 943,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -1003,7 +1003,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 153,
+      "stars": 155,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -1031,7 +1031,7 @@
     {
       "name": "prakhar1605/Opencollab-mcp",
       "url": "https://github.com/prakhar1605/Opencollab-mcp",
-      "stars": 46,
+      "stars": 47,
       "language": "Python",
       "merged": 1,
       "latest": {
