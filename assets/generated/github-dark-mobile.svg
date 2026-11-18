@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="990" viewBox="0 0 640 990" role="img" aria-labelledby="title desc">
 <title id="title">GitHub, in context.</title>
-<desc id="desc">Public calendar contributions from 2026-06-01 to 2026-11-09: 754. Code composition by GitHub language bytes: {&quot;TypeScript&quot;: 2224253, &quot;Rust&quot;: 1001424, &quot;Java&quot;: 994161, &quot;Svelte&quot;: 869795, &quot;HTML&quot;: 676579, &quot;C#&quot;: 632327, &quot;CSS&quot;: 396245, &quot;Python&quot;: 202263, &quot;JavaScript&quot;: 196961, &quot;SCSS&quot;: 58566, &quot;PowerShell&quot;: 34388, &quot;C&quot;: 24101, &quot;C++&quot;: 23911, &quot;Kotlin&quot;: 3408, &quot;Ruby&quot;: 1431, &quot;Swift&quot;: 1234, &quot;Go&quot;: 611, &quot;Dockerfile&quot;: 179}. Current month is partial. Language bytes are not proficiency.</desc>
+<desc id="desc">Public calendar contributions from 2026-06-01 to 2026-11-18: 766. Code composition by GitHub language bytes: {&quot;TypeScript&quot;: 2456165, &quot;Rust&quot;: 1780828, &quot;Java&quot;: 994161, &quot;Svelte&quot;: 869795, &quot;HTML&quot;: 805388, &quot;C#&quot;: 632327, &quot;CSS&quot;: 401522, &quot;JavaScript&quot;: 267194, &quot;Python&quot;: 202263, &quot;SCSS&quot;: 58566, &quot;PowerShell&quot;: 34388, &quot;C&quot;: 24101, &quot;C++&quot;: 23911, &quot;Kotlin&quot;: 3408, &quot;Ruby&quot;: 1431, &quot;Swift&quot;: 1234, &quot;Go&quot;: 611, &quot;Batchfile&quot;: 444, &quot;Dockerfile&quot;: 179}. Current month is partial. Language bytes are not proficiency.</desc>
 <rect width="640" height="990" rx="24" fill="#10151c"/>
 <g font-family="Segoe UI, Arial, sans-serif">
 <text x="36" y="49" font-size="14" fill="#c5f277" font-weight="700" letter-spacing="1.6">ACTIVITY / CODE COMPOSITION</text>
 <text x="36" y="96" font-size="34" fill="#f2f5f0" font-weight="700" >GitHub, in context.</text>
-<text x="36" y="124" font-size="14" fill="#a2adba" font-weight="400" >UPDATED 2026-11-09</text>
+<text x="36" y="124" font-size="14" fill="#a2adba" font-weight="400" >UPDATED 2026-11-18</text>
 <text x="36" y="170" font-size="21" fill="#f2f5f0" font-weight="600" >Visible contributions</text>
-<text x="36" y="201" font-size="16" fill="#a2adba" font-weight="400" >754 contributions  /  41 active days</text>
+<text x="36" y="201" font-size="16" fill="#a2adba" font-weight="400" >766 contributions  /  46 active days</text>
 <path d="M69 372H604" stroke="#2a3542"/>
 <text x="59" y="377" font-size="12" fill="#a2adba" font-weight="400" text-anchor="end">0</text>
 <path d="M69 311H604" stroke="#2a3542"/>
@@ -23,42 +23,42 @@
 <rect x="254.67" y="370.00" width="64.33" height="2.00" rx="5" fill="#c5f277" opacity="1"><title>2026-08: 4 contributions</title></rect>
 <text x="286.83" y="360" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">4</text>
 <text x="286.83" y="398" font-size="14" fill="#a2adba" font-weight="400" text-anchor="middle">Aug</text>
-<rect x="341.00" y="335.40" width="64.33" height="36.60" rx="5" fill="#c5f277" opacity="1"><title>2026-09: 171 contributions</title></rect>
-<text x="373.17" y="325.4" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">171</text>
+<rect x="341.00" y="335.19" width="64.33" height="36.81" rx="5" fill="#c5f277" opacity="1"><title>2026-09: 172 contributions</title></rect>
+<text x="373.17" y="325.19" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">172</text>
 <text x="373.17" y="398" font-size="14" fill="#a2adba" font-weight="400" text-anchor="middle">Sep</text>
-<rect x="427.33" y="250.43" width="64.33" height="121.57" rx="5" fill="#c5f277" opacity="1"><title>2026-10: 568 contributions</title></rect>
-<text x="459.5" y="240.43" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">568</text>
+<rect x="427.33" y="251.28" width="64.33" height="120.72" rx="5" fill="#c5f277" opacity="1"><title>2026-10: 564 contributions</title></rect>
+<text x="459.5" y="241.28" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">564</text>
 <text x="459.5" y="398" font-size="14" fill="#a2adba" font-weight="400" text-anchor="middle">Oct</text>
-<rect x="513.67" y="369.65" width="64.33" height="2.35" rx="5" fill="#c5f277" opacity="0.5"><title>2026-11: 11 contributions</title></rect>
-<text x="545.83" y="359.65" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">11</text>
+<rect x="513.67" y="366.44" width="64.33" height="5.56" rx="5" fill="#c5f277" opacity="0.5"><title>2026-11: 26 contributions</title></rect>
+<text x="545.83" y="356.44" font-size="14" fill="#f2f5f0" font-weight="600" text-anchor="middle">26</text>
 <text x="545.83" y="398" font-size="14" fill="#a2adba" font-weight="400" text-anchor="middle">Nov*</text>
 <text x="36" y="429" font-size="14" fill="#a2adba" font-weight="400" >Public calendar  ·  *Current month so far</text>
 <path d="M36 500H604" stroke="#2a3542"/>
 <text x="36" y="543" font-size="21" fill="#f2f5f0" font-weight="600" >Languages in my public repositories</text>
-<text x="36" y="574" font-size="16" fill="#a2adba" font-weight="400" >15 repositories  /  forks excluded</text>
-<rect x="36.000" y="596" width="172.079" height="17" fill="#a5d95f"><title>TypeScript: 2,224,253 bytes</title></rect>
-<rect x="208.079" y="596" width="77.475" height="17" fill="#73b9ef"><title>Rust: 1,001,424 bytes</title></rect>
-<rect x="285.554" y="596" width="76.913" height="17" fill="#bd9ae8"><title>Java: 994,161 bytes</title></rect>
-<rect x="362.467" y="596" width="67.292" height="17" fill="#e6ad6b"><title>Svelte: 869,795 bytes</title></rect>
-<rect x="429.759" y="596" width="52.343" height="17" fill="#e77f90"><title>HTML: 676,579 bytes</title></rect>
-<rect x="482.102" y="596" width="121.898" height="17" fill="#8d9daf"><title>Other: 1,575,625 bytes</title></rect>
+<text x="36" y="574" font-size="16" fill="#a2adba" font-weight="400" >18 repositories  /  forks excluded</text>
+<rect x="36.000" y="596" width="163.019" height="17" fill="#a5d95f"><title>TypeScript: 2,456,165 bytes</title></rect>
+<rect x="199.019" y="596" width="118.196" height="17" fill="#73b9ef"><title>Rust: 1,780,828 bytes</title></rect>
+<rect x="317.215" y="596" width="65.984" height="17" fill="#bd9ae8"><title>Java: 994,161 bytes</title></rect>
+<rect x="383.198" y="596" width="57.729" height="17" fill="#e6ad6b"><title>Svelte: 869,795 bytes</title></rect>
+<rect x="440.928" y="596" width="53.455" height="17" fill="#e77f90"><title>HTML: 805,388 bytes</title></rect>
+<rect x="494.383" y="596" width="109.617" height="17" fill="#8d9daf"><title>Other: 1,651,579 bytes</title></rect>
 <circle cx="41" cy="645" r="5" fill="#a5d95f"/>
 <text x="58" y="650" font-size="17" fill="#f2f5f0" font-weight="400" >TypeScript</text>
-<text x="604" y="650" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">30.3%</text>
+<text x="604" y="650" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">28.7%</text>
 <circle cx="41" cy="686" r="5" fill="#73b9ef"/>
 <text x="58" y="691" font-size="17" fill="#f2f5f0" font-weight="400" >Rust</text>
-<text x="604" y="691" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">13.6%</text>
+<text x="604" y="691" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">20.8%</text>
 <circle cx="41" cy="727" r="5" fill="#bd9ae8"/>
 <text x="58" y="732" font-size="17" fill="#f2f5f0" font-weight="400" >Java</text>
-<text x="604" y="732" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">13.5%</text>
+<text x="604" y="732" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">11.6%</text>
 <circle cx="41" cy="768" r="5" fill="#e6ad6b"/>
 <text x="58" y="773" font-size="17" fill="#f2f5f0" font-weight="400" >Svelte</text>
-<text x="604" y="773" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">11.8%</text>
+<text x="604" y="773" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">10.2%</text>
 <circle cx="41" cy="809" r="5" fill="#e77f90"/>
 <text x="58" y="814" font-size="17" fill="#f2f5f0" font-weight="400" >HTML</text>
-<text x="604" y="814" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">9.2%</text>
+<text x="604" y="814" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">9.4%</text>
 <circle cx="41" cy="850" r="5" fill="#8d9daf"/>
 <text x="58" y="855" font-size="17" fill="#f2f5f0" font-weight="400" >Other</text>
-<text x="604" y="855" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">21.5%</text>
+<text x="604" y="855" font-size="17" fill="#a2adba" font-weight="400" text-anchor="end">19.3%</text>
 <text x="36" y="925" font-size="14" fill="#a2adba" font-weight="400" >Share of code bytes · not a proficiency score</text>
 </g></svg>

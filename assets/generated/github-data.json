@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-09",
+  "updated": "2026-11-18",
   "period_start": "2026-06-01",
   "contribution_source": "https://github.com/yuefdev?tab=overview",
   "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
@@ -8,19 +8,21 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 4,
-    "2026-09": 171,
-    "2026-10": 568,
-    "2026-11": 11
+    "2026-09": 172,
+    "2026-10": 564,
+    "2026-11": 26
   },
-  "total_contributions": 754,
-  "active_days": 41,
+  "total_contributions": 766,
+  "active_days": 46,
   "language_scope": "GitHub language bytes across owned public, non-fork repositories with detected languages. Includes vendored or generated code counted by GitHub. Not a proficiency score.",
   "language_repositories": [
+    "yuefdev/agent-lcd",
     "yuefdev/DerdiniSeveyim",
     "yuefdev/discord-guard",
     "yuefdev/ezanvakti-legal",
     "yuefdev/go-geom-length-example",
     "yuefdev/HarborRestaurant",
+    "yuefdev/lol-hextech-roulette",
     "yuefdev/minecraft-ai-translator",
     "yuefdev/mix-flip-ruyi-rom-research",
     "yuefdev/opencode-muse-multi-auth",
@@ -30,18 +32,19 @@
     "yuefdev/statpcapp",
     "yuefdev/tidecut",
     "yuefdev/tr-slugify",
-    "yuefdev/unlostfpsarttirma"
+    "yuefdev/unlostfpsarttirma",
+    "yuefdev/yuefdev.github.io"
   ],
   "language_bytes": {
-    "TypeScript": 2224253,
-    "Rust": 1001424,
+    "TypeScript": 2456165,
+    "Rust": 1780828,
     "Java": 994161,
     "Svelte": 869795,
-    "HTML": 676579,
+    "HTML": 805388,
     "C#": 632327,
-    "CSS": 396245,
+    "CSS": 401522,
+    "JavaScript": 267194,
     "Python": 202263,
-    "JavaScript": 196961,
     "SCSS": 58566,
     "PowerShell": 34388,
     "C": 24101,
@@ -50,6 +53,7 @@
     "Ruby": 1431,
     "Swift": 1234,
     "Go": 611,
+    "Batchfile": 444,
     "Dockerfile": 179
   }
 }
