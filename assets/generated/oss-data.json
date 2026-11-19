@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 223,
   "upstream_merged": 204,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 306353,
+      "stars": 306531,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122220,
+      "stars": 122168,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63494,
+      "stars": 63505,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 46965,
+      "stars": 46966,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24386,
+      "stars": 24388,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24063,
+      "stars": 24062,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21349,
+      "stars": 21350,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20239,
+      "stars": 20240,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19496,
+      "stars": 19497,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16300,
+      "stars": 16303,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13849,
+      "stars": 13852,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13426,
+      "stars": 13427,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12431,
+      "stars": 12432,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "PyGithub/PyGithub",
       "url": "https://github.com/PyGithub/PyGithub",
-      "stars": 7818,
+      "stars": 7819,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6364,
+      "stars": 6365,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "olekukonko/tablewriter",
       "url": "https://github.com/olekukonko/tablewriter",
-      "stars": 4826,
+      "stars": 4825,
       "language": "Go",
       "merged": 6,
       "latest": {
@@ -457,7 +457,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3129,
+      "stars": 3130,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -877,7 +877,7 @@
     {
       "name": "python-humanize/humanize",
       "url": "https://github.com/python-humanize/humanize",
-      "stars": 769,
+      "stars": 770,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -1129,7 +1129,7 @@
     {
       "name": "onurbaydas/VirtoMir",
       "url": "https://github.com/onurbaydas/VirtoMir",
-      "stars": 13,
+      "stars": 14,
       "language": "Go",
       "merged": 1,
       "latest": {
