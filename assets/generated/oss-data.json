@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 307295,
+      "stars": 307449,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122284,
+      "stars": 122302,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63562,
+      "stars": 63597,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47005,
+      "stars": 47011,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24394,
+      "stars": 24396,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24074,
+      "stars": 24077,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21356,
+      "stars": 21355,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19499,
+      "stars": 19500,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16324,
+      "stars": 16325,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16307,
+      "stars": 16311,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13859,
+      "stars": 13865,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6365,
+      "stars": 6366,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -527,7 +527,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2670,
+      "stars": 2671,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -597,7 +597,7 @@
     {
       "name": "gabriel-vasile/mimetype",
       "url": "https://github.com/gabriel-vasile/mimetype",
-      "stars": 2029,
+      "stars": 2030,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -667,7 +667,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1542,
+      "stars": 1543,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -681,7 +681,7 @@
     {
       "name": "bits-and-blooms/bitset",
       "url": "https://github.com/bits-and-blooms/bitset",
-      "stars": 1515,
+      "stars": 1514,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -961,7 +961,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 554,
+      "stars": 555,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1017,7 +1017,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 51,
+      "stars": 52,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
