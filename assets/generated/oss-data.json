@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-20",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 223,
-  "upstream_merged": 204,
-  "upstream_repositories": 92,
+  "total_merged": 224,
+  "upstream_merged": 205,
+  "upstream_repositories": 93,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 307449,
+      "stars": 307703,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122302,
+      "stars": 122318,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -35,9 +35,23 @@
       }
     },
     {
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "stars": 87283,
+      "language": "Rust",
+      "merged": 1,
+      "latest": {
+        "repository": "rtk-ai/rtk",
+        "number": 4047,
+        "title": "fix: refresh once-a-day marker files on Windows",
+        "url": "https://github.com/rtk-ai/rtk/pull/4047",
+        "merged_at": "2026-11-20T16:57:19Z"
+      }
+    },
+    {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63597,
+      "stars": 63617,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -51,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47011,
+      "stars": 47012,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24396,
+      "stars": 24401,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -93,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24077,
+      "stars": 24081,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -107,7 +121,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22294,
+      "stars": 22293,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -121,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21355,
+      "stars": 21360,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +149,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20240,
+      "stars": 20241,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -149,7 +163,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19500,
+      "stars": 19502,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -163,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16325,
+      "stars": 16328,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16311,
+      "stars": 16314,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13865,
+      "stars": 13869,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -219,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13429,
+      "stars": 13431,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -275,7 +289,7 @@
     {
       "name": "PyGithub/PyGithub",
       "url": "https://github.com/PyGithub/PyGithub",
-      "stars": 7819,
+      "stars": 7820,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +317,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6366,
+      "stars": 6367,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -527,7 +541,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2671,
+      "stars": 2672,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -611,7 +625,7 @@
     {
       "name": "r1chardj0n3s/parse",
       "url": "https://github.com/r1chardj0n3s/parse",
-      "stars": 1799,
+      "stars": 1800,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -961,7 +975,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 555,
+      "stars": 554,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1017,7 +1031,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 52,
+      "stars": 55,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -1296,6 +1310,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "rtk-ai/rtk",
+      "number": 4047,
+      "title": "fix: refresh once-a-day marker files on Windows",
+      "url": "https://github.com/rtk-ai/rtk/pull/4047",
+      "merged_at": "2026-11-20T16:57:19Z"
+    },
     {
       "repository": "PyGithub/PyGithub",
       "number": 3596,

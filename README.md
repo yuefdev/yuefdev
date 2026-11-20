@@ -36,13 +36,13 @@ My background in **automation, e-commerce and technical service** shapes how I b
 
 <!-- OSS:START -->
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=f062a7161c1f">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=f062a7161c1f">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=f062a7161c1f">
-  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=f062a7161c1f" alt="204 merged upstream PRs across 92 external projects; 223 total public merged PRs." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=537e75ad25ca">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=537e75ad25ca">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=537e75ad25ca">
+  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=537e75ad25ca" alt="205 merged upstream PRs across 93 external projects; 224 total public merged PRs." width="1200">
 </picture>
 
-[affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [immerjs/immer](https://github.com/immerjs/immer/pull/1334) · [uutils/coreutils](https://github.com/uutils/coreutils/pull/14565)
+[affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [rtk-ai/rtk](https://github.com/rtk-ai/rtk/pull/4047) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [immerjs/immer](https://github.com/immerjs/immer/pull/1334)
 
 <sub>Refreshed hourly by GitHub Actions. Upstream excludes my own repositories; counts cover all-time public merged PRs.</sub>
 
