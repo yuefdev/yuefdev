@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "period_start": "2026-06-01",
   "contribution_source": "https://github.com/yuefdev?tab=overview",
   "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
@@ -8,12 +8,12 @@
     "2026-06": 0,
     "2026-07": 0,
     "2026-08": 4,
-    "2026-09": 172,
+    "2026-09": 173,
     "2026-10": 564,
-    "2026-11": 28
+    "2026-11": 31
   },
-  "total_contributions": 768,
-  "active_days": 46,
+  "total_contributions": 772,
+  "active_days": 47,
   "language_scope": "GitHub language bytes across owned public, non-fork repositories with detected languages. Includes vendored or generated code counted by GitHub. Not a proficiency score.",
   "language_repositories": [
     "yuefdev/agent-lcd",
@@ -29,6 +29,7 @@
     "yuefdev/questbridge-amd",
     "yuefdev/riftengine",
     "yuefdev/riftroam-tracker-sync",
+    "yuefdev/ssd-sentinel",
     "yuefdev/statpcapp",
     "yuefdev/tidecut",
     "yuefdev/tr-slugify",
@@ -36,24 +37,24 @@
     "yuefdev/yuefdev.github.io"
   ],
   "language_bytes": {
-    "TypeScript": 2456165,
-    "Rust": 1780828,
+    "Rust": 2888574,
+    "TypeScript": 2748411,
     "Java": 1065339,
     "Svelte": 869795,
-    "HTML": 805388,
+    "HTML": 806119,
     "C#": 632327,
-    "CSS": 401522,
-    "JavaScript": 267194,
+    "CSS": 489681,
+    "JavaScript": 347212,
     "Python": 202263,
     "SCSS": 58566,
-    "PowerShell": 34388,
+    "PowerShell": 38224,
     "C": 24101,
     "C++": 23911,
     "Kotlin": 3408,
     "Ruby": 1431,
     "Swift": 1234,
+    "Batchfile": 808,
     "Go": 611,
-    "Batchfile": 444,
     "Dockerfile": 179
   }
 }
