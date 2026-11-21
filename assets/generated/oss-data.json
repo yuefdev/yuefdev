@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 307852,
+      "stars": 307986,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122315,
+      "stars": 122316,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87305,
+      "stars": 87328,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63626,
+      "stars": 63639,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47019,
+      "stars": 47021,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24405,
+      "stars": 24407,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21363,
+      "stars": 21365,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19502,
+      "stars": 19503,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16329,
+      "stars": 16333,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13872,
+      "stars": 13873,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13431,
+      "stars": 13432,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7521,
+      "stars": 7522,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -429,7 +429,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3819,
+      "stars": 3820,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -541,7 +541,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2672,
+      "stars": 2673,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -821,7 +821,7 @@
     {
       "name": "cloudwego/sonic-rs",
       "url": "https://github.com/cloudwego/sonic-rs",
-      "stars": 943,
+      "stars": 945,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -1031,7 +1031,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 56,
+      "stars": 57,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -1073,7 +1073,7 @@
     {
       "name": "wmentor/go-magnetar",
       "url": "https://github.com/wmentor/go-magnetar",
-      "stars": 29,
+      "stars": 30,
       "language": "Go",
       "merged": 1,
       "latest": {
