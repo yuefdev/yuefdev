@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 224,
   "upstream_merged": 205,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 309007,
+      "stars": 309184,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122407,
+      "stars": 122429,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87507,
+      "stars": 87534,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63715,
+      "stars": 63742,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47039,
+      "stars": 47043,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29004,
+      "stars": 29005,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24429,
+      "stars": 24432,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24089,
+      "stars": 24091,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21382,
+      "stars": 21386,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20242,
+      "stars": 20241,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16326,
+      "stars": 16328,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14995,
+      "stars": 14994,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13888,
+      "stars": 13889,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10033,
+      "stars": 10034,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -317,7 +317,7 @@
     {
       "name": "caarlos0/env",
       "url": "https://github.com/caarlos0/env",
-      "stars": 6366,
+      "stars": 6365,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -387,7 +387,7 @@
     {
       "name": "olekukonko/tablewriter",
       "url": "https://github.com/olekukonko/tablewriter",
-      "stars": 4825,
+      "stars": 4824,
       "language": "Go",
       "merged": 6,
       "latest": {
@@ -639,7 +639,7 @@
     {
       "name": "huandu/go-sqlbuilder",
       "url": "https://github.com/huandu/go-sqlbuilder",
-      "stars": 1732,
+      "stars": 1731,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -751,7 +751,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1200,
+      "stars": 1201,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -1017,7 +1017,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 157,
+      "stars": 158,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -1031,7 +1031,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 61,
+      "stars": 67,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
