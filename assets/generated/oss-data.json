@@ -2,14 +2,14 @@
   "username": "yuefdev",
   "updated": "2026-11-23",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
-  "total_merged": 224,
-  "upstream_merged": 205,
-  "upstream_repositories": 93,
+  "total_merged": 225,
+  "upstream_merged": 206,
+  "upstream_repositories": 94,
   "repositories": [
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 309184,
+      "stars": 309489,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122429,
+      "stars": 122306,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87534,
+      "stars": 87596,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63742,
+      "stars": 63776,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47043,
+      "stars": 47053,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24432,
+      "stars": 24440,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24091,
+      "stars": 24095,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22293,
+      "stars": 22292,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21386,
+      "stars": 21392,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20241,
+      "stars": 20244,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19502,
+      "stars": 19503,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16345,
+      "stars": 16341,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16328,
+      "stars": 16332,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14994,
+      "stars": 14995,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13889,
+      "stars": 13893,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13433,
+      "stars": 13434,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -275,7 +275,7 @@
     {
       "name": "sqlfluff/sqlfluff",
       "url": "https://github.com/sqlfluff/sqlfluff",
-      "stars": 10034,
+      "stars": 10035,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7526,
+      "stars": 7527,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5085,
+      "stars": 5086,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3983,
+      "stars": 3984,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -485,7 +485,7 @@
     {
       "name": "lepture/mistune",
       "url": "https://github.com/lepture/mistune",
-      "stars": 3087,
+      "stars": 3086,
       "language": "Python",
       "merged": 3,
       "latest": {
@@ -541,7 +541,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2677,
+      "stars": 2678,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -737,7 +737,7 @@
     {
       "name": "mvdan/xurls",
       "url": "https://github.com/mvdan/xurls",
-      "stars": 1265,
+      "stars": 1264,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -751,7 +751,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1201,
+      "stars": 1202,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -931,20 +931,6 @@
       }
     },
     {
-      "name": "bmatcuk/doublestar",
-      "url": "https://github.com/bmatcuk/doublestar",
-      "stars": 727,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "bmatcuk/doublestar",
-        "number": 125,
-        "title": "fix: preserve segment position across brace alternatives",
-        "url": "https://github.com/bmatcuk/doublestar/pull/125",
-        "merged_at": "2026-10-24T13:18:25Z"
-      }
-    },
-    {
       "name": "mattn/go-runewidth",
       "url": "https://github.com/mattn/go-runewidth",
       "stars": 727,
@@ -959,6 +945,20 @@
       }
     },
     {
+      "name": "bmatcuk/doublestar",
+      "url": "https://github.com/bmatcuk/doublestar",
+      "stars": 726,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "bmatcuk/doublestar",
+        "number": 125,
+        "title": "fix: preserve segment position across brace alternatives",
+        "url": "https://github.com/bmatcuk/doublestar/pull/125",
+        "merged_at": "2026-10-24T13:18:25Z"
+      }
+    },
+    {
       "name": "smallnest/ringbuffer",
       "url": "https://github.com/smallnest/ringbuffer",
       "stars": 651,
@@ -970,6 +970,20 @@
         "title": "Honour write timeouts without closing the buffer",
         "url": "https://github.com/smallnest/ringbuffer/pull/37",
         "merged_at": "2026-10-19T02:35:29Z"
+      }
+    },
+    {
+      "name": "wI2L/jsondiff",
+      "url": "https://github.com/wI2L/jsondiff",
+      "stars": 632,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "wI2L/jsondiff",
+        "number": 57,
+        "title": "Preserve ignored descendants during rationalisation",
+        "url": "https://github.com/wI2L/jsondiff/pull/57",
+        "merged_at": "2026-11-23T13:40:49Z"
       }
     },
     {
@@ -1031,7 +1045,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 67,
+      "stars": 70,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
@@ -1155,6 +1169,20 @@
       }
     },
     {
+      "name": "fleetpilot-dev/FleetPilot",
+      "url": "https://github.com/fleetpilot-dev/FleetPilot",
+      "stars": 8,
+      "language": "Python",
+      "merged": 2,
+      "latest": {
+        "repository": "fleetpilot-dev/FleetPilot",
+        "number": 140,
+        "title": "Add a report of missing template translations",
+        "url": "https://github.com/fleetpilot-dev/FleetPilot/pull/140",
+        "merged_at": "2026-10-18T10:16:06Z"
+      }
+    },
+    {
       "name": "404-PF/New-Tab",
       "url": "https://github.com/404-PF/New-Tab",
       "stars": 7,
@@ -1166,20 +1194,6 @@
         "title": "fix: complete offline source unit conversions",
         "url": "https://github.com/404-PF/New-Tab/pull/849",
         "merged_at": "2026-10-18T00:57:04Z"
-      }
-    },
-    {
-      "name": "fleetpilot-dev/FleetPilot",
-      "url": "https://github.com/fleetpilot-dev/FleetPilot",
-      "stars": 7,
-      "language": "Python",
-      "merged": 2,
-      "latest": {
-        "repository": "fleetpilot-dev/FleetPilot",
-        "number": 140,
-        "title": "Add a report of missing template translations",
-        "url": "https://github.com/fleetpilot-dev/FleetPilot/pull/140",
-        "merged_at": "2026-10-18T10:16:06Z"
       }
     },
     {
@@ -1310,6 +1324,13 @@
     }
   ],
   "pull_requests": [
+    {
+      "repository": "wI2L/jsondiff",
+      "number": 57,
+      "title": "Preserve ignored descendants during rationalisation",
+      "url": "https://github.com/wI2L/jsondiff/pull/57",
+      "merged_at": "2026-11-23T13:40:49Z"
+    },
     {
       "repository": "rtk-ai/rtk",
       "number": 4047,
