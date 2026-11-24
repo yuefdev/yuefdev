@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 225,
   "upstream_merged": 206,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 309489,
+      "stars": 309672,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122306,
+      "stars": 122330,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87596,
+      "stars": 87627,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63776,
+      "stars": 63785,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47053,
+      "stars": 47057,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24440,
+      "stars": 24441,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24095,
+      "stars": 24094,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22292,
+      "stars": 22291,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21392,
+      "stars": 21394,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19503,
+      "stars": 19504,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16332,
+      "stars": 16337,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -205,7 +205,7 @@
     {
       "name": "PuerkitoBio/goquery",
       "url": "https://github.com/PuerkitoBio/goquery",
-      "stars": 14995,
+      "stars": 14996,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13893,
+      "stars": 13897,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7527,
+      "stars": 7529,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5086,
+      "stars": 5087,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -723,7 +723,7 @@
     {
       "name": "huandu/xstrings",
       "url": "https://github.com/huandu/xstrings",
-      "stars": 1413,
+      "stars": 1414,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -751,7 +751,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1202,
+      "stars": 1203,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -931,6 +931,20 @@
       }
     },
     {
+      "name": "bmatcuk/doublestar",
+      "url": "https://github.com/bmatcuk/doublestar",
+      "stars": 727,
+      "language": "Go",
+      "merged": 1,
+      "latest": {
+        "repository": "bmatcuk/doublestar",
+        "number": 125,
+        "title": "fix: preserve segment position across brace alternatives",
+        "url": "https://github.com/bmatcuk/doublestar/pull/125",
+        "merged_at": "2026-10-24T13:18:25Z"
+      }
+    },
+    {
       "name": "mattn/go-runewidth",
       "url": "https://github.com/mattn/go-runewidth",
       "stars": 727,
@@ -942,20 +956,6 @@
         "title": "Avoid padding overflow for negative widths",
         "url": "https://github.com/mattn/go-runewidth/pull/120",
         "merged_at": "2026-11-17T07:50:12Z"
-      }
-    },
-    {
-      "name": "bmatcuk/doublestar",
-      "url": "https://github.com/bmatcuk/doublestar",
-      "stars": 726,
-      "language": "Go",
-      "merged": 1,
-      "latest": {
-        "repository": "bmatcuk/doublestar",
-        "number": 125,
-        "title": "fix: preserve segment position across brace alternatives",
-        "url": "https://github.com/bmatcuk/doublestar/pull/125",
-        "merged_at": "2026-10-24T13:18:25Z"
       }
     },
     {
@@ -1031,7 +1031,7 @@
     {
       "name": "tracel-ai/burn-onnx",
       "url": "https://github.com/tracel-ai/burn-onnx",
-      "stars": 158,
+      "stars": 159,
       "language": "Rust",
       "merged": 3,
       "latest": {
@@ -1045,7 +1045,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 70,
+      "stars": 71,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
