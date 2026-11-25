@@ -31,10 +31,10 @@
 
 <!-- OSS:START -->
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=899de82516d6">
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=899de82516d6">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=899de82516d6">
-  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=899de82516d6" alt="206 merged upstream PRs across 94 external projects; 225 total public merged PRs." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark-mobile.svg?v=03acbba2557e">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light-mobile.svg?v=03acbba2557e">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-dark.svg?v=03acbba2557e">
+  <img src="https://raw.githubusercontent.com/yuefdev/yuefdev/main/assets/generated/oss-light.svg?v=03acbba2557e" alt="206 merged upstream PRs across 94 external projects; 225 total public merged PRs." width="1200">
 </picture>
 
 [affaan-m/ECC](https://github.com/affaan-m/ECC/pull/3115) · [rust-lang/rust](https://github.com/rust-lang/rust/pull/162722) · [rtk-ai/rtk](https://github.com/rtk-ai/rtk/pull/4047) · [BerriAI/litellm](https://github.com/BerriAI/litellm/pull/41677) · [jgm/pandoc](https://github.com/jgm/pandoc/pull/11873) · [immerjs/immer](https://github.com/immerjs/immer/pull/1334)
