@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 310427,
+      "stars": 310646,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122418,
+      "stars": 122458,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87766,
+      "stars": 87820,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63872,
+      "stars": 63903,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47078,
+      "stars": 47082,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24097,
+      "stars": 24099,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21413,
+      "stars": 21416,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20248,
+      "stars": 20250,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -163,7 +163,7 @@
     {
       "name": "joke2k/faker",
       "url": "https://github.com/joke2k/faker",
-      "stars": 19504,
+      "stars": 19505,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16352,
+      "stars": 16357,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16346,
+      "stars": 16348,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13915,
+      "stars": 13921,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13435,
+      "stars": 13437,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12432,
+      "stars": 12434,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -331,7 +331,7 @@
     {
       "name": "pylint-dev/pylint",
       "url": "https://github.com/pylint-dev/pylint",
-      "stars": 5750,
+      "stars": 5749,
       "language": "Python",
       "merged": 2,
       "latest": {
@@ -373,7 +373,7 @@
     {
       "name": "alecthomas/chroma",
       "url": "https://github.com/alecthomas/chroma",
-      "stars": 5088,
+      "stars": 5089,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3136,
+      "stars": 3137,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -751,7 +751,7 @@
     {
       "name": "dlclark/regexp2",
       "url": "https://github.com/dlclark/regexp2",
-      "stars": 1204,
+      "stars": 1205,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -891,7 +891,7 @@
     {
       "name": "python-humanize/humanize",
       "url": "https://github.com/python-humanize/humanize",
-      "stars": 769,
+      "stars": 770,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -947,7 +947,7 @@
     {
       "name": "mattn/go-runewidth",
       "url": "https://github.com/mattn/go-runewidth",
-      "stars": 727,
+      "stars": 726,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1003,7 +1003,7 @@
     {
       "name": "etemesi254/zune-image",
       "url": "https://github.com/etemesi254/zune-image",
-      "stars": 509,
+      "stars": 510,
       "language": "Rust",
       "merged": 2,
       "latest": {
@@ -1169,6 +1169,20 @@
       }
     },
     {
+      "name": "404-PF/New-Tab",
+      "url": "https://github.com/404-PF/New-Tab",
+      "stars": 8,
+      "language": "JavaScript",
+      "merged": 1,
+      "latest": {
+        "repository": "404-PF/New-Tab",
+        "number": 849,
+        "title": "fix: complete offline source unit conversions",
+        "url": "https://github.com/404-PF/New-Tab/pull/849",
+        "merged_at": "2026-10-18T00:57:04Z"
+      }
+    },
+    {
       "name": "fleetpilot-dev/FleetPilot",
       "url": "https://github.com/fleetpilot-dev/FleetPilot",
       "stars": 8,
@@ -1180,20 +1194,6 @@
         "title": "Add a report of missing template translations",
         "url": "https://github.com/fleetpilot-dev/FleetPilot/pull/140",
         "merged_at": "2026-10-18T10:16:06Z"
-      }
-    },
-    {
-      "name": "404-PF/New-Tab",
-      "url": "https://github.com/404-PF/New-Tab",
-      "stars": 7,
-      "language": "JavaScript",
-      "merged": 1,
-      "latest": {
-        "repository": "404-PF/New-Tab",
-        "number": 849,
-        "title": "fix: complete offline source unit conversions",
-        "url": "https://github.com/404-PF/New-Tab/pull/849",
-        "merged_at": "2026-10-18T00:57:04Z"
       }
     },
     {
