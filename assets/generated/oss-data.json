@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 225,
   "upstream_merged": 206,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 310646,
+      "stars": 310778,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122458,
+      "stars": 122491,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87820,
+      "stars": 87850,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63903,
+      "stars": 63924,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47082,
+      "stars": 47089,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24445,
+      "stars": 24448,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24099,
+      "stars": 24100,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -121,7 +121,7 @@
     {
       "name": "redis/go-redis",
       "url": "https://github.com/redis/go-redis",
-      "stars": 22287,
+      "stars": 22288,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21416,
+      "stars": 21422,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -149,7 +149,7 @@
     {
       "name": "go-playground/validator",
       "url": "https://github.com/go-playground/validator",
-      "stars": 20250,
+      "stars": 20251,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16357,
+      "stars": 16359,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16348,
+      "stars": 16350,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13921,
+      "stars": 13925,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13437,
+      "stars": 13438,
       "language": "Java",
       "merged": 1,
       "latest": {
@@ -247,7 +247,7 @@
     {
       "name": "orhun/git-cliff",
       "url": "https://github.com/orhun/git-cliff",
-      "stars": 12434,
+      "stars": 12435,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -289,7 +289,7 @@
     {
       "name": "PyGithub/PyGithub",
       "url": "https://github.com/PyGithub/PyGithub",
-      "stars": 7822,
+      "stars": 7823,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -303,7 +303,7 @@
     {
       "name": "shopspring/decimal",
       "url": "https://github.com/shopspring/decimal",
-      "stars": 7530,
+      "stars": 7529,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -359,7 +359,7 @@
     {
       "name": "dromara/carbon",
       "url": "https://github.com/dromara/carbon",
-      "stars": 5225,
+      "stars": 5226,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -415,7 +415,7 @@
     {
       "name": "tox-dev/tox",
       "url": "https://github.com/tox-dev/tox",
-      "stars": 3984,
+      "stars": 3985,
       "language": "Python",
       "merged": 4,
       "latest": {
@@ -513,7 +513,7 @@
     {
       "name": "kayak/pypika",
       "url": "https://github.com/kayak/pypika",
-      "stars": 2924,
+      "stars": 2925,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -527,7 +527,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2787,
+      "stars": 2788,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -541,7 +541,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2678,
+      "stars": 2679,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -681,7 +681,7 @@
     {
       "name": "DLTcollab/sse2neon",
       "url": "https://github.com/DLTcollab/sse2neon",
-      "stars": 1543,
+      "stars": 1544,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -779,7 +779,7 @@
     {
       "name": "tox-dev/platformdirs",
       "url": "https://github.com/tox-dev/platformdirs",
-      "stars": 1010,
+      "stars": 1011,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -975,7 +975,7 @@
     {
       "name": "wI2L/jsondiff",
       "url": "https://github.com/wI2L/jsondiff",
-      "stars": 632,
+      "stars": 633,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -1003,7 +1003,7 @@
     {
       "name": "etemesi254/zune-image",
       "url": "https://github.com/etemesi254/zune-image",
-      "stars": 510,
+      "stars": 511,
       "language": "Rust",
       "merged": 2,
       "latest": {
