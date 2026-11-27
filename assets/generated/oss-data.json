@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 311385,
+      "stars": 311605,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122558,
+      "stars": 122590,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 87969,
+      "stars": 88021,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 63979,
+      "stars": 64020,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47100,
+      "stars": 47107,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -79,7 +79,7 @@
     {
       "name": "immerjs/immer",
       "url": "https://github.com/immerjs/immer",
-      "stars": 29004,
+      "stars": 29003,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -93,7 +93,7 @@
     {
       "name": "uutils/coreutils",
       "url": "https://github.com/uutils/coreutils",
-      "stars": 24450,
+      "stars": 24452,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24103,
+      "stars": 24106,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21431,
+      "stars": 21435,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16369,
+      "stars": 16371,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16358,
+      "stars": 16362,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13934,
+      "stars": 13940,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -429,7 +429,7 @@
     {
       "name": "itchyny/gojq",
       "url": "https://github.com/itchyny/gojq",
-      "stars": 3821,
+      "stars": 3823,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -471,7 +471,7 @@
     {
       "name": "sonos/tract",
       "url": "https://github.com/sonos/tract",
-      "stars": 3138,
+      "stars": 3140,
       "language": "Rust",
       "merged": 10,
       "latest": {
@@ -527,7 +527,7 @@
     {
       "name": "spf13/pflag",
       "url": "https://github.com/spf13/pflag",
-      "stars": 2788,
+      "stars": 2789,
       "language": "Go",
       "merged": 2,
       "latest": {
@@ -541,7 +541,7 @@
     {
       "name": "raspberrypi/rpi-imager",
       "url": "https://github.com/raspberrypi/rpi-imager",
-      "stars": 2683,
+      "stars": 2684,
       "language": "C++",
       "merged": 2,
       "latest": {
@@ -583,7 +583,7 @@
     {
       "name": "gocarina/gocsv",
       "url": "https://github.com/gocarina/gocsv",
-      "stars": 2203,
+      "stars": 2204,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -765,7 +765,7 @@
     {
       "name": "paulmach/orb",
       "url": "https://github.com/paulmach/orb",
-      "stars": 1143,
+      "stars": 1144,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -779,7 +779,7 @@
     {
       "name": "tox-dev/platformdirs",
       "url": "https://github.com/tox-dev/platformdirs",
-      "stars": 1011,
+      "stars": 1012,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -947,7 +947,7 @@
     {
       "name": "mattn/go-runewidth",
       "url": "https://github.com/mattn/go-runewidth",
-      "stars": 727,
+      "stars": 728,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -989,7 +989,7 @@
     {
       "name": "CoWork-OS/CoWork-OS",
       "url": "https://github.com/CoWork-OS/CoWork-OS",
-      "stars": 554,
+      "stars": 555,
       "language": "TypeScript",
       "merged": 2,
       "latest": {
@@ -1045,7 +1045,7 @@
     {
       "name": "wassim-azi/agy-powerline",
       "url": "https://github.com/wassim-azi/agy-powerline",
-      "stars": 80,
+      "stars": 85,
       "language": "JavaScript",
       "merged": 3,
       "latest": {
