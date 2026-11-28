@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "scope": "All-time public merged PRs authored by yuefdev. Upstream excludes repositories owned by yuefdev. Featured projects are ordered by GitHub stars, not a measure of contribution size.",
   "total_merged": 225,
   "upstream_merged": 206,
@@ -9,7 +9,7 @@
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "stars": 311823,
+      "stars": 311966,
       "language": "JavaScript",
       "merged": 1,
       "latest": {
@@ -23,7 +23,7 @@
     {
       "name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
-      "stars": 122532,
+      "stars": 122440,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -37,7 +37,7 @@
     {
       "name": "rtk-ai/rtk",
       "url": "https://github.com/rtk-ai/rtk",
-      "stars": 88045,
+      "stars": 88058,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -51,7 +51,7 @@
     {
       "name": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
-      "stars": 64039,
+      "stars": 64049,
       "language": "Python",
       "merged": 1,
       "latest": {
@@ -65,7 +65,7 @@
     {
       "name": "jgm/pandoc",
       "url": "https://github.com/jgm/pandoc",
-      "stars": 47110,
+      "stars": 47112,
       "language": "Haskell",
       "merged": 1,
       "latest": {
@@ -107,7 +107,7 @@
     {
       "name": "Tencent/ncnn",
       "url": "https://github.com/Tencent/ncnn",
-      "stars": 24109,
+      "stars": 24110,
       "language": "C++",
       "merged": 1,
       "latest": {
@@ -135,7 +135,7 @@
     {
       "name": "huggingface/candle",
       "url": "https://github.com/huggingface/candle",
-      "stars": 21436,
+      "stars": 21437,
       "language": "Rust",
       "merged": 1,
       "latest": {
@@ -177,7 +177,7 @@
     {
       "name": "mikefarah/yq",
       "url": "https://github.com/mikefarah/yq",
-      "stars": 16374,
+      "stars": 16372,
       "language": "Go",
       "merged": 1,
       "latest": {
@@ -191,7 +191,7 @@
     {
       "name": "tracel-ai/burn",
       "url": "https://github.com/tracel-ai/burn",
-      "stars": 16363,
+      "stars": 16364,
       "language": "Rust",
       "merged": 4,
       "latest": {
@@ -219,7 +219,7 @@
     {
       "name": "anomalyco/opentui",
       "url": "https://github.com/anomalyco/opentui",
-      "stars": 13941,
+      "stars": 13940,
       "language": "TypeScript",
       "merged": 1,
       "latest": {
@@ -233,7 +233,7 @@
     {
       "name": "plantuml/plantuml",
       "url": "https://github.com/plantuml/plantuml",
-      "stars": 13446,
+      "stars": 13447,
       "language": "Java",
       "merged": 1,
       "latest": {
