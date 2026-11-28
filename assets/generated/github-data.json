@@ -1,6 +1,6 @@
 {
   "username": "yuefdev",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "period_start": "2026-06-01",
   "contribution_source": "https://github.com/yuefdev?tab=overview",
   "contribution_scope": "Counts visible on the public GitHub calendar; current month is partial. These can include anonymized private counts if enabled by the profile owner.",
@@ -10,10 +10,10 @@
     "2026-08": 4,
     "2026-09": 173,
     "2026-10": 561,
-    "2026-11": 40
+    "2026-11": 47
   },
-  "total_contributions": 778,
-  "active_days": 51,
+  "total_contributions": 785,
+  "active_days": 52,
   "language_scope": "GitHub language bytes across owned public, non-fork repositories with detected languages. Includes vendored or generated code counted by GitHub. Not a proficiency score.",
   "language_repositories": [
     "yuefdev/agent-lcd",
@@ -37,19 +37,20 @@
     "yuefdev/yuefdev.github.io"
   ],
   "language_bytes": {
-    "Rust": 3050165,
-    "TypeScript": 2813102,
+    "Rust": 3630456,
+    "TypeScript": 2934983,
     "Java": 1065339,
-    "HTML": 889640,
+    "HTML": 895952,
     "Svelte": 869795,
     "C#": 632327,
-    "CSS": 508396,
-    "JavaScript": 372246,
+    "CSS": 513961,
+    "JavaScript": 475892,
     "Python": 202263,
     "SCSS": 58566,
-    "PowerShell": 43094,
+    "PowerShell": 52989,
     "C": 24101,
     "C++": 23911,
+    "Shell": 12743,
     "Kotlin": 3408,
     "Ruby": 1431,
     "Swift": 1234,
